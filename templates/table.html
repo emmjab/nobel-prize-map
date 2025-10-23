@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nobel Prize Winners - Table View</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/table.css') }}">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🏆 Nobel Prize Winners</h1>
+            <div class="nav-links">
+                <a href="/" class="nav-link">Map View</a>
+                <a href="/table" class="nav-link active">Table View</a>
+            </div>
+        </header>
+
+        <div class="table-container">
+            <div class="table-controls">
+                <input type="text" id="search" placeholder="Search by name, location, or achievement..." class="search-box">
+                <select id="category-filter" class="filter-select">
+                    <option value="">All Categories</option>
+                    {% for key, name in categories.items() %}
+                    <option value="{{ key }}">{{ name }}</option>
+                    {% endfor %}
+                </select>
+                <select id="year-sort" class="filter-select">
+                    <option value="desc">Newest First</option>
+                    <option value="asc">Oldest First</option>
+                </select>
+            </div>
+
+            <div class="stats">
+                <span id="total-count">Total: {{ laureates|length }} laureates</span>
+            </div>
+
+            <table id="laureates-table">
+                <thead>
+                    <tr>
+                        <th>Year</th>
+                        <th>Category</th>
+                        <th>Name</th>
+                        <th>Birth Location</th>
+                        <th>Work Location</th>
+                        <th>Work Years</th>
+                        <th>Achievement</th>
+                        <th>Shared With</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for laureate in laureates %}
+                    <tr data-category="{{ laureate.category_key }}" data-year="{{ laureate.prize_year }}">
+                        <td class="year-cell">{{ laureate.prize_year }}</td>
+                        <td class="category-cell">
+                            <span class="category-badge category-{{ laureate.category_key }}">
+                                {{ laureate.category }}
+                            </span>
+                        </td>
+                        <td class="name-cell">{{ laureate.name }}</td>
+                        <td class="location-cell">📍 {{ laureate.birth_location }}</td>
+                        <td class="location-cell">🔬 {{ laureate.work_location }}</td>
+                        <td class="years-cell">{{ laureate.work_years }}</td>
+                        <td class="achievement-cell">{{ laureate.achievement }}</td>
+                        <td class="shared-cell">{{ laureate.co_laureate_names }}</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/table.js') }}"></script>
+</body>
+</html>

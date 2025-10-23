@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nobel Prize Map Explorer</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🏆 Nobel Prize Map Explorer</h1>
+            <p class="subtitle">Explore where Nobel Prize winners did their groundbreaking work</p>
+            <div class="nav-links">
+                <a href="/" class="nav-link active">Map View</a>
+                <a href="/table" class="nav-link">Table View</a>
+            </div>
+            <div class="selector">
+                <label for="category-select">Choose a category:</label>
+                <select id="category-select">
+                    <option value="">-- Select a category --</option>
+                    {% for key, name in categories.items() %}
+                    <option value="{{ key }}">{{ name }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+        </header>
+
+        <div class="content">
+            <div class="info-panel">
+                <h2 id="info-title">Laureates</h2>
+                <div id="laureate-info" class="info-content">
+                    <p class="placeholder">Select a category to explore Nobel Prize winners</p>
+                </div>
+            </div>
+
+            <div class="map-section">
+                <div id="map"></div>
+                <div class="legend">
+                    <h3>Legend</h3>
+                    <div class="legend-item">
+                        <span class="legend-marker work-marker"></span>
+                        <span>Work Location</span>
+                    </div>
+                    <div class="legend-item">
+                        <span class="legend-marker birth-marker"></span>
+                        <span>Birth Location</span>
+                    </div>
+                    <div class="legend-item">
+                        <span class="legend-line"></span>
+                        <span>Shared Prize Connection</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="{{ url_for('static', filename='js/app.js') }}"></script>
+</body>
+</html>

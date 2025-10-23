@@ -1,0 +1,397 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: #333;
+    min-height: 100vh;
+}
+
+.container {
+    max-width: 1800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    background: white;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.subtitle {
+    color: #666;
+    font-size: 1.1rem;
+    margin-bottom: 15px;
+}
+
+.nav-links {
+    display: flex;
+    gap: 15px;
+    margin-bottom: 20px;
+}
+
+.nav-link {
+    padding: 10px 20px;
+    border-radius: 6px;
+    text-decoration: none;
+    color: #667eea;
+    font-weight: 500;
+    transition: all 0.3s;
+    border: 2px solid #667eea;
+}
+
+.nav-link:hover {
+    background: #667eea;
+    color: white;
+}
+
+.nav-link.active {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    border-color: transparent;
+}
+
+.selector {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.selector label {
+    font-weight: 600;
+    color: #555;
+}
+
+#category-select {
+    padding: 12px 20px;
+    font-size: 1rem;
+    border: 2px solid #ddd;
+    border-radius: 8px;
+    background: white;
+    cursor: pointer;
+    transition: all 0.3s;
+    min-width: 250px;
+}
+
+#category-select:hover {
+    border-color: #667eea;
+}
+
+#category-select:focus {
+    outline: none;
+    border-color: #667eea;
+    box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+}
+
+.content {
+    display: grid;
+    grid-template-columns: 400px 1fr;
+    gap: 20px;
+    height: calc(100vh - 250px);
+}
+
+.info-panel {
+    background: white;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    overflow-y: auto;
+}
+
+#info-title {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+    color: #2c3e50;
+    border-bottom: 3px solid #667eea;
+    padding-bottom: 10px;
+}
+
+.info-content {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.placeholder {
+    color: #999;
+    font-style: italic;
+    text-align: center;
+    padding: 40px 20px;
+}
+
+.laureate-card {
+    padding: 20px;
+    border-left: 4px solid #667eea;
+    background: linear-gradient(to right, #f8f9fa, white);
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.laureate-card:hover {
+    background: linear-gradient(to right, #e3e9fd, #f0f3ff);
+    border-left-color: #764ba2;
+    transform: translateX(5px);
+    box-shadow: 0 2px 8px rgba(102, 126, 234, 0.2);
+}
+
+.laureate-card.active {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    border-left-color: #4c3a7c;
+}
+
+.laureate-name {
+    font-size: 1.3rem;
+    font-weight: bold;
+    margin-bottom: 8px;
+    color: #667eea;
+}
+
+.laureate-card.active .laureate-name {
+    color: white;
+}
+
+.laureate-year {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: #764ba2;
+    margin-bottom: 8px;
+}
+
+.laureate-card.active .laureate-year {
+    color: rgba(255, 255, 255, 0.95);
+}
+
+.laureate-achievement {
+    font-size: 0.95rem;
+    color: #555;
+    margin-bottom: 12px;
+    line-height: 1.4;
+}
+
+.laureate-card.active .laureate-achievement {
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.laureate-locations {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    font-size: 0.9rem;
+}
+
+.location-item {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    color: #666;
+}
+
+.laureate-card.active .location-item {
+    color: rgba(255, 255, 255, 0.85);
+}
+
+.location-icon {
+    font-size: 1rem;
+}
+
+.shared-info {
+    margin-top: 10px;
+    padding-top: 10px;
+    border-top: 1px solid #ddd;
+    font-size: 0.85rem;
+    color: #777;
+    font-style: italic;
+}
+
+.laureate-card.active .shared-info {
+    border-top-color: rgba(255, 255, 255, 0.3);
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.co-laureate-link {
+    color: #667eea;
+    text-decoration: none;
+    font-weight: 500;
+    transition: all 0.2s;
+}
+
+.co-laureate-link:hover {
+    text-decoration: underline;
+    color: #764ba2;
+}
+
+.laureate-card.active .co-laureate-link {
+    color: rgba(255, 255, 255, 0.95);
+    text-decoration: underline;
+}
+
+.map-section {
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    overflow: hidden;
+    position: relative;
+}
+
+#map {
+    width: 100%;
+    height: 100%;
+    min-height: 500px;
+}
+
+.legend {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    background: white;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+    z-index: 1000;
+}
+
+.legend h3 {
+    font-size: 0.9rem;
+    margin-bottom: 10px;
+    color: #2c3e50;
+}
+
+.legend-item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 8px;
+    font-size: 0.85rem;
+}
+
+.legend-marker {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    border: 2px solid white;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+}
+
+.work-marker {
+    background: #667eea;
+}
+
+.birth-marker {
+    background: #48bb78;
+}
+
+.legend-line {
+    width: 30px;
+    height: 3px;
+    background: #764ba2;
+    opacity: 0.6;
+}
+
+/* Custom Leaflet popup styles */
+.leaflet-popup-content-wrapper {
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+.popup-content {
+    padding: 5px;
+    min-width: 250px;
+}
+
+.popup-name {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #667eea;
+    margin-bottom: 8px;
+}
+
+.popup-year {
+    font-size: 1rem;
+    font-weight: 600;
+    color: #764ba2;
+    margin-bottom: 8px;
+}
+
+.popup-section {
+    margin-bottom: 10px;
+}
+
+.popup-label {
+    font-weight: 600;
+    color: #555;
+    font-size: 0.85rem;
+    margin-bottom: 3px;
+}
+
+.popup-value {
+    color: #666;
+    font-size: 0.9rem;
+    margin-bottom: 8px;
+}
+
+.popup-achievement {
+    font-size: 0.9rem;
+    color: #555;
+    line-height: 1.4;
+    margin-bottom: 8px;
+}
+
+.popup-shared {
+    font-size: 0.85rem;
+    color: #777;
+    font-style: italic;
+    margin-top: 8px;
+    padding-top: 8px;
+    border-top: 1px solid #ddd;
+}
+
+.popup-link {
+    color: #667eea;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.popup-link:hover {
+    text-decoration: underline;
+    color: #764ba2;
+}
+
+/* Responsive design */
+@media (max-width: 1200px) {
+    .content {
+        grid-template-columns: 1fr;
+        height: auto;
+    }
+
+    .info-panel {
+        max-height: 400px;
+    }
+
+    #map {
+        min-height: 500px;
+    }
+
+    .legend {
+        bottom: 10px;
+        right: 10px;
+        font-size: 0.8rem;
+    }
+}
