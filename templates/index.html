@@ -11,19 +11,29 @@
     <div class="container">
         <header>
             <h1>🏆 Nobel Prize Map Explorer</h1>
-            <p class="subtitle">Explore where Nobel Prize winners did their groundbreaking work</p>
+            <p class="subtitle">Explore where Nobel Prize winners did their groundbreaking work • <a href="/" class="about-link">made by 🐧</a></p>
             <div class="nav-links">
                 <a href="/" class="nav-link active">Map View</a>
                 <a href="/table" class="nav-link">Table View</a>
             </div>
             <div class="selector">
                 <label for="category-select">Choose a category:</label>
-                <select id="category-select">
-                    <option value="">-- Select a category --</option>
-                    {% for key, name in categories.items() %}
-                    <option value="{{ key }}">{{ name }}</option>
-                    {% endfor %}
+                <select id="category-select" class="category-select-colored">
+                    <option value="all" selected>All Categories</option>
+                    <option value="physics" data-color="#667eea">Physics</option>
+                    <option value="chemistry" data-color="#f093fb">Chemistry</option>
+                    <option value="medicine" data-color="#4facfe">Physiology or Medicine</option>
+                    <option value="literature" data-color="#43e97b">Literature</option>
+                    <option value="peace" data-color="#fa709a">Peace</option>
+                    <option value="economics" data-color="#feca57">Economic Sciences</option>
                 </select>
+            </div>
+            <div class="search-container" id="search-container" style="display: none;">
+                <label for="laureate-search">Search laureate:</label>
+                <div class="search-input-wrapper">
+                    <input type="text" id="laureate-search" placeholder="Search by name..." autocomplete="off">
+                    <div id="search-suggestions" class="search-suggestions"></div>
+                </div>
             </div>
         </header>
 
@@ -31,7 +41,7 @@
             <div class="info-panel">
                 <h2 id="info-title">Laureates</h2>
                 <div id="laureate-info" class="info-content">
-                    <p class="placeholder">Select a category to explore Nobel Prize winners</p>
+                    <p class="placeholder">Loading Nobel Prize winners...</p>
                 </div>
             </div>
 
@@ -40,7 +50,7 @@
                 <div class="legend">
                     <h3>Legend</h3>
                     <div class="legend-item">
-                        <span class="legend-marker work-marker"></span>
+                        <span class="legend-marker work-marker" id="legend-work-marker"></span>
                         <span>Work Location</span>
                     </div>
                     <div class="legend-item">

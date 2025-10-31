@@ -54,7 +54,22 @@ def table_view():
 
 @app.route('/api/laureates/<category>')
 def get_laureates(category):
-    """Get Nobel laureates for a specific category"""
+    """Get Nobel laureates for a specific category or all categories"""
+    if category == 'all':
+        # Return all laureates with their category information
+        all_data = get_all_laureates()
+        all_laureates = []
+        for cat_key, laureates in all_data.items():
+            for laureate in laureates:
+                laureate_copy = laureate.copy()
+                laureate_copy['category'] = cat_key
+                all_laureates.append(laureate_copy)
+
+        return jsonify({
+            'category': 'All Categories',
+            'laureates': all_laureates
+        })
+
     if category not in CATEGORIES:
         return jsonify({'error': 'Category not found'}), 404
 
