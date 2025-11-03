@@ -411,7 +411,17 @@ h1 {
 }
 
 .birth-marker {
-    background: #48bb78;
+    background: transparent;
+    border: none;
+    box-shadow: none;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.birth-marker::before {
+    content: '🎂';
 }
 
 .legend-line {

@@ -53,9 +53,9 @@ const workIcon = L.divIcon({
 
 const birthIcon = L.divIcon({
     className: 'custom-marker',
-    html: '<div style="background-color: #48bb78; width: 20px; height: 20px; border-radius: 50%; border: 2px solid white; box-shadow: 0 2px 4px rgba(0,0,0,0.3);"></div>',
-    iconSize: [20, 20],
-    iconAnchor: [10, 10]
+    html: '<div style="font-size: 24px; line-height: 1; text-shadow: 0 2px 4px rgba(0,0,0,0.3);">🎂</div>',
+    iconSize: [24, 24],
+    iconAnchor: [12, 12]
 });
 
 // Category selector
