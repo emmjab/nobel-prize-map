@@ -1,5 +1,5 @@
 """
-Stage 1: Fetch Nobel Prize data from API
+Stage 1: Fetch Nobel Prize data from API v2.1
 Tracks which laureates have affiliation data from API vs need enrichment
 """
 import requests
@@ -8,54 +8,49 @@ import time
 import sys
 import os
 
-# Add parent directory to path to import wiki_scraper
-sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-from wiki_scraper import get_coords
-
 def fetch_all_laureates():
-    """Fetch all Nobel Prize laureates from the API"""
-    print("Fetching prize data from Nobel Prize API...")
+    """Fetch all Nobel Prize laureates from the API v2.1 with pagination"""
+    print("Fetching laureate data from Nobel Prize API v2.1...")
 
-    # Fetch all prizes
-    response = requests.get("https://api.nobelprize.org/v1/prize.json")
-    prizes_data = response.json()
+    all_laureates = []
+    offset = 0
+    limit = 25  # API default page size
 
-    print(f"Found {len(prizes_data['prizes'])} prizes")
-
-    # Get unique laureate IDs
-    laureate_ids = set()
-    for prize in prizes_data['prizes']:
-        if 'laureates' in prize:
-            for laureate in prize['laureates']:
-                laureate_ids.add(laureate['id'])
-
-    print(f"Found {len(laureate_ids)} unique laureates")
-    print("Fetching detailed information for each laureate...")
-
-    all_laureates = {}
-    count = 0
-
-    for laureate_id in sorted(laureate_ids, key=int):
-        count += 1
-        if count % 50 == 0:
-            print(f"  Processed {count}/{len(laureate_ids)} laureates...")
-            time.sleep(0.5)  # Be nice to the API
+    while True:
+        url = f"https://api.nobelprize.org/2.1/laureates?offset={offset}&limit={limit}"
 
         try:
-            response = requests.get(f"https://api.nobelprize.org/v1/laureate.json?id={laureate_id}")
+            response = requests.get(url)
+            response.raise_for_status()
             data = response.json()
 
-            if 'laureates' in data and len(data['laureates']) > 0:
-                all_laureates[laureate_id] = data['laureates'][0]
+            laureates = data.get('laureates', [])
+            if not laureates:
+                break
+
+            all_laureates.extend(laureates)
+
+            print(f"  Fetched {len(all_laureates)} laureates so far...")
+
+            # Check if there are more pages
+            meta = data.get('meta', {})
+            total = meta.get('count', 0)
+            if len(all_laureates) >= total or len(laureates) < limit:
+                break
+
+            offset += limit
+            time.sleep(0.5)  # Be nice to the API
+
         except Exception as e:
-            print(f"  Error fetching laureate {laureate_id}: {e}")
+            print(f"  Error fetching laureates at offset {offset}: {e}")
+            break
 
     print(f"Successfully fetched {len(all_laureates)} laureates")
     return all_laureates
 
 def process_laureates_by_category(all_laureates):
     """
-    Process laureates and organize by category with location data
+    Process laureates from v2.1 API and organize by category with location data
     IMPORTANT: Tracks whether affiliation data came from API or is missing
     """
 
@@ -72,9 +67,10 @@ def process_laureates_by_category(all_laureates):
         'physics': 'physics',
         'chemistry': 'chemistry',
         'medicine': 'medicine',
+        'physiology or medicine': 'medicine',
         'literature': 'literature',
         'peace': 'peace',
-        'economics': 'economics'
+        'economic sciences': 'economics'
     }
 
     print("\nProcessing laureates by category...")
@@ -82,53 +78,82 @@ def process_laureates_by_category(all_laureates):
     stats = {
         'total': 0,
         'has_affiliation': 0,
-        'needs_enrichment': 0
+        'needs_enrichment': 0,
+        'has_birth_coords': 0,
+        'has_work_coords': 0
     }
 
-    for laureate_id, laureate in all_laureates.items():
-        if 'prizes' not in laureate:
+    for laureate in all_laureates:
+        laureate_api_id = laureate.get('id', '')
+
+        if 'nobelPrizes' not in laureate:
             continue
 
-        for prize in laureate['prizes']:
-            category = prize.get('category')
+        for prize in laureate['nobelPrizes']:
+            # Get category
+            category_obj = prize.get('category', {})
+            category = category_obj.get('en', '') if isinstance(category_obj, dict) else ''
+            category = category.lower()
+
             if category not in category_map:
                 continue
 
             cat_key = category_map[category]
-            year = int(prize['year'])
+            year = int(prize.get('awardYear', 0))
             stats['total'] += 1
 
-            # Get birth location
-            birth_city = laureate.get('bornCity', '')
-            birth_country = laureate.get('bornCountry', '')
+            # Get birth location from v2.1 structure
+            birth_data = laureate.get('birth', {})
+            birth_place = birth_data.get('place', {})
+
+            birth_city = birth_place.get('city', {}).get('en', '') if isinstance(birth_place.get('city'), dict) else ''
+            birth_country = birth_place.get('country', {}).get('en', '') if isinstance(birth_place.get('country'), dict) else ''
             birth_location = f"{birth_city}, {birth_country}" if birth_city else birth_country
 
-            # Get birth coordinates
-            birth_coords = get_coords(birth_city if birth_city else birth_country)
-            if not birth_coords:
-                birth_coords = (0, 0)  # Default if not found
+            # Get birth coordinates from API (v2.1 includes coordinates!)
+            birth_coords = (0, 0)
+            city_now = birth_place.get('cityNow', {})
+            if isinstance(city_now, dict):
+                try:
+                    lat = float(city_now.get('latitude', 0))
+                    lon = float(city_now.get('longitude', 0))
+                    if lat != 0 or lon != 0:
+                        birth_coords = (lat, lon)
+                        stats['has_birth_coords'] += 1
+                except (ValueError, TypeError):
+                    birth_coords = (0, 0)
 
             # Check if API has affiliation data
             has_affiliation_data = False
-            work_city = ''
-            work_country = ''
+            work_location = ''
+            work_coords = (0, 0)
 
             if 'affiliations' in prize and len(prize['affiliations']) > 0:
                 aff = prize['affiliations'][0]
                 if isinstance(aff, dict):
-                    work_city = aff.get('city', '')
-                    work_country = aff.get('country', '')
-                    if work_city or work_country:
-                        has_affiliation_data = True
+                    # Extract city and country
+                    aff_name = aff.get('name', {}).get('en', '') if isinstance(aff.get('name'), dict) else ''
+                    aff_city = aff.get('city', {}).get('en', '') if isinstance(aff.get('city'), dict) else ''
+                    aff_country = aff.get('country', {}).get('en', '') if isinstance(aff.get('country'), dict) else ''
 
-            # Determine work location and whether we need enrichment
+                    if aff_city or aff_country:
+                        work_location = f"{aff_city}, {aff_country}" if aff_city else aff_country
+
+                        # Get coordinates from API (v2.1 includes coordinates!)
+                        city_now = aff.get('cityNow', {})
+                        if isinstance(city_now, dict):
+                            try:
+                                lat = float(city_now.get('latitude', 0))
+                                lon = float(city_now.get('longitude', 0))
+                                if lat != 0 or lon != 0:
+                                    work_coords = (lat, lon)
+                                    has_affiliation_data = True
+                                    stats['has_work_coords'] += 1
+                            except (ValueError, TypeError):
+                                work_coords = (0, 0)
+
+            # Determine if we need enrichment
             if has_affiliation_data:
-                work_location = f"{work_city}, {work_country}" if work_city else work_country
-                work_coords = get_coords(work_city if work_city else work_country)
-                if not work_coords:
-                    # Don't copy birth coords - use (0,0) to flag for re-geocoding
-                    # This prevents silent data corruption where location text is correct but coords are wrong
-                    work_coords = (0, 0)
                 needs_enrichment = False
                 data_source = 'api'
                 stats['has_affiliation'] += 1
@@ -141,16 +166,21 @@ def process_laureates_by_category(all_laureates):
                 stats['needs_enrichment'] += 1
 
             # Build laureate entry
-            firstname = laureate.get('firstname', '')
-            surname = laureate.get('surname', '')
-            name = f"{firstname} {surname}".strip()
+            full_name = laureate.get('fullName', {})
+            if isinstance(full_name, dict):
+                name = full_name.get('en', '')
+            else:
+                name = full_name or laureate.get('knownName', {}).get('en', '')
 
-            # For organizations (no surname)
-            if not surname:
-                name = firstname
+            # Get motivation
+            motivation_obj = prize.get('motivation', {})
+            if isinstance(motivation_obj, dict):
+                motivation = motivation_obj.get('en', '').strip('"')
+            else:
+                motivation = str(motivation_obj).strip('"')
 
             entry = {
-                'laureate_id': f"{cat_key}_{year}_{laureate_id}",
+                'laureate_id': f"{cat_key}_{year}_{laureate_api_id}",
                 'name': name,
                 'birth_location': birth_location,
                 'birth_lat': birth_coords[0],
@@ -160,7 +190,7 @@ def process_laureates_by_category(all_laureates):
                 'work_lon': work_coords[1],
                 'work_years': f"{year-5}-{year}",
                 'prize_year': year,
-                'achievement': prize.get('motivation', '').strip('"'),
+                'achievement': motivation,
                 'shared_with': [],
                 # Metadata about data source
                 'data_source': data_source,  # 'api', 'birth_fallback', 'nobelprize_org', 'wikipedia', 'manual'
@@ -188,19 +218,21 @@ def process_laureates_by_category(all_laureates):
 
     # Print statistics
     print("\n" + "=" * 60)
-    print("Data Source Statistics:")
+    print("Data Source Statistics (v2.1 API):")
     print("=" * 60)
     print(f"Total laureates: {stats['total']}")
-    print(f"Has affiliation from API: {stats['has_affiliation']} ({stats['has_affiliation']/stats['total']*100:.1f}%)")
+    print(f"Has birth coordinates from API: {stats['has_birth_coords']} ({stats['has_birth_coords']/stats['total']*100:.1f}%)")
+    print(f"Has work affiliation from API: {stats['has_affiliation']} ({stats['has_affiliation']/stats['total']*100:.1f}%)")
+    print(f"Has work coordinates from API: {stats['has_work_coords']} ({stats['has_work_coords']/stats['total']*100:.1f}%)")
     print(f"Needs enrichment: {stats['needs_enrichment']} ({stats['needs_enrichment']/stats['total']*100:.1f}%)")
     print("=" * 60)
 
     return category_data
 
 def main():
-    """Main function to fetch and process all Nobel Prize data"""
+    """Main function to fetch and process all Nobel Prize data from v2.1 API"""
     print("=" * 60)
-    print("Stage 1: Fetch Nobel Prize Data from API")
+    print("Stage 1: Fetch Nobel Prize Data from API v2.1")
     print("=" * 60)
 
     # Fetch all laureates
