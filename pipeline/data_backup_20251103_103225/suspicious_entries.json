@@ -1,0 +1,47 @@
+[
+  {
+    "laureate_id": "physics_1909_14",
+    "name": "Ferdinand Braun",
+    "category": "physics",
+    "prize_year": 1909,
+    "work_location": "Strasbourg, Germany (now France)",
+    "issue": "Geocoding failed (coordinates are 0,0)",
+    "data_source": "api"
+  },
+  {
+    "laureate_id": "physics_1914_19",
+    "name": "Max von Laue",
+    "category": "physics",
+    "prize_year": 1914,
+    "work_location": "Frankfurt-on-the-Main, Germany",
+    "issue": "Geocoding failed (coordinates are 0,0)",
+    "data_source": "api"
+  },
+  {
+    "laureate_id": "physics_1951_56",
+    "name": "John Cockcroft",
+    "category": "physics",
+    "prize_year": 1951,
+    "work_location": "Harwell, Berkshire, United Kingdom",
+    "issue": "Geocoding failed (coordinates are 0,0)",
+    "data_source": "api"
+  },
+  {
+    "laureate_id": "chemistry_1959_223",
+    "name": "Jaroslav Heyrovsky",
+    "category": "chemistry",
+    "prize_year": 1959,
+    "work_location": "Prague, Czechoslovakia (now Czech Republic)",
+    "issue": "Geocoding failed (coordinates are 0,0)",
+    "data_source": "api"
+  },
+  {
+    "laureate_id": "chemistry_1988_272",
+    "name": "Hartmut Michel",
+    "category": "chemistry",
+    "prize_year": 1988,
+    "work_location": "Frankfurt-on-the-Main, Germany",
+    "issue": "Geocoding failed (coordinates are 0,0)",
+    "data_source": "api"
+  }
+]

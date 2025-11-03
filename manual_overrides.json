@@ -1,0 +1,1112 @@
+{
+  "_comment": "Manual overrides for Nobel Prize laureate work locations",
+  "_instructions": "Work locations will be automatically geocoded to lat/lon by the pipeline",
+  "physics_1903_6": {
+    "work_location": "Paris, France",
+    "note": "Worked at École de physique et chimie industrielles and University of Paris"
+  },
+  "physics_1999_159": {
+    "work_location": "University of Utrecht, Netherlands",
+    "note": "Professor at Utrecht 1966-1981, where he and 't Hooft did their Nobel work"
+  },
+  "physics_2017_941": {
+    "work_location": "MIT, Cambridge, MA, USA",
+    "note": "Professor at MIT, did LIGO work there"
+  },
+  "physics_2017_942": {
+    "work_location": "Caltech, Pasadena, CA, USA",
+    "note": "Principal investigator and director of LIGO at Caltech"
+  },
+  "physics_2017_943": {
+    "work_location": "Caltech, Pasadena, CA, USA",
+    "note": "Feynman Professor at Caltech, did LIGO work there"
+  },
+  "chemistry_1993_278": {
+    "work_location": "Emeryville, CA, USA",
+    "note": "Invented PCR at Cetus Corp in 1983"
+  },
+  "chemistry_2001_741": {
+    "work_location": "Monsanto Company, St. Louis, MO, USA",
+    "note": "Developed enantioselective hydrogenation at Monsanto in 1968"
+  },
+  "medicine_2005_790": {
+    "work_location": "Royal Perth Hospital, Perth, Australia",
+    "note": "Pathologist at Royal Perth Hospital where he discovered H. pylori"
+  },
+  "literature_1901_569": {
+    "work_location": "Paris, France",
+    "note": "French poet who lived and worked in Paris"
+  },
+  "literature_1902_571": {
+    "work_location": "University of Berlin, Berlin, Germany",
+    "note": "Professor at University of Berlin from 1861-1887, wrote History of Rome"
+  },
+  "literature_1903_572": {
+    "work_location": "Norway",
+    "note": "Norwegian writer who worked in Bergen, Oslo, and lived intermittently abroad. No single location."
+  },
+  "literature_1904_573": {
+    "work_location": "Maillane, Provence, France",
+    "note": "Lived his entire life in Maillane, wrote all his works there"
+  },
+  "literature_1904_574": {
+    "work_location": "Madrid, Spain",
+    "note": "Wrote plays in Madrid, where he spent his career"
+  },
+  "literature_1905_575": {
+    "work_location": "Warsaw, Poland",
+    "note": "Studied at University of Warsaw, co-edited Słowo newspaper in Warsaw"
+  },
+  "literature_1906_576": {
+    "work_location": "University of Bologna, Italy",
+    "note": "Professor at University of Bologna 1860-1904, where he did all his major work"
+  },
+  "literature_1907_577": {
+    "work_location": "Burwash, Sussex, England",
+    "note": "Living at Bateman's in Sussex when he won the Nobel Prize in 1907"
+  },
+  "literature_1908_578": {
+    "work_location": "University of Jena, Germany",
+    "note": "Professor at University of Jena 1874-1920, where he did his Nobel Prize-winning philosophical work"
+  },
+  "literature_1909_579": {
+    "work_location": "Mårbacka, Värmland, Sweden",
+    "note": "Born and raised at Mårbacka estate in Värmland, bought it back with Nobel Prize money"
+  },
+  "literature_1910_580": {
+    "work_location": "Munich, Germany",
+    "note": "Settled in Munich in 1854 and lived there for rest of his life"
+  },
+  "literature_1911_581": {
+    "work_location": "Grasse, France",
+    "note": "Belgian who moved to Paris in 1896, later lived in Grasse and Saint-Wandrille, France"
+  },
+  "literature_1912_582": {
+    "work_location": "Berlin, Germany",
+    "note": "Lived in Berlin (Erkner, Charlottenburg) where he wrote major works, later Agnetendorf, Silesia"
+  },
+  "literature_1913_583": {
+    "work_location": "Shantiniketan, Bengal, India",
+    "note": "Founded school at Shantiniketan where he settled and created Gitanjali"
+  },
+  "literature_1915_584": {
+    "work_location": "Paris, France",
+    "note": "Taught at Sorbonne in Paris, later lived in Rome and Switzerland"
+  },
+  "literature_1916_585": {
+    "work_location": "Stockholm, Sweden",
+    "note": "Lived in Stockholm during productive years, also spent time at Olshammar"
+  },
+  "literature_1917_586": {
+    "work_location": "Dresden, Germany",
+    "note": "Spent most of his life in Germany, lived near Dresden"
+  },
+  "literature_1917_587": {
+    "work_location": "Copenhagen, Denmark",
+    "note": "Journalist in Copenhagen, lived in rural Zealand and Charlottenlund suburb"
+  },
+  "literature_1919_588": {
+    "work_location": "Switzerland",
+    "note": "Wrote Olympian Spring in Switzerland in early 1900s"
+  },
+  "literature_1920_589": {
+    "work_location": "Hamarøy, Norway",
+    "note": "Wrote Growth of the Soil at Skogheim farm in Hamarøy 1911-1917"
+  },
+  "literature_1921_590": {
+    "work_location": "Paris, France",
+    "note": "Spent literary career in Paris, worked as librarian for French Senate"
+  },
+  "literature_1922_592": {
+    "work_location": "Madrid, Spain",
+    "note": "Born in Madrid, directed Spanish National Theatre, wrote plays set in Madrid"
+  },
+  "literature_1923_593": {
+    "work_location": "Dublin, Ireland",
+    "note": "Co-founded Abbey Theatre in Dublin, central to Irish Literary Revival"
+  },
+  "literature_1924_594": {
+    "work_location": "Warsaw, Poland",
+    "note": "Wrote The Peasants partly in France (1901-1908), also Zakopane; spent winters in Warsaw"
+  },
+  "literature_1925_596": {
+    "work_location": "London, England",
+    "note": "Moved to London in 1876, wrote all major works there including Saint Joan"
+  },
+  "literature_1926_597": {
+    "work_location": "Rome, Italy",
+    "note": "Lived and wrote in Rome from 1900-1936"
+  },
+  "literature_1927_600": {
+    "work_location": "Collège de France, Paris",
+    "note": "Held chair of philosophy at Collège de France 1900-1921"
+  },
+  "literature_1928_601": {
+    "work_location": "Lillehammer, Norway",
+    "note": "Bjerkeb¾k, her home in Lillehammer, Norway"
+  },
+  "literature_1929_602": {
+    "work_location": "Munich, Germany",
+    "note": "based on his hometown of Lbeck, Germany, he also wrote many other acclaimed works throughout his life in other locations, including Princeton and California in the United States, and Zurich, Switzerland"
+  },
+  "literature_1930_603": {
+    "work_location": "Sauk Centre, Minnesota",
+    "note": "home town of Sauk Centre, Minnesota, moved around a lot, Yale, Washington, D. C., Vermont, etc."
+  },
+  "literature_1931_604": {
+    "work_location": "Stockholm, Sweden",
+    "note": "Erik Axel Karlfeldt - literature 1931"
+  },
+  "literature_1932_605": {
+    "work_location": "Hampstead, London, UK",
+    "note": "John Galsworthy - literature 1932"
+  },
+  "literature_1933_606": {
+    "work_location": "Paris, France",
+    "note": "he lived a life of exile, dividing his time between Paris and the south of France, particularly the city of Grasse"
+  },
+  "literature_1934_607": {
+    "work_location": "Rome, Italy",
+    "note": "Luigi Pirandello - literature 1934"
+  },
+  "literature_1936_608": {
+    "work_location": "Danville, California",
+    "note": "Tao House"
+  },
+  "literature_1937_609": {
+    "work_location": "Bellême, France",
+    "note": "Norman country estate, Le Tertre"
+  },
+  "literature_1938_610": {
+    "work_location": "Nanjing, China",
+    "note": "she was born in Chinkiang, a small port city in Kiangsu province"
+  },
+  "literature_1939_613": {
+    "work_location": "Hämeenkyrö, Finland",
+    "note": "had a home and typewriter in Helsinki later in life"
+  },
+  "literature_1944_614": {
+    "work_location": "Copenhagen, Denmark",
+    "note": "born in Fars¿"
+  },
+  "literature_1945_615": {
+    "work_location": "Coquimbo, Chile",
+    "note": "wrote her first work in rural northern Chile: (formerly called Coquimbito), and also Temuco. wrote Tala while serving as a Chilean consul in Spain, a period during which she also wrote about the Spanish Civil War and its impact on children. Madrid, Spain, and Naples, Italy."
+  },
+  "literature_1946_617": {
+    "work_location": "Montagnola, Switzerland",
+    "note": "specifically at the Torre Camuzzi"
+  },
+  "literature_1947_618": {
+    "work_location": "Paris, France",
+    "note": "Gide traveled with his lover, Marc Allgret, from July 1925 to May 1926 through what is now the Republic of the Congo, the Central African Republic, Chad, and Cameroon."
+  },
+  "literature_1948_619": {
+    "work_location": "London, England",
+    "note": "T.S. Eliot - literature 1948"
+  },
+  "literature_1949_620": {
+    "work_location": "Oxford, Mississippi, USA",
+    "note": "Rowan Oak, in Oxford, Mississippi"
+  },
+  "literature_1950_621": {
+    "work_location": "Bryn Mawr College, Pennsylvania, USA",
+    "note": "initial research and lectures that formed the basis of the book took place in Philadelphia, at the Barnes Foundation, in 1941 and 1942"
+  },
+  "literature_1951_622": {
+    "work_location": "Lidingö, Sweden",
+    "note": "near Stockholm, Sweden"
+  },
+  "literature_1952_623": {
+    "work_location": "Bordeaux, France",
+    "note": "Franois Mauriac - literature 1952"
+  },
+  "literature_1953_624": {
+    "work_location": "Kent, England",
+    "note": "Chartwell, in Kent, England"
+  },
+  "literature_1954_625": {
+    "work_location": "Havana, Cuba",
+    "note": "Finca Viga, in the San Francisco de Paula neighborhood on the outskirts of Havana, Cuba"
+  },
+  "literature_1955_626": {
+    "work_location": "Reykjavík, Iceland",
+    "note": "Gljfrasteinn near Mosfellsb¾r, a short distance from Reykjavk"
+  },
+  "literature_1956_627": {
+    "work_location": "Moguer, Spain",
+    "note": "hometown of Moguer, in the Andalusia region of Spain"
+  },
+  "literature_1957_628": {
+    "work_location": "Oran, Algeria",
+    "note": "and finish works in Paris, France"
+  },
+  "literature_1958_629": {
+    "work_location": "Peredelkino, Russia",
+    "note": "dacha (country house) in the writers' colony of Peredelkino, a village located about 30 kilometers southwest of Moscow, Russia"
+  },
+  "literature_1959_630": {
+    "work_location": "Milan, Italy",
+    "note": "Salvatore Quasimodo - literature 1959"
+  },
+  "literature_1960_631": {
+    "work_location": "Beijing, China",
+    "note": "Saint-John Perse - literature 1960"
+  },
+  "literature_1961_633": {
+    "work_location": "Belgrade, Serbia",
+    "note": "Belgrade, Yugoslavia (now Serbia)"
+  },
+  "literature_1962_634": {
+    "work_location": "Pacific Grove, California",
+    "note": "Monte Sereno, California and in his home in Pacific Grove, California"
+  },
+  "literature_1963_635": {
+    "work_location": "Athens, Greece",
+    "note": "Athens, Paris, South Africa, Egypt, and the islands of Poros and Cyprus"
+  },
+  "literature_1964_637": {
+    "work_location": "Paris, France",
+    "note": "during WWII, A German prisoner-of-war camp: During World War II, while held captive for about a year, he wrote his first play, Barion, fils du tonnerre, and read heavily, which influenced his later work Being and Nothingness"
+  },
+  "literature_1965_638": {
+    "work_location": "Vyoshenskaya, Russia",
+    "note": "Cossack village of Vyoshenskaya (or Veshenskaya) in the Don River area of southern Russia"
+  },
+  "literature_1966_639": {
+    "work_location": "Jerusalem, Israel",
+    "note": "Shmuel Agnon - literature 1966"
+  },
+  "literature_1966_640": {
+    "work_location": "Stockholm, Sweden",
+    "note": "lived in exile after fleeing Nazi Germany in 1940"
+  },
+  "literature_1967_641": {
+    "work_location": "Paris, France",
+    "note": "Paris, France, where he lived in exile from the Guatemalan dictatorship"
+  },
+  "literature_1968_642": {
+    "work_location": "Yuzawa, Niigata Prefecture, Japan",
+    "note": "Takahan Hotel in the town of Yuzawa, Niigata Prefecture, Japan"
+  },
+  "literature_1969_643": {
+    "work_location": "Paris, France",
+    "note": "Samuel Beckett - literature 1969"
+  },
+  "literature_1970_644": {
+    "work_location": "Ekibastuz, Kazakhstan",
+    "note": "Soviet Gulag labor camps and subsequent internal exile in Kazakhstan, then Ryazan, in central Russia, and Tartu, Estonia, then dacha of cellist Mstislav Rostropovich near Moscow"
+  },
+  "literature_1971_645": {
+    "work_location": "Santiago, Chile",
+    "note": "self-exiled diplomat in isolated regions of South Asia (Burma, Ceylon, Java, Singapore) and later Spain, favorite house in Isla Negra, Chile, Capri, Italy"
+  },
+  "literature_1972_647": {
+    "work_location": "Cologne, Germany",
+    "note": "house in the Mngersdorf district of Cologne, cottage in the rural town of Langenbroich"
+  },
+  "literature_1973_648": {
+    "work_location": "Sydney, Australia",
+    "note": "semi-rural suburb of Castle Hill and later in Centennial Park"
+  },
+  "literature_1974_649": {
+    "work_location": "Stockholm, Sweden",
+    "note": "many places, including France, Berlin, Germany, Swtizerland, and England"
+  },
+  "literature_1974_650": {
+    "work_location": "Södermanland, Sweden",
+    "note": "Sdermanland, central Sweden"
+  },
+  "literature_1975_651": {
+    "work_location": "Milan, Italy",
+    "note": "Genoa, Florence, and Milan."
+  },
+  "literature_1976_652": {
+    "work_location": "University of Chicago, Chicago, Illinois, USA",
+    "note": "Chicago, Illinois"
+  },
+  "literature_1977_653": {
+    "work_location": "Madrid, Spain",
+    "note": "3, Calle Vicente Aleixandre (originally Calle Wellingtonia, nicknamed \"Velintonia\") in Madrid, Spain"
+  },
+  "literature_1978_654": {
+    "work_location": "New York, NY, USA",
+    "note": "Upper West Side of Manhattan, New York City, and later, he also worked in Surfside, Florida"
+  },
+  "literature_1979_655": {
+    "work_location": "Athens, Greece",
+    "note": "Odysseus Elytis - literature 1979"
+  },
+  "literature_1980_657": {
+    "work_location": "Berkeley, California, USA",
+    "note": "Warsaw (during WWII), Paris, and Berkeley, California"
+  },
+  "literature_1981_658": {
+    "work_location": "Vienna, Austria",
+    "note": "Elias Canetti - literature 1981"
+  },
+  "literature_1982_659": {
+    "work_location": "Mexico City, Mexico",
+    "note": "Gabriel Garca Mrquez - literature 1982"
+  },
+  "literature_1983_660": {
+    "work_location": "Salisbury, England",
+    "note": "Bishop Wordsworth's School in Salisbury, England"
+  },
+  "literature_1984_661": {
+    "work_location": "Prague, Czech Republic",
+    "note": "Prague, Czechoslovakia (now the Czech Republic)"
+  },
+  "literature_1985_662": {
+    "work_location": "Paris, France",
+    "note": "Paris and at his family estate near Salses, in the Pyrenees region of southern France"
+  },
+  "literature_1986_663": {
+    "work_location": "Kaduna, Nigeria",
+    "note": "primarily in Nigeria and while in exile in locations such as the United Kingdom, Senegal, and Ghana, as well as during his time holding professorships at universities in the United States"
+  },
+  "literature_1987_664": {
+    "work_location": "St. Petersburg, Russia",
+    "note": "Leningrad, Russia (now St. Petersburg), Norenskaya, Arkhangelsk region, Russia, Ann Arbor, Michigan, New York City, New York, South Hadley, Massachusetts"
+  },
+  "literature_1988_665": {
+    "work_location": "Cairo, Egypt",
+    "note": "Naguib Mahfouz - literature 1988"
+  },
+  "literature_1989_666": {
+    "work_location": "Madrid, Spain",
+    "note": "Camilo Jos Cela - literature 1989"
+  },
+  "literature_1990_667": {
+    "work_location": "Paris, France",
+    "note": "Octavio Paz - literature 1990"
+  },
+  "literature_1991_668": {
+    "work_location": "Johannesburg, South Africa",
+    "note": "Nadine Gordimer - literature 1991"
+  },
+  "literature_1992_669": {
+    "work_location": "Castries, Saint Lucia",
+    "note": "Walcott divided his time between his native Saint Lucia and Boston, Massachusetts, where he taught at Boston University for many years"
+  },
+  "literature_1993_670": {
+    "work_location": "Syracuse, New York",
+    "note": "New York City, New York, Grand View-on-Hudson (Rockland County), New York, Princeton, New Jersey"
+  },
+  "literature_1994_671": {
+    "work_location": "Tokyo, Japan",
+    "note": "Kenzaburo Oe - literature 1994"
+  },
+  "literature_1995_672": {
+    "work_location": "Dublin, Ireland",
+    "note": "visiting professor at Harvard University in Cambridge, Massachusetts"
+  },
+  "literature_1996_673": {
+    "work_location": "Kraków, Poland",
+    "note": "Wis_awa Szymborska - literature 1996"
+  },
+  "literature_1997_674": {
+    "work_location": "Milan, Italy",
+    "note": "Dario Fo - literature 1997"
+  },
+  "literature_1998_675": {
+    "work_location": "Lisbon, Portugal",
+    "note": "Lisbon, Portugal, and on the island of Lanzarote in the Canary Islands, Spain."
+  },
+  "literature_1999_676": {
+    "work_location": "Paris, France",
+    "note": "heavily set in his hometown of Danzig (now Gda_sk, Poland) and also post-war Dsseldorf, where the narrator Oskar Matzerath is writing his memoirs from a mental hospital."
+  },
+  "literature_2000_734": {
+    "work_location": "Bagnolet, France",
+    "note": "leaving China as a political refugee"
+  },
+  "literature_2001_747": {
+    "work_location": "London, England",
+    "note": "London, England, and later at his home in Wiltshire, England"
+  },
+  "literature_2002_761": {
+    "work_location": "Budapest, Hungary",
+    "note": "Imre Kertsz - literature 2002"
+  },
+  "literature_2003_763": {
+    "work_location": "University of Cape Town, Cape Town, South Africa",
+    "note": "University of Cape Town in South Africa"
+  },
+  "literature_2004_782": {
+    "work_location": "Vienna, Austria",
+    "note": "Elfriede Jelinek - literature 2004"
+  },
+  "literature_2005_801": {
+    "work_location": "London, England",
+    "note": "Harold Pinter - literature 2005"
+  },
+  "literature_2006_808": {
+    "work_location": "Istanbul, Turkey",
+    "note": "Orhan Pamuk - literature 2006"
+  },
+  "literature_2007_817": {
+    "work_location": "London, United Kingdom",
+    "note": "she had lived in Southern Rhodesia (now Zimbabwe) and her work often drew on her experiences there"
+  },
+  "literature_2008_832": {
+    "work_location": "Nice, France",
+    "note": "Born in Mauritius, \"citizen of the world\" who has lived in and been influenced by many places, including France (Nice and Brittany), Mauritius, Nigeria, the UK, Thailand, Mexico, Panama, South Korea, China, and the United States (Albuquerque, Boston, Austin). He divides his time primarily between Albuquerque, New Mexico, Mauritius, and Nice."
+  },
+  "literature_2009_844": {
+    "work_location": "Berlin, Germany",
+    "note": "emigrating from Romania"
+  },
+  "literature_2010_854": {
+    "work_location": "Paris, France",
+    "note": "Mario Vargas Llosa - literature 2010"
+  },
+  "literature_2011_868": {
+    "work_location": "Stockholm, Sweden",
+    "note": "Vsters, Sweden"
+  },
+  "literature_2012_880": {
+    "work_location": "Gaomi, China",
+    "note": "Mo Yan - literature 2012"
+  },
+  "literature_2013_892": {
+    "work_location": "Ontario, Canada",
+    "note": "Huron County, in southwestern Ontario, Canada"
+  },
+  "literature_2014_912": {
+    "work_location": "Paris, France",
+    "note": "Patrick Modiano - literature 2014"
+  },
+  "literature_2015_924": {
+    "work_location": "Minsk, Belarus",
+    "note": "she was forced to live in exile periodically (including in Italy, France, Germany, and Sweden)"
+  },
+  "literature_2016_937": {
+    "work_location": "New York, NY, USA",
+    "note": "and Woodstock, NY"
+  },
+  "literature_2017_947": {
+    "work_location": "London, England",
+    "note": "Kazuo Ishiguro - literature 2017"
+  },
+  "literature_2018_979": {
+    "work_location": "Wrocław, Poland",
+    "note": "Wroc_aw, Poland, and other locations in her home region of Silesia"
+  },
+  "literature_2019_980": {
+    "work_location": "Graz, Austria",
+    "note": "Dsseldorf, Berlin, Kronberg, Paris, the U.S., and Salzburg, Chaville, a suburb southwest of Paris, France"
+  },
+  "literature_2020_993": {
+    "work_location": "Cambridge, Massachusetts, USA",
+    "note": "Yale University in New Haven, Connecticut, and previously at Goddard College in Plainfield, Vermont."
+  },
+  "literature_2021_1004": {
+    "work_location": "Canterbury, England",
+    "note": "Abdulrazak Gurnah - literature 2021"
+  },
+  "literature_2022_1017": {
+    "work_location": "Paris, France",
+    "note": "Cergy-Pontoise, in Paris, France"
+  },
+  "literature_2023_1032": {
+    "work_location": "Hainburg an der Donau, Austria",
+    "note": "and south of France at Paul Claudel's castle"
+  },
+  "literature_2024_1042": {
+    "work_location": "Seoul, South Korea",
+    "note": "childhood home city of Gwangju, South Korea, shortly before her family moved to Seoul, International Writing Program at the University of Iowa in 1998"
+  },
+  "literature_2025_1056": {
+    "work_location": "Budapest, Hungary",
+    "note": "born in Gyula and remote villages; then Berlin, New York, China, and Japan."
+  },
+  "peace_1901_462": {
+    "work_location": "Geneva, Switzerland",
+    "note": "witnessed the horrific aftermath of the Battle of Solferino in northern Italy in 1859"
+  },
+  "peace_1901_463": {
+    "work_location": "Paris, France",
+    "note": "Frdric Passy - peace 1901"
+  },
+  "peace_1902_464": {
+    "work_location": "Bern, Switzerland",
+    "note": "IPB headquarters was located at the time"
+  },
+  "peace_1902_465": {
+    "work_location": "Bern, Switzerland",
+    "note": "IPB headquarters was located at the time"
+  },
+  "peace_1903_466": {
+    "work_location": "London, England",
+    "note": "Randal Cremer - peace 1903"
+  },
+  "peace_1904_467": {
+    "work_location": "Ghent, Belgium",
+    "note": "Institute of International Law - peace 1904"
+  },
+  "peace_1905_468": {
+    "work_location": "Harmannsdorf, Austria",
+    "note": "Schloss Harmannsdorf (Harmannsdorf Castle) in Lower Austria, where she lived after returning from the Caucasus in 1885"
+  },
+  "peace_1906_470": {
+    "work_location": "Oyster Bay, New York",
+    "note": "Sagamore Hill, in Oyster Bay, New York, his summer home during the Russo-Japanese war"
+  },
+  "peace_1907_471": {
+    "work_location": "Milan, Italy",
+    "note": "Ernesto Teodoro Moneta - peace 1907"
+  },
+  "peace_1908_473": {
+    "work_location": "Stockholm, Sweden",
+    "note": "Klas Pontus Arnoldson - peace 1908"
+  },
+  "peace_1908_474": {
+    "work_location": "Copenhagen, Denmark",
+    "note": "Fredrik Bajer - peace 1908"
+  },
+  "peace_1909_475": {
+    "work_location": "The Hague, Netherlands",
+    "note": "Auguste Beernaert - peace 1909"
+  },
+  "peace_1909_476": {
+    "work_location": "Paris, France",
+    "note": "hometown: La Flche, France"
+  },
+  "peace_1910_477": {
+    "work_location": "Bern, Switzerland",
+    "note": "Permanent International Peace Bureau - peace 1910"
+  },
+  "peace_1911_478": {
+    "work_location": "The Hague, Netherlands",
+    "note": "Tobias Asser - peace 1911"
+  },
+  "peace_1911_479": {
+    "work_location": "Berlin, Germany",
+    "note": "Alfred Fried - peace 1911"
+  },
+  "peace_1912_480": {
+    "work_location": "Washington, D.C., USA",
+    "note": "Elihu Root - peace 1912"
+  },
+  "peace_1913_481": {
+    "work_location": "Bern, Switzerland",
+    "note": "International Peace Bureau in Bern, Switzerland"
+  },
+  "peace_1917_482": {
+    "work_location": "Geneva, Switzerland",
+    "note": "International Committee of the Red Cross - peace 1917"
+  },
+  "peace_1944_482": {
+    "work_location": "Geneva, Switzerland",
+    "note": "International Committee of the Red Cross - peace 1944"
+  },
+  "peace_1963_482": {
+    "work_location": "Geneva, Switzerland",
+    "note": "International Committee of the Red Cross - peace 1963"
+  },
+  "peace_1919_483": {
+    "work_location": "Washington, D.C., USA",
+    "note": "Woodrow Wilson - peace 1919"
+  },
+  "peace_1920_484": {
+    "work_location": "Paris, France",
+    "note": "Lon Bourgeois - peace 1920"
+  },
+  "peace_1921_485": {
+    "work_location": "Stockholm, Sweden",
+    "note": "Hjalmar Branting - peace 1921"
+  },
+  "peace_1921_486": {
+    "work_location": "Oslo, Norway",
+    "note": "Christian Lange - peace 1921"
+  },
+  "peace_1922_487": {
+    "work_location": "Lysaker, Norway",
+    "note": "Polh¿gda, a house he built in Lysaker, Norway, creating the \"Nansen passport\" for stateless refugees"
+  },
+  "peace_1925_488": {
+    "work_location": "Mayfield, East Sussex, UK",
+    "note": "Twytt's Ghyll in Mayfield, East Sussex"
+  },
+  "peace_1925_489": {
+    "work_location": "Washington, D.C., USA",
+    "note": "Charles G. Dawes - peace 1925"
+  },
+  "peace_1926_490": {
+    "work_location": "Paris, France",
+    "note": "Aristide Briand - peace 1926"
+  },
+  "peace_1926_491": {
+    "work_location": "Berlin, Germany",
+    "note": "Gustav Stresemann - peace 1926"
+  },
+  "peace_1927_492": {
+    "work_location": "Paris, France",
+    "note": "Sorbonne"
+  },
+  "peace_1927_493": {
+    "work_location": "Berlin, Germany",
+    "note": "Ludwig Quidde - peace 1927"
+  },
+  "peace_1929_494": {
+    "work_location": "Saint Paul, Minnesota, USA",
+    "note": "Frank B. Kellogg - peace 1929"
+  },
+  "peace_1930_495": {
+    "work_location": "Uppsala, Sweden",
+    "note": "Nathan Sderblom - peace 1930"
+  },
+  "peace_1931_496": {
+    "work_location": "Chicago, Illinois",
+    "note": "Chicago, Illinois, at Hull House"
+  },
+  "peace_1933_498": {
+    "work_location": "Essex, UK",
+    "note": "Northey Island in Essex, UK"
+  },
+  "peace_1934_499": {
+    "work_location": "Geneva, Switzerland",
+    "note": "Arthur Henderson - peace 1934"
+  },
+  "peace_1935_500": {
+    "work_location": "Berlin, Germany",
+    "note": "Hamberg, then Esterwegen concentration camp near Oldenburg in 1933"
+  },
+  "peace_1936_501": {
+    "work_location": "Buenos Aires, Argentina",
+    "note": "Carlos Saavedra Lamas - peace 1936"
+  },
+  "peace_1937_502": {
+    "work_location": "Hatfield, Hertfordshire, England",
+    "note": "Robert Cecil - peace 1937"
+  },
+  "peace_1938_503": {
+    "work_location": "Geneva, Switzerland",
+    "note": "Nansen International Office for Refugees - peace 1938"
+  },
+  "peace_1945_505": {
+    "work_location": "Washington, D.C., USA",
+    "note": "Cordell Hull - peace 1945"
+  },
+  "peace_1946_506": {
+    "work_location": "Geneva, Switzerland",
+    "note": "Emily Greene Balch - peace 1946"
+  },
+  "peace_1946_507": {
+    "work_location": "Postville, Iowa",
+    "note": "John R. Mott - peace 1946"
+  },
+  "peace_1947_508": {
+    "work_location": "London, England",
+    "note": "Friends Service Council - peace 1947"
+  },
+  "peace_1947_509": {
+    "work_location": "Philadelphia, PA, USA",
+    "note": "American Friends Service Committee - peace 1947"
+  },
+  "peace_1949_510": {
+    "work_location": "Aberdeen, Scotland",
+    "note": "Aberdeen, West Kilbride, and Edzell"
+  },
+  "peace_1951_512": {
+    "work_location": "Paris, France",
+    "note": "Lon Jouhaux - peace 1951"
+  },
+  "peace_1952_513": {
+    "work_location": "Lambaréné, Gabon",
+    "note": "Albert Schweitzer - peace 1952"
+  },
+  "peace_1953_514": {
+    "work_location": "Leesburg, Virginia",
+    "note": "Leesburg, Virginia, at his home, Dodona Manor, and Washington, D. C."
+  },
+  "peace_1954_515": {
+    "work_location": "Geneva, Switzerland",
+    "note": "Office of the United Nations High Commissioner for Refugees - peace 1954"
+  },
+  "peace_1981_515": {
+    "work_location": "Geneva, Switzerland",
+    "note": "Office of the United Nations High Commissioner for Refugees - peace 1981"
+  },
+  "peace_1957_516": {
+    "work_location": "Ottawa, Canada",
+    "note": "Lester Bowles Pearson - peace 1957"
+  },
+  "peace_1958_517": {
+    "work_location": "Huy, Belgium",
+    "note": "Huy, Belgium, at the Dominican priory of La Sarte"
+  },
+  "peace_1959_518": {
+    "work_location": "London, England",
+    "note": "Philip Noel-Baker - peace 1959"
+  },
+  "peace_1960_519": {
+    "work_location": "Groutville, South Africa",
+    "note": "Groutville, Natal, in South Africa, where he was the chief of the local Zulu community"
+  },
+  "peace_1961_520": {
+    "work_location": "New York, NY, USA",
+    "note": "personal retreat in sterlen, Sweden, at a farmstead he purchased named Backkra, which he intended to use for quiet contemplation after his career"
+  },
+  "peace_1963_523": {
+    "work_location": "Geneva, Switzerland",
+    "note": "founded in Paris, France"
+  },
+  "peace_1964_524": {
+    "work_location": "Atlanta, Georgia",
+    "note": "Martin Luther King Jr. - peace 1964"
+  },
+  "peace_1965_525": {
+    "work_location": "New York, NY, USA",
+    "note": "United Nations Children's Fund - peace 1965"
+  },
+  "peace_1968_526": {
+    "work_location": "New York, NY, USA",
+    "note": "united nations"
+  },
+  "peace_1969_527": {
+    "work_location": "Geneva, Switzerland",
+    "note": "Rockefeller Foundation in Mexico, starting in 1944, to improve wheat production in the country, research stations near Mexico City and in the Yaqui Valley in the northwest"
+  },
+  "peace_1970_528": {
+    "work_location": "Mexico City, Mexico",
+    "note": "Norman Borlaug - peace 1970"
+  },
+  "peace_1971_529": {
+    "work_location": "Berlin, Germany",
+    "note": "Willy Brandt - peace 1971"
+  },
+  "peace_1973_530": {
+    "work_location": "Paris, France",
+    "note": "The 1973 Paris Peace Accords, which ended the Vietnam War, took place at the Hotel Majestic in Paris, France"
+  },
+  "peace_1973_531": {
+    "work_location": "Paris, France",
+    "note": "The 1973 Paris Peace Accords, which ended the Vietnam War, took place at the Hotel Majestic in Paris, France"
+  },
+  "peace_1974_532": {
+    "work_location": "Dublin, Ireland",
+    "note": "He primarily resided at Roebuck House in Dublin, which had been his mother Maud Gonne's home and served as a base for his activities, but Geneva and NYC"
+  },
+  "peace_1974_533": {
+    "work_location": "Tokyo, Japan",
+    "note": "Eisaku Sat_ - peace 1974"
+  },
+  "peace_1975_534": {
+    "work_location": "Moscow, Russia",
+    "note": "Moscow, Soviet Union (now Russia) when he was awarded the 1975 Nobel Peace Prize. However, he was subsequently sent into internal exile in the city of Gorky (now Nizhny Novgorod) in 1980, and was not allowed to return to Moscow until 1986"
+  },
+  "peace_1976_535": {
+    "work_location": "Belfast, Northern Ireland",
+    "note": "Betty Williams - peace 1976"
+  },
+  "peace_1976_536": {
+    "work_location": "Belfast, Northern Ireland",
+    "note": "Mairead Corrigan - peace 1976"
+  },
+  "peace_1977_537": {
+    "work_location": "London, United Kingdom",
+    "note": "Amnesty International - peace 1977"
+  },
+  "peace_1978_538": {
+    "work_location": "Cairo, Egypt",
+    "note": "Anwar al-Sadat - peace 1978"
+  },
+  "peace_1978_539": {
+    "work_location": "Jerusalem, Israel",
+    "note": "official Prime Minister's residence in Jerusalem (Beit Aghion)"
+  },
+  "peace_1979_540": {
+    "work_location": "Calcutta, India",
+    "note": "Mother Theresa"
+  },
+  "peace_1980_541": {
+    "work_location": "Buenos Aires, Argentina",
+    "note": "Adolfo Prez Esquivel - peace 1980"
+  },
+  "peace_1982_543": {
+    "work_location": "Bromma, Sweden",
+    "note": "home they designed in ppelviken, near Bromma"
+  },
+  "peace_1982_544": {
+    "work_location": "Geneva, Switzerland",
+    "note": "Mexico, UN"
+  },
+  "peace_1983_545": {
+    "work_location": "Gda_sk, Poland",
+    "note": "Lech Wa__sa - peace 1983"
+  },
+  "peace_1984_546": {
+    "work_location": "Soweto, South Africa",
+    "note": "Soweto on Vilakazi Street"
+  },
+  "peace_1985_547": {
+    "work_location": "Boston, Massachusetts, USA",
+    "note": "International Physicians for the Prevention of Nuclear War - peace 1985"
+  },
+  "peace_1986_548": {
+    "work_location": "New York, NY, USA",
+    "note": "distinguished professor of Judaic Studies at The City College of New York"
+  },
+  "peace_1987_549": {
+    "work_location": "San José, Costa Rica",
+    "note": "Oscar Arias Snchez - peace 1987"
+  },
+  "peace_1988_550": {
+    "work_location": "New York, NY, USA",
+    "note": "United Nations Peacekeeping Forces - peace 1988"
+  },
+  "peace_1989_551": {
+    "work_location": "Dharamshala, India",
+    "note": "Dharamshala, Himachal Pradesh, in northern India from Chinese occupation of Tibet, 14th Dalai Lama (Tenzin Gyatso)"
+  },
+  "peace_1990_552": {
+    "work_location": "Moscow, Russia",
+    "note": "Moscow where he served as the leader of the Communist Party and President, and in his earlier career in Stavropol, where he held key positions in the Party"
+  },
+  "peace_1991_553": {
+    "work_location": "Rangoon, Myanmar",
+    "note": "Yangon"
+  },
+  "peace_1992_554": {
+    "work_location": "Guatemala City, Guatemala",
+    "note": "Quich, Guatemala, particularly in her home village of Chimel"
+  },
+  "peace_1993_555": {
+    "work_location": "Soweto, South Africa",
+    "note": "Gauteng, primarily in Soweto and Johannesburg"
+  },
+  "peace_1993_556": {
+    "work_location": "Cape Town, South Africa",
+    "note": "F.W. de Klerk - peace 1993"
+  },
+  "peace_1994_557": {
+    "work_location": "Tunis, Tunisia",
+    "note": "headquarters during peace negotiations, Oslo Accords"
+  },
+  "peace_1994_558": {
+    "work_location": "Tel Aviv, Israel",
+    "note": "Tel Aviv, Israel, at 12 Oppenheimer Street, during Oslo Accords"
+  },
+  "peace_1994_559": {
+    "work_location": "Tel Aviv, Israel",
+    "note": "prime minister during Oslo Accords"
+  },
+  "peace_1995_560": {
+    "work_location": "London, England",
+    "note": "worked with James Chadwick"
+  },
+  "peace_1995_561": {
+    "work_location": "Pugwash, Nova Scotia, Canada",
+    "note": "first conference: Took place in July 1957 at the estate of American industrialist Cyrus Eaton, who hosted and funded the meeting in his hometown"
+  },
+  "peace_1996_562": {
+    "work_location": "Dili, East Timor",
+    "note": "Carlos Filipe Ximenes Belo - peace 1996"
+  },
+  "peace_1996_563": {
+    "work_location": "Sydney, Australia",
+    "note": "exile in Sydney, Australia, Mozambique, Sydney, and Lisbon"
+  },
+  "peace_1997_564": {
+    "work_location": "Geneva, Switzerland",
+    "note": "International Campaign to Ban Landmines - peace 1997"
+  },
+  "peace_1997_565": {
+    "work_location": "Putney, Vermont",
+    "note": "work on International Campaign to Ban Landmines"
+  },
+  "peace_1998_566": {
+    "work_location": "Londonderry, Northern Ireland",
+    "note": "John Hume - peace 1998"
+  },
+  "peace_1998_567": {
+    "work_location": "Belfast, Northern Ireland",
+    "note": "David Trimble - peace 1998"
+  },
+  "peace_1999_568": {
+    "work_location": "Geneva, Switzerland",
+    "note": "Doctors Without Borders - peace 1999"
+  },
+  "peace_2000_725": {
+    "work_location": "Seoul, South Korea",
+    "note": "He was also forced into exile, including a period in Boston, where he taught at Harvard University, was from the port city of Mokpo, presidentially at Blue House (Cheong Wa Dae), Jongno District of Seoul"
+  },
+  "peace_2001_748": {
+    "work_location": "New York, NY, USA",
+    "note": "United Nations - peace 2001"
+  },
+  "peace_2001_749": {
+    "work_location": "New York, NY, USA",
+    "note": "Kofi Annan - peace 2001"
+  },
+  "peace_2002_762": {
+    "work_location": "Atlanta, Georgia",
+    "note": "Plains, Georgia, and Atlanta, Georgia"
+  },
+  "peace_2003_773": {
+    "work_location": "Tehran, Iran",
+    "note": "exile in London, United Kingdom"
+  },
+  "peace_2004_783": {
+    "work_location": "Nairobi, Kenya",
+    "note": "Wangari Maathai - peace 2004"
+  },
+  "peace_2005_797": {
+    "work_location": "Vienna, Austria",
+    "note": "International Atomic Energy Agency - peace 2005"
+  },
+  "peace_2005_798": {
+    "work_location": "Vienna, Austria",
+    "note": "associated with International Atomic Energy Association"
+  },
+  "peace_2006_809": {
+    "work_location": "Jobra, Bangladesh",
+    "note": "village of Jobra, near Chittagong University"
+  },
+  "peace_2006_810": {
+    "work_location": "Dhaka, Bangladesh",
+    "note": "Yunus's bank"
+  },
+  "peace_2007_818": {
+    "work_location": "Geneva, Switzerland",
+    "note": "The IPCC is hosted within the World Meteorological Organization (WMO) headquarters"
+  },
+  "peace_2007_819": {
+    "work_location": "Nashville, Tennessee",
+    "note": "Al Gore - peace 2007"
+  },
+  "peace_2008_833": {
+    "work_location": "New York, NY, USA",
+    "note": "Martti Ahtisaari - peace 2008"
+  },
+  "peace_2009_845": {
+    "work_location": "Washington, D.C., USA",
+    "note": "Barack Obama - peace 2009"
+  },
+  "peace_2010_855": {
+    "work_location": "Beijing, China",
+    "note": "imprisoned there as well"
+  },
+  "peace_2011_869": {
+    "work_location": "Monrovia, Liberia",
+    "note": "Ellen Johnson Sirleaf - peace 2011"
+  },
+  "peace_2011_870": {
+    "work_location": "Monrovia, Liberia",
+    "note": "Leymah Gbowee - peace 2011"
+  },
+  "peace_2011_871": {
+    "work_location": "Sana'a, Yemen",
+    "note": "Tawakkol Karman - peace 2011"
+  },
+  "peace_2012_881": {
+    "work_location": "Brussels, Belgiium",
+    "note": "European Union - peace 2012"
+  },
+  "peace_2013_893": {
+    "work_location": "The Hague, Netherlands",
+    "note": "Organisation for the Prohibition of Chemical Weapons - peace 2013"
+  },
+  "peace_2014_913": {
+    "work_location": "New Delhi, India",
+    "note": "Kailash Satyarthi - peace 2014"
+  },
+  "peace_2014_914": {
+    "work_location": "Swat, Pakistan",
+    "note": "Birmingham, United Kingdom"
+  },
+  "peace_2015_925": {
+    "work_location": "Tunis, Tunisia",
+    "note": "National Dialogue Quartet - peace 2015"
+  },
+  "peace_2016_934": {
+    "work_location": "Bogotá, Colombia",
+    "note": "Juan Manuel Santos - peace 2016"
+  },
+  "peace_2017_948": {
+    "work_location": "Geneva, Switzerland",
+    "note": "International Campaign to Abolish Nuclear Weapons - peace 2017"
+  },
+  "peace_2018_966": {
+    "work_location": "Bukavu, Democratic Republic of Congo",
+    "note": "Bukavu, in the Democratic Republic of Congo, where he founded and is a director at the Panzi Hospital"
+  },
+  "peace_2018_967": {
+    "work_location": "Baden-Württemberg, Germany",
+    "note": "born in the village of Kocho in the Sinjar District of Iraq"
+  },
+  "peace_2019_981": {
+    "work_location": "Addis Ababa, Ethiopia",
+    "note": "lived in Addis Ababa, the capital of Ethiopia, while doing the work that led to his Nobel Peace Prize, though he was born in Beshasha"
+  },
+  "peace_2020_994": {
+    "work_location": "Rome, Italy",
+    "note": "World Food Programme - peace 2020"
+  },
+  "peace_2021_1005": {
+    "work_location": "Manila, Philippines",
+    "note": "Maria Ressa - peace 2021"
+  },
+  "peace_2021_1006": {
+    "work_location": "Moscow, Russia",
+    "note": "born in Samara (then Kuybyshev)"
+  },
+  "peace_2022_1018": {
+    "work_location": "Minsk, Belarus",
+    "note": "Ales Bialiatski - peace 2022"
+  },
+  "peace_2022_1019": {
+    "work_location": "Moscow, Russia",
+    "note": "Memorial - peace 2022"
+  },
+  "peace_2022_1020": {
+    "work_location": "Kyiv, Ukraine",
+    "note": "Center for Civil Liberties - peace 2022"
+  },
+  "peace_2023_1033": {
+    "work_location": "Tehran, Iran",
+    "note": "Evin Prison in Tehran, Iran"
+  },
+  "peace_2024_1043": {
+    "work_location": "Nagasaki, Japan",
+    "note": "Nihon Hidankyo - peace 2024"
+  },
+  "peace_2025_1057": {
+    "work_location": "Caracas, Venezuela",
+    "note": "Maria Corina Machado - peace 2025"
+  },
+  "economics_1974_684": {
+    "work_location": "Stockholm, Sweden",
+    "note": "based at Stockholm University, he also frequently lectured in the U.S., held positions at institutions like the Center for Study of Democratic Institutions in Santa Barbara, and served as the executive secretary for the United Nations Economic Commission for Europe."
+  },
+  "economics_1974_685": {
+    "work_location": "Freiburg, Germany",
+    "note": "Friedrich von Hayek - economics 1974"
+  },
+  "physics_1909_14": {
+    "work_location": "Strasbourg, France",
+    "note": "Modern name for historical Strasbourg, Germany"
+  },
+  "physics_1914_19": {
+    "work_location": "Frankfurt, Germany",
+    "note": "Modern name for Frankfurt-on-the-Main"
+  },
+  "physics_1951_56": {
+    "work_location": "Harwell, Oxfordshire, UK",
+    "note": "Harwell Science and Innovation Campus"
+  },
+  "chemistry_1959_223": {
+    "work_location": "Prague, Czech Republic",
+    "note": "Modern name for Prague, Czechoslovakia"
+  },
+  "chemistry_1988_272": {
+    "work_location": "Frankfurt, Germany",
+    "note": "Modern name for Frankfurt-on-the-Main"
+  },
+  "medicine_1952_353": {
+    "work_location": "Rutgers University, New Brunswick, New Jersey, USA",
+    "note": "Selman A. Waksman - worked at Rutgers, not New Brunswick, Canada"
+  }
+}

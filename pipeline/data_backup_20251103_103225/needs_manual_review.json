@@ -1,0 +1,2712 @@
+[
+  {
+    "laureate_id": "physics_1903_6",
+    "name": "Marie Curie",
+    "category": "physics",
+    "prize_year": 1903,
+    "birth_location": "Warsaw, Russian Empire (now Poland)",
+    "current_work_location": "Warsaw, Russian Empire (now Poland)",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "physics_1999_159",
+    "name": "Martinus J.G. Veltman",
+    "category": "physics",
+    "prize_year": 1999,
+    "birth_location": "Waalwijk, the Netherlands",
+    "current_work_location": "Waalwijk, the Netherlands",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "physics_2017_941",
+    "name": "Rainer Weiss",
+    "category": "physics",
+    "prize_year": 2017,
+    "birth_location": "Berlin, Germany",
+    "current_work_location": "Berlin, Germany",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "physics_2017_942",
+    "name": "Barry C. Barish",
+    "category": "physics",
+    "prize_year": 2017,
+    "birth_location": "Omaha, NE, USA",
+    "current_work_location": "Omaha, NE, USA",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "physics_2017_943",
+    "name": "Kip S. Thorne",
+    "category": "physics",
+    "prize_year": 2017,
+    "birth_location": "Logan, UT, USA",
+    "current_work_location": "Logan, UT, USA",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "chemistry_1993_278",
+    "name": "Kary B. Mullis",
+    "category": "chemistry",
+    "prize_year": 1993,
+    "birth_location": "Lenoir, NC, USA",
+    "current_work_location": "Lenoir, NC, USA",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "chemistry_2001_741",
+    "name": "William Knowles",
+    "category": "chemistry",
+    "prize_year": 2001,
+    "birth_location": "Taunton, MA, USA",
+    "current_work_location": "Taunton, MA, USA",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "medicine_2005_790",
+    "name": "J. Robin Warren",
+    "category": "medicine",
+    "prize_year": 2005,
+    "birth_location": "Adelaide, Australia",
+    "current_work_location": "Adelaide, Australia",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1901_569",
+    "name": "Sully Prudhomme",
+    "category": "literature",
+    "prize_year": 1901,
+    "birth_location": "Paris, France",
+    "current_work_location": "Paris, France",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1902_571",
+    "name": "Theodor Mommsen",
+    "category": "literature",
+    "prize_year": 1902,
+    "birth_location": "Garding, Schleswig (now Germany)",
+    "current_work_location": "Garding, Schleswig (now Germany)",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1903_572",
+    "name": "Bjørnstjerne Bjørnson",
+    "category": "literature",
+    "prize_year": 1903,
+    "birth_location": "Kvikne, Norway",
+    "current_work_location": "Kvikne, Norway",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1904_573",
+    "name": "Frédéric Mistral",
+    "category": "literature",
+    "prize_year": 1904,
+    "birth_location": "Maillane, France",
+    "current_work_location": "Maillane, France",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1904_574",
+    "name": "José Echegaray",
+    "category": "literature",
+    "prize_year": 1904,
+    "birth_location": "Madrid, Spain",
+    "current_work_location": "Madrid, Spain",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1905_575",
+    "name": "Henryk Sienkiewicz",
+    "category": "literature",
+    "prize_year": 1905,
+    "birth_location": "Wola Okrzejska, Poland",
+    "current_work_location": "Wola Okrzejska, Poland",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1906_576",
+    "name": "Giosuè Carducci",
+    "category": "literature",
+    "prize_year": 1906,
+    "birth_location": "Val di Castello, Tuscany (now Italy)",
+    "current_work_location": "Val di Castello, Tuscany (now Italy)",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1907_577",
+    "name": "Rudyard Kipling",
+    "category": "literature",
+    "prize_year": 1907,
+    "birth_location": "Bombay (now Mumbai), British India (now India)",
+    "current_work_location": "Bombay (now Mumbai), British India (now India)",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1908_578",
+    "name": "Rudolf Eucken",
+    "category": "literature",
+    "prize_year": 1908,
+    "birth_location": "Aurich, East Friesland (now Germany)",
+    "current_work_location": "Aurich, East Friesland (now Germany)",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1909_579",
+    "name": "Selma Lagerlöf",
+    "category": "literature",
+    "prize_year": 1909,
+    "birth_location": "Mårbacka, Sweden",
+    "current_work_location": "Mårbacka, Sweden",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1910_580",
+    "name": "Paul Heyse",
+    "category": "literature",
+    "prize_year": 1910,
+    "birth_location": "Berlin, Prussia (now Germany)",
+    "current_work_location": "Berlin, Prussia (now Germany)",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1911_581",
+    "name": "Maurice Maeterlinck",
+    "category": "literature",
+    "prize_year": 1911,
+    "birth_location": "Ghent, Belgium",
+    "current_work_location": "Ghent, Belgium",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1912_582",
+    "name": "Gerhart Hauptmann",
+    "category": "literature",
+    "prize_year": 1912,
+    "birth_location": "Bad Salzbrunn, Prussia (now Poland)",
+    "current_work_location": "Bad Salzbrunn, Prussia (now Poland)",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1913_583",
+    "name": "Rabindranath Tagore",
+    "category": "literature",
+    "prize_year": 1913,
+    "birth_location": "Calcutta, India",
+    "current_work_location": "Calcutta, India",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1915_584",
+    "name": "Romain Rolland",
+    "category": "literature",
+    "prize_year": 1915,
+    "birth_location": "Clamecy, France",
+    "current_work_location": "Clamecy, France",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1916_585",
+    "name": "Verner von Heidenstam",
+    "category": "literature",
+    "prize_year": 1916,
+    "birth_location": "Olshammar, Sweden",
+    "current_work_location": "Olshammar, Sweden",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1917_586",
+    "name": "Karl Gjellerup",
+    "category": "literature",
+    "prize_year": 1917,
+    "birth_location": "Roholte, Denmark",
+    "current_work_location": "Roholte, Denmark",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1917_587",
+    "name": "Henrik Pontoppidan",
+    "category": "literature",
+    "prize_year": 1917,
+    "birth_location": "Fredericia, Denmark",
+    "current_work_location": "Fredericia, Denmark",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1919_588",
+    "name": "Carl Spitteler",
+    "category": "literature",
+    "prize_year": 1919,
+    "birth_location": "Liestal, Switzerland",
+    "current_work_location": "Liestal, Switzerland",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1920_589",
+    "name": "Knut Hamsun",
+    "category": "literature",
+    "prize_year": 1920,
+    "birth_location": "Lom, Norway",
+    "current_work_location": "Lom, Norway",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1921_590",
+    "name": "Anatole France",
+    "category": "literature",
+    "prize_year": 1921,
+    "birth_location": "Paris, France",
+    "current_work_location": "Paris, France",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1922_592",
+    "name": "Jacinto Benavente",
+    "category": "literature",
+    "prize_year": 1922,
+    "birth_location": "Madrid, Spain",
+    "current_work_location": "Madrid, Spain",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1923_593",
+    "name": "William Butler Yeats",
+    "category": "literature",
+    "prize_year": 1923,
+    "birth_location": "Dublin, Ireland",
+    "current_work_location": "Dublin, Ireland",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1924_594",
+    "name": "Władysław Reymont",
+    "category": "literature",
+    "prize_year": 1924,
+    "birth_location": "Kobiele Wielkie, Russian Empire (now Poland)",
+    "current_work_location": "Kobiele Wielkie, Russian Empire (now Poland)",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1925_596",
+    "name": "George Bernard Shaw",
+    "category": "literature",
+    "prize_year": 1925,
+    "birth_location": "Dublin, Ireland",
+    "current_work_location": "Dublin, Ireland",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1926_597",
+    "name": "Grazia Deledda",
+    "category": "literature",
+    "prize_year": 1926,
+    "birth_location": "Nuoro, Sardinia, Italy",
+    "current_work_location": "Nuoro, Sardinia, Italy",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1927_600",
+    "name": "Henri Bergson",
+    "category": "literature",
+    "prize_year": 1927,
+    "birth_location": "Paris, France",
+    "current_work_location": "Paris, France",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1928_601",
+    "name": "Sigrid Undset",
+    "category": "literature",
+    "prize_year": 1928,
+    "birth_location": "Kalundborg, Denmark",
+    "current_work_location": "Kalundborg, Denmark",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1929_602",
+    "name": "Thomas Mann",
+    "category": "literature",
+    "prize_year": 1929,
+    "birth_location": "Lübeck, Germany",
+    "current_work_location": "Lübeck, Germany",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1930_603",
+    "name": "Sinclair Lewis",
+    "category": "literature",
+    "prize_year": 1930,
+    "birth_location": "Sauk Centre, MN, USA",
+    "current_work_location": "Sauk Centre, MN, USA",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1931_604",
+    "name": "Erik Axel Karlfeldt",
+    "category": "literature",
+    "prize_year": 1931,
+    "birth_location": "Karlbo, Sweden",
+    "current_work_location": "Karlbo, Sweden",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1932_605",
+    "name": "John Galsworthy",
+    "category": "literature",
+    "prize_year": 1932,
+    "birth_location": "Kingston Hill, United Kingdom",
+    "current_work_location": "Kingston Hill, United Kingdom",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1933_606",
+    "name": "Ivan Bunin",
+    "category": "literature",
+    "prize_year": 1933,
+    "birth_location": "Voronezh, Russia",
+    "current_work_location": "Voronezh, Russia",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1934_607",
+    "name": "Luigi Pirandello",
+    "category": "literature",
+    "prize_year": 1934,
+    "birth_location": "Agrigento, Sicily, Italy",
+    "current_work_location": "Agrigento, Sicily, Italy",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1936_608",
+    "name": "Eugene O'Neill",
+    "category": "literature",
+    "prize_year": 1936,
+    "birth_location": "New York, NY, USA",
+    "current_work_location": "New York, NY, USA",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1937_609",
+    "name": "Roger Martin du Gard",
+    "category": "literature",
+    "prize_year": 1937,
+    "birth_location": "Neuilly-sur-Seine, France",
+    "current_work_location": "Neuilly-sur-Seine, France",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1938_610",
+    "name": "Pearl Buck",
+    "category": "literature",
+    "prize_year": 1938,
+    "birth_location": "Hillsboro, WV, USA",
+    "current_work_location": "Hillsboro, WV, USA",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1939_613",
+    "name": "Frans Eemil Sillanpää",
+    "category": "literature",
+    "prize_year": 1939,
+    "birth_location": "Hämeenkyrö, Russian Empire (now Finland)",
+    "current_work_location": "Hämeenkyrö, Russian Empire (now Finland)",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1944_614",
+    "name": "Johannes V. Jensen",
+    "category": "literature",
+    "prize_year": 1944,
+    "birth_location": "Farsø, Denmark",
+    "current_work_location": "Farsø, Denmark",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1945_615",
+    "name": "Gabriela Mistral",
+    "category": "literature",
+    "prize_year": 1945,
+    "birth_location": "Vicuña, Chile",
+    "current_work_location": "Vicuña, Chile",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1946_617",
+    "name": "Hermann Hesse",
+    "category": "literature",
+    "prize_year": 1946,
+    "birth_location": "Calw, Germany",
+    "current_work_location": "Calw, Germany",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1947_618",
+    "name": "André Gide",
+    "category": "literature",
+    "prize_year": 1947,
+    "birth_location": "Paris, France",
+    "current_work_location": "Paris, France",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1948_619",
+    "name": "T.S. Eliot",
+    "category": "literature",
+    "prize_year": 1948,
+    "birth_location": "St. Louis, MO, USA",
+    "current_work_location": "St. Louis, MO, USA",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1949_620",
+    "name": "William Faulkner",
+    "category": "literature",
+    "prize_year": 1949,
+    "birth_location": "New Albany, MS, USA",
+    "current_work_location": "New Albany, MS, USA",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1950_621",
+    "name": "Bertrand Russell",
+    "category": "literature",
+    "prize_year": 1950,
+    "birth_location": "Trelleck, United Kingdom",
+    "current_work_location": "Trelleck, United Kingdom",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1951_622",
+    "name": "Pär Lagerkvist",
+    "category": "literature",
+    "prize_year": 1951,
+    "birth_location": "Växjö, Sweden",
+    "current_work_location": "Växjö, Sweden",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1952_623",
+    "name": "François Mauriac",
+    "category": "literature",
+    "prize_year": 1952,
+    "birth_location": "Bordeaux, France",
+    "current_work_location": "Bordeaux, France",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1953_624",
+    "name": "Winston Churchill",
+    "category": "literature",
+    "prize_year": 1953,
+    "birth_location": "Woodstock, United Kingdom",
+    "current_work_location": "Woodstock, United Kingdom",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1954_625",
+    "name": "Ernest Hemingway",
+    "category": "literature",
+    "prize_year": 1954,
+    "birth_location": "Oak Park, IL, USA",
+    "current_work_location": "Oak Park, IL, USA",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1955_626",
+    "name": "Halldór Laxness",
+    "category": "literature",
+    "prize_year": 1955,
+    "birth_location": "Reykjavik, Iceland",
+    "current_work_location": "Reykjavik, Iceland",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1956_627",
+    "name": "Juan Ramón Jiménez",
+    "category": "literature",
+    "prize_year": 1956,
+    "birth_location": "Moguer, Spain",
+    "current_work_location": "Moguer, Spain",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1957_628",
+    "name": "Albert Camus",
+    "category": "literature",
+    "prize_year": 1957,
+    "birth_location": "Mondovi, French Algeria (now Algeria)",
+    "current_work_location": "Mondovi, French Algeria (now Algeria)",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1958_629",
+    "name": "Boris Pasternak",
+    "category": "literature",
+    "prize_year": 1958,
+    "birth_location": "Moscow, Russia",
+    "current_work_location": "Moscow, Russia",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1959_630",
+    "name": "Salvatore Quasimodo",
+    "category": "literature",
+    "prize_year": 1959,
+    "birth_location": "Modica, Italy",
+    "current_work_location": "Modica, Italy",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1960_631",
+    "name": "Saint-John Perse",
+    "category": "literature",
+    "prize_year": 1960,
+    "birth_location": "Pointe-à-Pitre, Guadeloupe, France",
+    "current_work_location": "Pointe-à-Pitre, Guadeloupe, France",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1961_633",
+    "name": "Ivo Andrić",
+    "category": "literature",
+    "prize_year": 1961,
+    "birth_location": "Dolac, Bosnia (now Bosnia and Herzegovina)",
+    "current_work_location": "Dolac, Bosnia (now Bosnia and Herzegovina)",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1962_634",
+    "name": "John Steinbeck",
+    "category": "literature",
+    "prize_year": 1962,
+    "birth_location": "Salinas, CA, USA",
+    "current_work_location": "Salinas, CA, USA",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1963_635",
+    "name": "Giorgos Seferis",
+    "category": "literature",
+    "prize_year": 1963,
+    "birth_location": "Smyrna (now Izmir), Ottoman Empire (now Turkey)",
+    "current_work_location": "Smyrna (now Izmir), Ottoman Empire (now Turkey)",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1964_637",
+    "name": "Jean-Paul Sartre",
+    "category": "literature",
+    "prize_year": 1964,
+    "birth_location": "Paris, France",
+    "current_work_location": "Paris, France",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1965_638",
+    "name": "Mikhail Sholokhov",
+    "category": "literature",
+    "prize_year": 1965,
+    "birth_location": "Veshenskaya, Russia",
+    "current_work_location": "Veshenskaya, Russia",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1966_639",
+    "name": "Shmuel Agnon",
+    "category": "literature",
+    "prize_year": 1966,
+    "birth_location": "Buczacz (now Buchach), Austria-Hungary (now Ukraine)",
+    "current_work_location": "Buczacz (now Buchach), Austria-Hungary (now Ukraine)",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1966_640",
+    "name": "Nelly Sachs",
+    "category": "literature",
+    "prize_year": 1966,
+    "birth_location": "Berlin, Germany",
+    "current_work_location": "Berlin, Germany",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1967_641",
+    "name": "Miguel Angel Asturias",
+    "category": "literature",
+    "prize_year": 1967,
+    "birth_location": "Guatemala City, Guatemala",
+    "current_work_location": "Guatemala City, Guatemala",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1968_642",
+    "name": "Yasunari Kawabata",
+    "category": "literature",
+    "prize_year": 1968,
+    "birth_location": "Osaka, Japan",
+    "current_work_location": "Osaka, Japan",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1969_643",
+    "name": "Samuel Beckett",
+    "category": "literature",
+    "prize_year": 1969,
+    "birth_location": "Dublin, Ireland",
+    "current_work_location": "Dublin, Ireland",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1970_644",
+    "name": "Aleksandr Solzhenitsyn",
+    "category": "literature",
+    "prize_year": 1970,
+    "birth_location": "Kislovodsk, Russia",
+    "current_work_location": "Kislovodsk, Russia",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1971_645",
+    "name": "Pablo Neruda",
+    "category": "literature",
+    "prize_year": 1971,
+    "birth_location": "Parral, Chile",
+    "current_work_location": "Parral, Chile",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1972_647",
+    "name": "Heinrich Böll",
+    "category": "literature",
+    "prize_year": 1972,
+    "birth_location": "Cologne, Germany",
+    "current_work_location": "Cologne, Germany",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1973_648",
+    "name": "Patrick White",
+    "category": "literature",
+    "prize_year": 1973,
+    "birth_location": "London, United Kingdom",
+    "current_work_location": "London, United Kingdom",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1974_649",
+    "name": "Eyvind Johnson",
+    "category": "literature",
+    "prize_year": 1974,
+    "birth_location": "Svartbjörnsbyn, Sweden",
+    "current_work_location": "Svartbjörnsbyn, Sweden",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1974_650",
+    "name": "Harry Martinson",
+    "category": "literature",
+    "prize_year": 1974,
+    "birth_location": "Jämshög, Sweden",
+    "current_work_location": "Jämshög, Sweden",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1975_651",
+    "name": "Eugenio Montale",
+    "category": "literature",
+    "prize_year": 1975,
+    "birth_location": "Genoa, Italy",
+    "current_work_location": "Genoa, Italy",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1976_652",
+    "name": "Saul Bellow",
+    "category": "literature",
+    "prize_year": 1976,
+    "birth_location": "Lachine, Quebec (now Montreal), Canada",
+    "current_work_location": "Lachine, Quebec (now Montreal), Canada",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1977_653",
+    "name": "Vicente Aleixandre",
+    "category": "literature",
+    "prize_year": 1977,
+    "birth_location": "Sevilla, Spain",
+    "current_work_location": "Sevilla, Spain",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1978_654",
+    "name": "Isaac Bashevis Singer",
+    "category": "literature",
+    "prize_year": 1978,
+    "birth_location": "Leoncin, Russian Empire (now Poland)",
+    "current_work_location": "Leoncin, Russian Empire (now Poland)",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1979_655",
+    "name": "Odysseus Elytis",
+    "category": "literature",
+    "prize_year": 1979,
+    "birth_location": "Iráklion, Crete (now Greece)",
+    "current_work_location": "Iráklion, Crete (now Greece)",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1980_657",
+    "name": "Czesław Miłosz",
+    "category": "literature",
+    "prize_year": 1980,
+    "birth_location": "Śeteniai, Russian Empire (now Lithuania)",
+    "current_work_location": "Śeteniai, Russian Empire (now Lithuania)",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1981_658",
+    "name": "Elias Canetti",
+    "category": "literature",
+    "prize_year": 1981,
+    "birth_location": "Ruse, Bulgaria",
+    "current_work_location": "Ruse, Bulgaria",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1982_659",
+    "name": "Gabriel García Márquez",
+    "category": "literature",
+    "prize_year": 1982,
+    "birth_location": "Aracataca, Colombia",
+    "current_work_location": "Aracataca, Colombia",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1983_660",
+    "name": "William Golding",
+    "category": "literature",
+    "prize_year": 1983,
+    "birth_location": "Newquay, United Kingdom",
+    "current_work_location": "Newquay, United Kingdom",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1984_661",
+    "name": "Jaroslav Seifert",
+    "category": "literature",
+    "prize_year": 1984,
+    "birth_location": "Prague, Austria-Hungary (now Czech Republic)",
+    "current_work_location": "Prague, Austria-Hungary (now Czech Republic)",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1985_662",
+    "name": "Claude Simon",
+    "category": "literature",
+    "prize_year": 1985,
+    "birth_location": "Tananarive (now Antananarivo), Madagascar",
+    "current_work_location": "Tananarive (now Antananarivo), Madagascar",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1986_663",
+    "name": "Wole Soyinka",
+    "category": "literature",
+    "prize_year": 1986,
+    "birth_location": "Abeokuta, Nigeria",
+    "current_work_location": "Abeokuta, Nigeria",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1987_664",
+    "name": "Joseph Brodsky",
+    "category": "literature",
+    "prize_year": 1987,
+    "birth_location": "Leningrad (now St. Petersburg), USSR (now Russia)",
+    "current_work_location": "Leningrad (now St. Petersburg), USSR (now Russia)",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1988_665",
+    "name": "Naguib Mahfouz",
+    "category": "literature",
+    "prize_year": 1988,
+    "birth_location": "Cairo, Egypt",
+    "current_work_location": "Cairo, Egypt",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1989_666",
+    "name": "Camilo José Cela",
+    "category": "literature",
+    "prize_year": 1989,
+    "birth_location": "Iria Flavia, Spain",
+    "current_work_location": "Iria Flavia, Spain",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1990_667",
+    "name": "Octavio Paz",
+    "category": "literature",
+    "prize_year": 1990,
+    "birth_location": "Mexico City, Mexico",
+    "current_work_location": "Mexico City, Mexico",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1991_668",
+    "name": "Nadine Gordimer",
+    "category": "literature",
+    "prize_year": 1991,
+    "birth_location": "Springs, South Africa",
+    "current_work_location": "Springs, South Africa",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1992_669",
+    "name": "Derek Walcott",
+    "category": "literature",
+    "prize_year": 1992,
+    "birth_location": "Castries, Saint Lucia",
+    "current_work_location": "Castries, Saint Lucia",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1993_670",
+    "name": "Toni Morrison",
+    "category": "literature",
+    "prize_year": 1993,
+    "birth_location": "Lorain, OH, USA",
+    "current_work_location": "Lorain, OH, USA",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1994_671",
+    "name": "Kenzaburo Oe",
+    "category": "literature",
+    "prize_year": 1994,
+    "birth_location": "Uchiko, Japan",
+    "current_work_location": "Uchiko, Japan",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1995_672",
+    "name": "Seamus Heaney",
+    "category": "literature",
+    "prize_year": 1995,
+    "birth_location": "Casteldàwson, Northern Ireland",
+    "current_work_location": "Casteldàwson, Northern Ireland",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1996_673",
+    "name": "Wisława Szymborska",
+    "category": "literature",
+    "prize_year": 1996,
+    "birth_location": "Bnin (now Kórnik), Poland",
+    "current_work_location": "Bnin (now Kórnik), Poland",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1997_674",
+    "name": "Dario Fo",
+    "category": "literature",
+    "prize_year": 1997,
+    "birth_location": "Leggiuno-Sangiano, Italy",
+    "current_work_location": "Leggiuno-Sangiano, Italy",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1998_675",
+    "name": "José Saramago",
+    "category": "literature",
+    "prize_year": 1998,
+    "birth_location": "Azinhaga, Portugal",
+    "current_work_location": "Azinhaga, Portugal",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_1999_676",
+    "name": "Günter Grass",
+    "category": "literature",
+    "prize_year": 1999,
+    "birth_location": "Danzig (now Gdansk), Free City of Danzig (now Poland)",
+    "current_work_location": "Danzig (now Gdansk), Free City of Danzig (now Poland)",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_2000_734",
+    "name": "Xingjian Gao",
+    "category": "literature",
+    "prize_year": 2000,
+    "birth_location": "Ganzhou, China",
+    "current_work_location": "Ganzhou, China",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_2001_747",
+    "name": "V. S. Naipaul",
+    "category": "literature",
+    "prize_year": 2001,
+    "birth_location": "Chaguanas, Trinidad and Tobago",
+    "current_work_location": "Chaguanas, Trinidad and Tobago",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_2002_761",
+    "name": "Imre Kertész",
+    "category": "literature",
+    "prize_year": 2002,
+    "birth_location": "Budapest, Hungary",
+    "current_work_location": "Budapest, Hungary",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_2003_763",
+    "name": "J. M. Coetzee",
+    "category": "literature",
+    "prize_year": 2003,
+    "birth_location": "Cape Town, South Africa",
+    "current_work_location": "Cape Town, South Africa",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_2004_782",
+    "name": "Elfriede Jelinek",
+    "category": "literature",
+    "prize_year": 2004,
+    "birth_location": "Mürzzuschlag, Austria",
+    "current_work_location": "Mürzzuschlag, Austria",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_2005_801",
+    "name": "Harold Pinter",
+    "category": "literature",
+    "prize_year": 2005,
+    "birth_location": "London, United Kingdom",
+    "current_work_location": "London, United Kingdom",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_2006_808",
+    "name": "Orhan Pamuk",
+    "category": "literature",
+    "prize_year": 2006,
+    "birth_location": "Istanbul, Turkey",
+    "current_work_location": "Istanbul, Turkey",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_2007_817",
+    "name": "Doris Lessing",
+    "category": "literature",
+    "prize_year": 2007,
+    "birth_location": "Kermanshah, Persia (now Iran)",
+    "current_work_location": "Kermanshah, Persia (now Iran)",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_2008_832",
+    "name": "Jean-Marie Gustave Le Clézio",
+    "category": "literature",
+    "prize_year": 2008,
+    "birth_location": "Nice, France",
+    "current_work_location": "Nice, France",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_2009_844",
+    "name": "Herta Müller",
+    "category": "literature",
+    "prize_year": 2009,
+    "birth_location": "Nitzkydorf, Banat, Romania",
+    "current_work_location": "Nitzkydorf, Banat, Romania",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_2010_854",
+    "name": "Mario Vargas Llosa",
+    "category": "literature",
+    "prize_year": 2010,
+    "birth_location": "Arequipa, Peru",
+    "current_work_location": "Arequipa, Peru",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_2011_868",
+    "name": "Tomas Tranströmer",
+    "category": "literature",
+    "prize_year": 2011,
+    "birth_location": "Stockholm, Sweden",
+    "current_work_location": "Stockholm, Sweden",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_2012_880",
+    "name": "Mo Yan",
+    "category": "literature",
+    "prize_year": 2012,
+    "birth_location": "Gaomi, China",
+    "current_work_location": "Gaomi, China",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_2013_892",
+    "name": "Alice Munro",
+    "category": "literature",
+    "prize_year": 2013,
+    "birth_location": "Wingham, Canada",
+    "current_work_location": "Wingham, Canada",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_2014_912",
+    "name": "Patrick Modiano",
+    "category": "literature",
+    "prize_year": 2014,
+    "birth_location": "Paris, France",
+    "current_work_location": "Paris, France",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_2015_924",
+    "name": "Svetlana Alexievich",
+    "category": "literature",
+    "prize_year": 2015,
+    "birth_location": "Ivano-Frankivsk, Ukraine",
+    "current_work_location": "Ivano-Frankivsk, Ukraine",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_2016_937",
+    "name": "Bob Dylan",
+    "category": "literature",
+    "prize_year": 2016,
+    "birth_location": "Duluth, MN, USA",
+    "current_work_location": "Duluth, MN, USA",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_2017_947",
+    "name": "Kazuo Ishiguro",
+    "category": "literature",
+    "prize_year": 2017,
+    "birth_location": "Nagasaki, Japan",
+    "current_work_location": "Nagasaki, Japan",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_2018_979",
+    "name": "Olga Tokarczuk",
+    "category": "literature",
+    "prize_year": 2018,
+    "birth_location": "Sulechów, Poland",
+    "current_work_location": "Sulechów, Poland",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_2019_980",
+    "name": "Peter Handke",
+    "category": "literature",
+    "prize_year": 2019,
+    "birth_location": "Griffen, Austria",
+    "current_work_location": "Griffen, Austria",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_2020_993",
+    "name": "Louise Glück",
+    "category": "literature",
+    "prize_year": 2020,
+    "birth_location": "New York, NY, USA",
+    "current_work_location": "New York, NY, USA",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_2021_1004",
+    "name": "Abdulrazak Gurnah",
+    "category": "literature",
+    "prize_year": 2021,
+    "birth_location": "",
+    "current_work_location": "",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_2022_1017",
+    "name": "Annie Ernaux",
+    "category": "literature",
+    "prize_year": 2022,
+    "birth_location": "Lillebonne, France",
+    "current_work_location": "Lillebonne, France",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_2023_1032",
+    "name": "Jon Fosse",
+    "category": "literature",
+    "prize_year": 2023,
+    "birth_location": "Haugesund, Norway",
+    "current_work_location": "Haugesund, Norway",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_2024_1042",
+    "name": "Kang Han",
+    "category": "literature",
+    "prize_year": 2024,
+    "birth_location": "Gwangju, South Korea",
+    "current_work_location": "Gwangju, South Korea",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "literature_2025_1056",
+    "name": "László Krasznahorkai",
+    "category": "literature",
+    "prize_year": 2025,
+    "birth_location": "Gyula, Hungary",
+    "current_work_location": "Gyula, Hungary",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1901_462",
+    "name": "Henry Dunant",
+    "category": "peace",
+    "prize_year": 1901,
+    "birth_location": "Geneva, Switzerland",
+    "current_work_location": "Geneva, Switzerland",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1901_463",
+    "name": "Frédéric Passy",
+    "category": "peace",
+    "prize_year": 1901,
+    "birth_location": "Paris, France",
+    "current_work_location": "Paris, France",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1902_464",
+    "name": "Élie Ducommun",
+    "category": "peace",
+    "prize_year": 1902,
+    "birth_location": "Geneva, Switzerland",
+    "current_work_location": "Geneva, Switzerland",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1902_465",
+    "name": "Albert Gobat",
+    "category": "peace",
+    "prize_year": 1902,
+    "birth_location": "Tramelan, Switzerland",
+    "current_work_location": "Tramelan, Switzerland",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1903_466",
+    "name": "Randal Cremer",
+    "category": "peace",
+    "prize_year": 1903,
+    "birth_location": "Fareham, United Kingdom",
+    "current_work_location": "Fareham, United Kingdom",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1904_467",
+    "name": "Institute of International Law",
+    "category": "peace",
+    "prize_year": 1904,
+    "birth_location": "",
+    "current_work_location": "",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1905_468",
+    "name": "Bertha von Suttner",
+    "category": "peace",
+    "prize_year": 1905,
+    "birth_location": "Prague, Austrian Empire (now Czech Republic)",
+    "current_work_location": "Prague, Austrian Empire (now Czech Republic)",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1906_470",
+    "name": "Theodore Roosevelt",
+    "category": "peace",
+    "prize_year": 1906,
+    "birth_location": "New York, NY, USA",
+    "current_work_location": "New York, NY, USA",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1907_471",
+    "name": "Ernesto Teodoro Moneta",
+    "category": "peace",
+    "prize_year": 1907,
+    "birth_location": "Milan, Austrian Empire (now Italy)",
+    "current_work_location": "Milan, Austrian Empire (now Italy)",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1908_473",
+    "name": "Klas Pontus Arnoldson",
+    "category": "peace",
+    "prize_year": 1908,
+    "birth_location": "Gothenburg, Sweden",
+    "current_work_location": "Gothenburg, Sweden",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1908_474",
+    "name": "Fredrik Bajer",
+    "category": "peace",
+    "prize_year": 1908,
+    "birth_location": "Næstved, Denmark",
+    "current_work_location": "Næstved, Denmark",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1909_475",
+    "name": "Auguste Beernaert",
+    "category": "peace",
+    "prize_year": 1909,
+    "birth_location": "Ostend, Belgium",
+    "current_work_location": "Ostend, Belgium",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1909_476",
+    "name": "Paul Henri d'Estournelles de Constant",
+    "category": "peace",
+    "prize_year": 1909,
+    "birth_location": "La Flèche, France",
+    "current_work_location": "La Flèche, France",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1910_477",
+    "name": "Permanent International Peace Bureau",
+    "category": "peace",
+    "prize_year": 1910,
+    "birth_location": "",
+    "current_work_location": "",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1911_478",
+    "name": "Tobias Asser",
+    "category": "peace",
+    "prize_year": 1911,
+    "birth_location": "Amsterdam, the Netherlands",
+    "current_work_location": "Amsterdam, the Netherlands",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1911_479",
+    "name": "Alfred Fried",
+    "category": "peace",
+    "prize_year": 1911,
+    "birth_location": "Vienna, Austria",
+    "current_work_location": "Vienna, Austria",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1912_480",
+    "name": "Elihu Root",
+    "category": "peace",
+    "prize_year": 1912,
+    "birth_location": "Clinton, NY, USA",
+    "current_work_location": "Clinton, NY, USA",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1913_481",
+    "name": "Henri La Fontaine",
+    "category": "peace",
+    "prize_year": 1913,
+    "birth_location": "Brussels, Belgium",
+    "current_work_location": "Brussels, Belgium",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1917_482",
+    "name": "International Committee of the Red Cross",
+    "category": "peace",
+    "prize_year": 1917,
+    "birth_location": "",
+    "current_work_location": "",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1944_482",
+    "name": "International Committee of the Red Cross",
+    "category": "peace",
+    "prize_year": 1944,
+    "birth_location": "",
+    "current_work_location": "",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1963_482",
+    "name": "International Committee of the Red Cross",
+    "category": "peace",
+    "prize_year": 1963,
+    "birth_location": "",
+    "current_work_location": "",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1919_483",
+    "name": "Woodrow Wilson",
+    "category": "peace",
+    "prize_year": 1919,
+    "birth_location": "Staunton, VA, USA",
+    "current_work_location": "Staunton, VA, USA",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1920_484",
+    "name": "Léon Bourgeois",
+    "category": "peace",
+    "prize_year": 1920,
+    "birth_location": "Paris, France",
+    "current_work_location": "Paris, France",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1921_485",
+    "name": "Hjalmar Branting",
+    "category": "peace",
+    "prize_year": 1921,
+    "birth_location": "Stockholm, Sweden",
+    "current_work_location": "Stockholm, Sweden",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1921_486",
+    "name": "Christian Lange",
+    "category": "peace",
+    "prize_year": 1921,
+    "birth_location": "Stavanger, Norway",
+    "current_work_location": "Stavanger, Norway",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1922_487",
+    "name": "Fridtjof Nansen",
+    "category": "peace",
+    "prize_year": 1922,
+    "birth_location": "Kristiania (now Oslo), Norway",
+    "current_work_location": "Kristiania (now Oslo), Norway",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1925_488",
+    "name": "Sir Austen Chamberlain",
+    "category": "peace",
+    "prize_year": 1925,
+    "birth_location": "Birmingham, United Kingdom",
+    "current_work_location": "Birmingham, United Kingdom",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1925_489",
+    "name": "Charles G. Dawes",
+    "category": "peace",
+    "prize_year": 1925,
+    "birth_location": "Marietta, OH, USA",
+    "current_work_location": "Marietta, OH, USA",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1926_490",
+    "name": "Aristide Briand",
+    "category": "peace",
+    "prize_year": 1926,
+    "birth_location": "Nantes, France",
+    "current_work_location": "Nantes, France",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1926_491",
+    "name": "Gustav Stresemann",
+    "category": "peace",
+    "prize_year": 1926,
+    "birth_location": "Berlin, Germany",
+    "current_work_location": "Berlin, Germany",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1927_492",
+    "name": "Ferdinand Buisson",
+    "category": "peace",
+    "prize_year": 1927,
+    "birth_location": "Paris, France",
+    "current_work_location": "Paris, France",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1927_493",
+    "name": "Ludwig Quidde",
+    "category": "peace",
+    "prize_year": 1927,
+    "birth_location": "Bremen, Germany",
+    "current_work_location": "Bremen, Germany",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1929_494",
+    "name": "Frank B. Kellogg",
+    "category": "peace",
+    "prize_year": 1929,
+    "birth_location": "Potsdam, NY, USA",
+    "current_work_location": "Potsdam, NY, USA",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1930_495",
+    "name": "Nathan Söderblom",
+    "category": "peace",
+    "prize_year": 1930,
+    "birth_location": "Trönö, Sweden",
+    "current_work_location": "Trönö, Sweden",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1931_496",
+    "name": "Jane Addams",
+    "category": "peace",
+    "prize_year": 1931,
+    "birth_location": "Cedarville, IL, USA",
+    "current_work_location": "Cedarville, IL, USA",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1933_498",
+    "name": "Sir Norman Angell",
+    "category": "peace",
+    "prize_year": 1933,
+    "birth_location": "Holbeach, United Kingdom",
+    "current_work_location": "Holbeach, United Kingdom",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1934_499",
+    "name": "Arthur Henderson",
+    "category": "peace",
+    "prize_year": 1934,
+    "birth_location": "Glasgow, Scotland",
+    "current_work_location": "Glasgow, Scotland",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1935_500",
+    "name": "Carl von Ossietzky",
+    "category": "peace",
+    "prize_year": 1935,
+    "birth_location": "Hamburg, Germany",
+    "current_work_location": "Hamburg, Germany",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1936_501",
+    "name": "Carlos Saavedra Lamas",
+    "category": "peace",
+    "prize_year": 1936,
+    "birth_location": "Buenos Aires, Argentina",
+    "current_work_location": "Buenos Aires, Argentina",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1937_502",
+    "name": "Robert Cecil",
+    "category": "peace",
+    "prize_year": 1937,
+    "birth_location": "London, United Kingdom",
+    "current_work_location": "London, United Kingdom",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1938_503",
+    "name": "Nansen International Office for Refugees",
+    "category": "peace",
+    "prize_year": 1938,
+    "birth_location": "",
+    "current_work_location": "",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1945_505",
+    "name": "Cordell Hull",
+    "category": "peace",
+    "prize_year": 1945,
+    "birth_location": "Olympus, TN, USA",
+    "current_work_location": "Olympus, TN, USA",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1946_506",
+    "name": "Emily Greene Balch",
+    "category": "peace",
+    "prize_year": 1946,
+    "birth_location": "Jamaica Plain, MA (now Boston, MA), USA",
+    "current_work_location": "Jamaica Plain, MA (now Boston, MA), USA",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1946_507",
+    "name": "John R. Mott",
+    "category": "peace",
+    "prize_year": 1946,
+    "birth_location": "Livingston Manor, NY, USA",
+    "current_work_location": "Livingston Manor, NY, USA",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1947_508",
+    "name": "Friends Service Council",
+    "category": "peace",
+    "prize_year": 1947,
+    "birth_location": "",
+    "current_work_location": "",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1947_509",
+    "name": "American Friends Service Committee",
+    "category": "peace",
+    "prize_year": 1947,
+    "birth_location": "",
+    "current_work_location": "",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1949_510",
+    "name": "John Boyd Orr",
+    "category": "peace",
+    "prize_year": 1949,
+    "birth_location": "Kilmaurs, Scotland",
+    "current_work_location": "Kilmaurs, Scotland",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1951_512",
+    "name": "Léon Jouhaux",
+    "category": "peace",
+    "prize_year": 1951,
+    "birth_location": "Paris, France",
+    "current_work_location": "Paris, France",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1952_513",
+    "name": "Albert Schweitzer",
+    "category": "peace",
+    "prize_year": 1952,
+    "birth_location": "Kaysersberg, Germany (now France)",
+    "current_work_location": "Kaysersberg, Germany (now France)",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1953_514",
+    "name": "George C. Marshall",
+    "category": "peace",
+    "prize_year": 1953,
+    "birth_location": "Uniontown, PA, USA",
+    "current_work_location": "Uniontown, PA, USA",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1954_515",
+    "name": "Office of the United Nations High Commissioner for Refugees",
+    "category": "peace",
+    "prize_year": 1954,
+    "birth_location": "",
+    "current_work_location": "",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1981_515",
+    "name": "Office of the United Nations High Commissioner for Refugees",
+    "category": "peace",
+    "prize_year": 1981,
+    "birth_location": "",
+    "current_work_location": "",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1957_516",
+    "name": "Lester Bowles Pearson",
+    "category": "peace",
+    "prize_year": 1957,
+    "birth_location": "Toronto, Canada",
+    "current_work_location": "Toronto, Canada",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1958_517",
+    "name": "Georges Pire",
+    "category": "peace",
+    "prize_year": 1958,
+    "birth_location": "Dinant, Belgium",
+    "current_work_location": "Dinant, Belgium",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1959_518",
+    "name": "Philip Noel-Baker",
+    "category": "peace",
+    "prize_year": 1959,
+    "birth_location": "London, United Kingdom",
+    "current_work_location": "London, United Kingdom",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1960_519",
+    "name": "Albert Lutuli",
+    "category": "peace",
+    "prize_year": 1960,
+    "birth_location": "Bulawayo, Southern Rhodesia (now Zimbabwe)",
+    "current_work_location": "Bulawayo, Southern Rhodesia (now Zimbabwe)",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1961_520",
+    "name": "Dag Hammarskjöld",
+    "category": "peace",
+    "prize_year": 1961,
+    "birth_location": "Jönköping, Sweden",
+    "current_work_location": "Jönköping, Sweden",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1963_523",
+    "name": "League of Red Cross Societies",
+    "category": "peace",
+    "prize_year": 1963,
+    "birth_location": "",
+    "current_work_location": "",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1964_524",
+    "name": "Martin Luther King Jr.",
+    "category": "peace",
+    "prize_year": 1964,
+    "birth_location": "Atlanta, GA, USA",
+    "current_work_location": "Atlanta, GA, USA",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1965_525",
+    "name": "United Nations Children's Fund",
+    "category": "peace",
+    "prize_year": 1965,
+    "birth_location": "",
+    "current_work_location": "",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1968_526",
+    "name": "René Cassin",
+    "category": "peace",
+    "prize_year": 1968,
+    "birth_location": "Bayonne, France",
+    "current_work_location": "Bayonne, France",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1969_527",
+    "name": "International Labour Organization",
+    "category": "peace",
+    "prize_year": 1969,
+    "birth_location": "",
+    "current_work_location": "",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1970_528",
+    "name": "Norman Borlaug",
+    "category": "peace",
+    "prize_year": 1970,
+    "birth_location": "Cresco, IA, USA",
+    "current_work_location": "Cresco, IA, USA",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1971_529",
+    "name": "Willy Brandt",
+    "category": "peace",
+    "prize_year": 1971,
+    "birth_location": "Lübeck, Germany",
+    "current_work_location": "Lübeck, Germany",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1973_530",
+    "name": "Henry Kissinger",
+    "category": "peace",
+    "prize_year": 1973,
+    "birth_location": "Fürth, Germany",
+    "current_work_location": "Fürth, Germany",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1973_531",
+    "name": "Le Duc Tho",
+    "category": "peace",
+    "prize_year": 1973,
+    "birth_location": "Nam Ha province, Vietnam",
+    "current_work_location": "Nam Ha province, Vietnam",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1974_532",
+    "name": "Seán MacBride",
+    "category": "peace",
+    "prize_year": 1974,
+    "birth_location": "Paris, France",
+    "current_work_location": "Paris, France",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1974_533",
+    "name": "Eisaku Satō",
+    "category": "peace",
+    "prize_year": 1974,
+    "birth_location": "Tabuse, Japan",
+    "current_work_location": "Tabuse, Japan",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1975_534",
+    "name": "Andrei Sakharov",
+    "category": "peace",
+    "prize_year": 1975,
+    "birth_location": "Moscow, Russia",
+    "current_work_location": "Moscow, Russia",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1976_535",
+    "name": "Betty Williams",
+    "category": "peace",
+    "prize_year": 1976,
+    "birth_location": "Belfast, Northern Ireland",
+    "current_work_location": "Belfast, Northern Ireland",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1976_536",
+    "name": "Mairead Corrigan",
+    "category": "peace",
+    "prize_year": 1976,
+    "birth_location": "Belfast, Northern Ireland",
+    "current_work_location": "Belfast, Northern Ireland",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1977_537",
+    "name": "Amnesty International",
+    "category": "peace",
+    "prize_year": 1977,
+    "birth_location": "",
+    "current_work_location": "",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1978_538",
+    "name": "Anwar al-Sadat",
+    "category": "peace",
+    "prize_year": 1978,
+    "birth_location": "Mit Abu al-Kawm, Egypt",
+    "current_work_location": "Mit Abu al-Kawm, Egypt",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1978_539",
+    "name": "Menachem Begin",
+    "category": "peace",
+    "prize_year": 1978,
+    "birth_location": "Brest Litovsk, Russian Empire (now Belarus)",
+    "current_work_location": "Brest Litovsk, Russian Empire (now Belarus)",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1979_540",
+    "name": "Anjezë Gonxhe Bojaxhiu",
+    "category": "peace",
+    "prize_year": 1979,
+    "birth_location": "Uskup (now Skopje), Ottoman Empire (now North Macedonia)",
+    "current_work_location": "Uskup (now Skopje), Ottoman Empire (now North Macedonia)",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1980_541",
+    "name": "Adolfo Pérez Esquivel",
+    "category": "peace",
+    "prize_year": 1980,
+    "birth_location": "Buenos Aires, Argentina",
+    "current_work_location": "Buenos Aires, Argentina",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1982_543",
+    "name": "Alva Myrdal",
+    "category": "peace",
+    "prize_year": 1982,
+    "birth_location": "Uppsala, Sweden",
+    "current_work_location": "Uppsala, Sweden",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1982_544",
+    "name": "Alfonso García Robles",
+    "category": "peace",
+    "prize_year": 1982,
+    "birth_location": "Zamora, Mexico",
+    "current_work_location": "Zamora, Mexico",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1983_545",
+    "name": "Lech Wałęsa",
+    "category": "peace",
+    "prize_year": 1983,
+    "birth_location": "Popowo, Poland",
+    "current_work_location": "Popowo, Poland",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1984_546",
+    "name": "Desmond Tutu",
+    "category": "peace",
+    "prize_year": 1984,
+    "birth_location": "Klerksdorp, South Africa",
+    "current_work_location": "Klerksdorp, South Africa",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1985_547",
+    "name": "International Physicians for the Prevention of Nuclear War",
+    "category": "peace",
+    "prize_year": 1985,
+    "birth_location": "",
+    "current_work_location": "",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1986_548",
+    "name": "Elie Wiesel",
+    "category": "peace",
+    "prize_year": 1986,
+    "birth_location": "Sighet, Romania",
+    "current_work_location": "Sighet, Romania",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1987_549",
+    "name": "Oscar Arias Sánchez",
+    "category": "peace",
+    "prize_year": 1987,
+    "birth_location": "Heredia, Costa Rica",
+    "current_work_location": "Heredia, Costa Rica",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1988_550",
+    "name": "United Nations Peacekeeping Forces",
+    "category": "peace",
+    "prize_year": 1988,
+    "birth_location": "",
+    "current_work_location": "",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1989_551",
+    "name": "Lhamo Thondup",
+    "category": "peace",
+    "prize_year": 1989,
+    "birth_location": "Taktser, Tibet (now China)",
+    "current_work_location": "Taktser, Tibet (now China)",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1990_552",
+    "name": "Mikhail Gorbachev",
+    "category": "peace",
+    "prize_year": 1990,
+    "birth_location": "Privolnoye, USSR (now Russia)",
+    "current_work_location": "Privolnoye, USSR (now Russia)",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1991_553",
+    "name": "Aung San Suu Kyi",
+    "category": "peace",
+    "prize_year": 1991,
+    "birth_location": "Rangoon (now Yangon), Burma (now Myanmar)",
+    "current_work_location": "Rangoon (now Yangon), Burma (now Myanmar)",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1992_554",
+    "name": "Rigoberta Menchú Tum",
+    "category": "peace",
+    "prize_year": 1992,
+    "birth_location": "Aldea Chimel, Guatemala",
+    "current_work_location": "Aldea Chimel, Guatemala",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1993_555",
+    "name": "Nelson Mandela",
+    "category": "peace",
+    "prize_year": 1993,
+    "birth_location": "Mvezo, South Africa",
+    "current_work_location": "Mvezo, South Africa",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1993_556",
+    "name": "F.W. de Klerk",
+    "category": "peace",
+    "prize_year": 1993,
+    "birth_location": "Johannesburg, South Africa",
+    "current_work_location": "Johannesburg, South Africa",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1994_557",
+    "name": "Yasser Arafat",
+    "category": "peace",
+    "prize_year": 1994,
+    "birth_location": "Cairo, Egypt",
+    "current_work_location": "Cairo, Egypt",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1994_558",
+    "name": "Shimon Peres",
+    "category": "peace",
+    "prize_year": 1994,
+    "birth_location": "Vishneva, Poland (now Belarus)",
+    "current_work_location": "Vishneva, Poland (now Belarus)",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1994_559",
+    "name": "Yitzhak Rabin",
+    "category": "peace",
+    "prize_year": 1994,
+    "birth_location": "Jerusalem, British Mandate of Palestine (now Israel)",
+    "current_work_location": "Jerusalem, British Mandate of Palestine (now Israel)",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1995_560",
+    "name": "Joseph Rotblat",
+    "category": "peace",
+    "prize_year": 1995,
+    "birth_location": "Warsaw, Russian Empire (now Poland)",
+    "current_work_location": "Warsaw, Russian Empire (now Poland)",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1995_561",
+    "name": "Pugwash Conferences on Science and World Affairs",
+    "category": "peace",
+    "prize_year": 1995,
+    "birth_location": "",
+    "current_work_location": "",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1996_562",
+    "name": "Carlos Filipe Ximenes Belo",
+    "category": "peace",
+    "prize_year": 1996,
+    "birth_location": "Wailacama, East Timor",
+    "current_work_location": "Wailacama, East Timor",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1996_563",
+    "name": "José Ramos-Horta",
+    "category": "peace",
+    "prize_year": 1996,
+    "birth_location": "Dili, East Timor",
+    "current_work_location": "Dili, East Timor",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1997_564",
+    "name": "International Campaign to Ban Landmines",
+    "category": "peace",
+    "prize_year": 1997,
+    "birth_location": "",
+    "current_work_location": "",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1997_565",
+    "name": "Jody Williams",
+    "category": "peace",
+    "prize_year": 1997,
+    "birth_location": "Rutland, VT, USA",
+    "current_work_location": "Rutland, VT, USA",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1998_566",
+    "name": "John Hume",
+    "category": "peace",
+    "prize_year": 1998,
+    "birth_location": "Londonderry, Northern Ireland",
+    "current_work_location": "Londonderry, Northern Ireland",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1998_567",
+    "name": "David Trimble",
+    "category": "peace",
+    "prize_year": 1998,
+    "birth_location": "Belfast, Northern Ireland",
+    "current_work_location": "Belfast, Northern Ireland",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_1999_568",
+    "name": "Doctors Without Borders",
+    "category": "peace",
+    "prize_year": 1999,
+    "birth_location": "",
+    "current_work_location": "",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_2000_725",
+    "name": "Kim Dae-jung",
+    "category": "peace",
+    "prize_year": 2000,
+    "birth_location": "Mokpo, Korea (now South Korea)",
+    "current_work_location": "Mokpo, Korea (now South Korea)",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_2001_748",
+    "name": "United Nations",
+    "category": "peace",
+    "prize_year": 2001,
+    "birth_location": "",
+    "current_work_location": "",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_2001_749",
+    "name": "Kofi Annan",
+    "category": "peace",
+    "prize_year": 2001,
+    "birth_location": "Kumasi, Gold Coast (now Ghana)",
+    "current_work_location": "Kumasi, Gold Coast (now Ghana)",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_2002_762",
+    "name": "Jimmy Carter",
+    "category": "peace",
+    "prize_year": 2002,
+    "birth_location": "Plains, GA, USA",
+    "current_work_location": "Plains, GA, USA",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_2003_773",
+    "name": "Shirin Ebadi",
+    "category": "peace",
+    "prize_year": 2003,
+    "birth_location": "Hamadan, Iran",
+    "current_work_location": "Hamadan, Iran",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_2004_783",
+    "name": "Wangari Maathai",
+    "category": "peace",
+    "prize_year": 2004,
+    "birth_location": "Nyeri, Kenya",
+    "current_work_location": "Nyeri, Kenya",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_2005_797",
+    "name": "International Atomic Energy Agency",
+    "category": "peace",
+    "prize_year": 2005,
+    "birth_location": "",
+    "current_work_location": "",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_2005_798",
+    "name": "Mohamed ElBaradei",
+    "category": "peace",
+    "prize_year": 2005,
+    "birth_location": "Cairo, Egypt",
+    "current_work_location": "Cairo, Egypt",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_2006_809",
+    "name": "Muhammad Yunus",
+    "category": "peace",
+    "prize_year": 2006,
+    "birth_location": "Chittagong, British India (now Bangladesh)",
+    "current_work_location": "Chittagong, British India (now Bangladesh)",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_2006_810",
+    "name": "Grameen Bank",
+    "category": "peace",
+    "prize_year": 2006,
+    "birth_location": "",
+    "current_work_location": "",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_2007_818",
+    "name": "Intergovernmental Panel on Climate Change",
+    "category": "peace",
+    "prize_year": 2007,
+    "birth_location": "",
+    "current_work_location": "",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_2007_819",
+    "name": "Al Gore",
+    "category": "peace",
+    "prize_year": 2007,
+    "birth_location": "Washington, D.C., USA",
+    "current_work_location": "Washington, D.C., USA",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_2008_833",
+    "name": "Martti Ahtisaari",
+    "category": "peace",
+    "prize_year": 2008,
+    "birth_location": "Viipuri (now Vyborg), Finland",
+    "current_work_location": "Viipuri (now Vyborg), Finland",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_2009_845",
+    "name": "Barack Obama",
+    "category": "peace",
+    "prize_year": 2009,
+    "birth_location": "Honolulu, HI, USA",
+    "current_work_location": "Honolulu, HI, USA",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_2010_855",
+    "name": "Xiaobo Liu",
+    "category": "peace",
+    "prize_year": 2010,
+    "birth_location": "Changchun, China",
+    "current_work_location": "Changchun, China",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_2011_869",
+    "name": "Ellen Johnson Sirleaf",
+    "category": "peace",
+    "prize_year": 2011,
+    "birth_location": "Monrovia, Liberia",
+    "current_work_location": "Monrovia, Liberia",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_2011_870",
+    "name": "Leymah Gbowee",
+    "category": "peace",
+    "prize_year": 2011,
+    "birth_location": "Monrovia, Liberia",
+    "current_work_location": "Monrovia, Liberia",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_2011_871",
+    "name": "Tawakkol Karman",
+    "category": "peace",
+    "prize_year": 2011,
+    "birth_location": "Ta'izz, Yemen",
+    "current_work_location": "Ta'izz, Yemen",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_2012_881",
+    "name": "European Union",
+    "category": "peace",
+    "prize_year": 2012,
+    "birth_location": "",
+    "current_work_location": "",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_2013_893",
+    "name": "Organisation for the Prohibition of Chemical Weapons",
+    "category": "peace",
+    "prize_year": 2013,
+    "birth_location": "",
+    "current_work_location": "",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_2014_913",
+    "name": "Kailash Satyarthi",
+    "category": "peace",
+    "prize_year": 2014,
+    "birth_location": "Vidisha, India",
+    "current_work_location": "Vidisha, India",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_2014_914",
+    "name": "Malala Yousafzai",
+    "category": "peace",
+    "prize_year": 2014,
+    "birth_location": "Mingora, Pakistan",
+    "current_work_location": "Mingora, Pakistan",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_2015_925",
+    "name": "National Dialogue Quartet",
+    "category": "peace",
+    "prize_year": 2015,
+    "birth_location": "",
+    "current_work_location": "",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_2016_934",
+    "name": "Juan Manuel Santos",
+    "category": "peace",
+    "prize_year": 2016,
+    "birth_location": "Bogotá, Colombia",
+    "current_work_location": "Bogotá, Colombia",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_2017_948",
+    "name": "International Campaign to Abolish Nuclear Weapons",
+    "category": "peace",
+    "prize_year": 2017,
+    "birth_location": "",
+    "current_work_location": "",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_2018_966",
+    "name": "Denis Mukwege",
+    "category": "peace",
+    "prize_year": 2018,
+    "birth_location": "Bukavu, Belgian Congo (now Democratic Republic of the Congo)",
+    "current_work_location": "Bukavu, Belgian Congo (now Democratic Republic of the Congo)",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_2018_967",
+    "name": "Nadia Murad",
+    "category": "peace",
+    "prize_year": 2018,
+    "birth_location": "Kojo, Iraq",
+    "current_work_location": "Kojo, Iraq",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_2019_981",
+    "name": "Abiy Ahmed Ali",
+    "category": "peace",
+    "prize_year": 2019,
+    "birth_location": "Beshasha, Ethiopia",
+    "current_work_location": "Beshasha, Ethiopia",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_2020_994",
+    "name": "World Food Programme",
+    "category": "peace",
+    "prize_year": 2020,
+    "birth_location": "",
+    "current_work_location": "",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_2021_1005",
+    "name": "Maria Ressa",
+    "category": "peace",
+    "prize_year": 2021,
+    "birth_location": "Manila, Philippines",
+    "current_work_location": "Manila, Philippines",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_2021_1006",
+    "name": "Dmitry Muratov",
+    "category": "peace",
+    "prize_year": 2021,
+    "birth_location": "Kubyshev (now Samara), USSR (now Russia)",
+    "current_work_location": "Kubyshev (now Samara), USSR (now Russia)",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_2022_1018",
+    "name": "Ales Bialiatski",
+    "category": "peace",
+    "prize_year": 2022,
+    "birth_location": "Vyartsilya, Karelia, Russia",
+    "current_work_location": "Vyartsilya, Karelia, Russia",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_2022_1019",
+    "name": "Memorial",
+    "category": "peace",
+    "prize_year": 2022,
+    "birth_location": "",
+    "current_work_location": "",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_2022_1020",
+    "name": "Center for Civil Liberties",
+    "category": "peace",
+    "prize_year": 2022,
+    "birth_location": "",
+    "current_work_location": "",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_2023_1033",
+    "name": "Narges Mohammadi",
+    "category": "peace",
+    "prize_year": 2023,
+    "birth_location": "Zanjan, Iran",
+    "current_work_location": "Zanjan, Iran",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_2024_1043",
+    "name": "Nihon Hidankyo",
+    "category": "peace",
+    "prize_year": 2024,
+    "birth_location": "",
+    "current_work_location": "",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "peace_2025_1057",
+    "name": "Maria Corina Machado",
+    "category": "peace",
+    "prize_year": 2025,
+    "birth_location": "Venezuela",
+    "current_work_location": "Venezuela",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "economics_1974_684",
+    "name": "Gunnar Myrdal",
+    "category": "economics",
+    "prize_year": 1974,
+    "birth_location": "Skattungbyn, Sweden",
+    "current_work_location": "Skattungbyn, Sweden",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  },
+  {
+    "laureate_id": "economics_1974_685",
+    "name": "Friedrich von Hayek",
+    "category": "economics",
+    "prize_year": 1974,
+    "birth_location": "Vienna, Austria",
+    "current_work_location": "Vienna, Austria",
+    "issue": "No affiliation data from any source",
+    "enrichment_attempts": []
+  }
+]

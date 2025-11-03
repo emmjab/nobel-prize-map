@@ -1,0 +1,212 @@
+{
+  "physics_1903_6": {
+    "name": "Marie Curie",
+    "work_location": "École de physique et chimie industrielles, Paris, France",
+    "confidence": "high",
+    "source": "Worked at École de physique et chimie industrielles and University of Paris"
+  },
+  "physics_1999_159": {
+    "name": "Martinus J.G. Veltman",
+    "work_location": "University of Utrecht, Netherlands",
+    "confidence": "high",
+    "source": "Professor at Utrecht 1966-1981, where he and 't Hooft did their Nobel work"
+  },
+  "physics_2017_941": {
+    "name": "Rainer Weiss",
+    "work_location": "MIT, Cambridge, MA, USA",
+    "confidence": "high",
+    "source": "Professor at MIT, did LIGO work there"
+  },
+  "physics_2017_942": {
+    "name": "Barry C. Barish",
+    "work_location": "Caltech, Pasadena, CA, USA",
+    "confidence": "high",
+    "source": "Principal investigator and director of LIGO at Caltech"
+  },
+  "physics_2017_943": {
+    "name": "Kip S. Thorne",
+    "work_location": "Caltech, Pasadena, CA, USA",
+    "confidence": "high",
+    "source": "Feynman Professor at Caltech, did LIGO work there"
+  },
+  "chemistry_1993_278": {
+    "name": "Kary B. Mullis",
+    "work_location": "Cetus Corporation, Emeryville, CA, USA",
+    "confidence": "high",
+    "source": "Invented PCR at Cetus Corp in 1983"
+  },
+  "chemistry_2001_741": {
+    "name": "William Knowles",
+    "work_location": "Monsanto Company, St. Louis, MO, USA",
+    "confidence": "high",
+    "source": "Developed enantioselective hydrogenation at Monsanto in 1968"
+  },
+  "medicine_2005_790": {
+    "name": "J. Robin Warren",
+    "work_location": "Royal Perth Hospital, Perth, Australia",
+    "confidence": "high",
+    "source": "Pathologist at Royal Perth Hospital where he discovered H. pylori"
+  },
+  "literature_1901_569": {
+    "name": "Sully Prudhomme",
+    "work_location": "Paris, France",
+    "confidence": "high",
+    "source": "French poet who lived and worked in Paris"
+  },
+  "literature_1902_571": {
+    "name": "Theodor Mommsen",
+    "work_location": "University of Berlin, Berlin, Germany",
+    "confidence": "high",
+    "source": "Professor at University of Berlin from 1861-1887, wrote History of Rome"
+  },
+  "literature_1903_572": {
+    "name": "Bjørnstjerne Bjørnson",
+    "work_location": "Norway",
+    "confidence": "medium",
+    "source": "Norwegian writer who worked in Bergen, Oslo, and lived intermittently abroad. No single location."
+  },
+  "literature_1904_573": {
+    "name": "Frédéric Mistral",
+    "work_location": "Maillane, Provence, France",
+    "confidence": "high",
+    "source": "Lived his entire life in Maillane, wrote all his works there"
+  },
+  "literature_1904_574": {
+    "name": "José Echegaray",
+    "work_location": "Madrid, Spain",
+    "confidence": "high",
+    "source": "Wrote plays in Madrid, where he spent his career"
+  },
+  "literature_1905_575": {
+    "name": "Henryk Sienkiewicz",
+    "work_location": "Warsaw, Poland",
+    "confidence": "high",
+    "source": "Studied at University of Warsaw, co-edited Słowo newspaper in Warsaw"
+  },
+  "literature_1906_576": {
+    "name": "Giosuè Carducci",
+    "work_location": "University of Bologna, Italy",
+    "confidence": "high",
+    "source": "Professor at University of Bologna 1860-1904, where he did all his major work"
+  },
+  "literature_1907_577": {
+    "name": "Rudyard Kipling",
+    "work_location": "Burwash, Sussex, England",
+    "confidence": "high",
+    "source": "Living at Bateman's in Sussex when he won the Nobel Prize in 1907"
+  },
+  "literature_1908_578": {
+    "name": "Rudolf Eucken",
+    "work_location": "University of Jena, Germany",
+    "confidence": "high",
+    "source": "Professor at University of Jena 1874-1920, where he did his Nobel Prize-winning philosophical work"
+  },
+  "literature_1909_579": {
+    "name": "Selma Lagerlöf",
+    "work_location": "Mårbacka, Värmland, Sweden",
+    "confidence": "high",
+    "source": "Born and raised at Mårbacka estate in Värmland, bought it back with Nobel Prize money"
+  },
+  "literature_1910_580": {
+    "name": "Paul Heyse",
+    "work_location": "Munich, Germany",
+    "confidence": "high",
+    "source": "Settled in Munich in 1854 and lived there for rest of his life"
+  },
+  "literature_1911_581": {
+    "name": "Maurice Maeterlinck",
+    "work_location": "Grasse, France",
+    "confidence": "high",
+    "source": "Belgian who moved to Paris in 1896, later lived in Grasse and Saint-Wandrille, France"
+  },
+  "literature_1912_582": {
+    "name": "Gerhart Hauptmann",
+    "work_location": "Berlin, Germany",
+    "confidence": "high",
+    "source": "Lived in Berlin (Erkner, Charlottenburg) where he wrote major works, later Agnetendorf, Silesia"
+  },
+  "literature_1913_583": {
+    "name": "Rabindranath Tagore",
+    "work_location": "Shantiniketan, Bengal, India",
+    "confidence": "high",
+    "source": "Founded school at Shantiniketan where he settled and created Gitanjali"
+  },
+  "literature_1915_584": {
+    "name": "Romain Rolland",
+    "work_location": "Paris, France",
+    "confidence": "high",
+    "source": "Taught at Sorbonne in Paris, later lived in Rome and Switzerland"
+  },
+  "literature_1916_585": {
+    "name": "Verner von Heidenstam",
+    "work_location": "Stockholm, Sweden",
+    "confidence": "medium",
+    "source": "Lived in Stockholm during productive years, also spent time at Olshammar"
+  },
+  "literature_1917_586": {
+    "name": "Karl Gjellerup",
+    "work_location": "Dresden, Germany",
+    "confidence": "high",
+    "source": "Spent most of his life in Germany, lived near Dresden"
+  },
+  "literature_1917_587": {
+    "name": "Henrik Pontoppidan",
+    "work_location": "Copenhagen, Denmark",
+    "confidence": "high",
+    "source": "Journalist in Copenhagen, lived in rural Zealand and Charlottenlund suburb"
+  },
+  "literature_1919_588": {
+    "name": "Carl Spitteler",
+    "work_location": "Switzerland",
+    "confidence": "high",
+    "source": "Wrote Olympian Spring in Switzerland in early 1900s"
+  },
+  "literature_1920_589": {
+    "name": "Knut Hamsun",
+    "work_location": "Hamarøy, Norway",
+    "confidence": "high",
+    "source": "Wrote Growth of the Soil at Skogheim farm in Hamarøy 1911-1917"
+  },
+  "literature_1921_590": {
+    "name": "Anatole France",
+    "work_location": "Paris, France",
+    "confidence": "high",
+    "source": "Spent literary career in Paris, worked as librarian for French Senate"
+  },
+  "literature_1922_592": {
+    "name": "Jacinto Benavente",
+    "work_location": "Madrid, Spain",
+    "confidence": "high",
+    "source": "Born in Madrid, directed Spanish National Theatre, wrote plays set in Madrid"
+  },
+  "literature_1923_593": {
+    "name": "William Butler Yeats",
+    "work_location": "Dublin, Ireland",
+    "confidence": "high",
+    "source": "Co-founded Abbey Theatre in Dublin, central to Irish Literary Revival"
+  },
+  "literature_1924_594": {
+    "name": "Władysław Reymont",
+    "work_location": "Warsaw, Poland",
+    "confidence": "medium",
+    "source": "Wrote The Peasants partly in France (1901-1908), also Zakopane; spent winters in Warsaw"
+  },
+  "literature_1925_596": {
+    "name": "George Bernard Shaw",
+    "work_location": "London, England",
+    "confidence": "high",
+    "source": "Moved to London in 1876, wrote all major works there including Saint Joan"
+  },
+  "literature_1926_597": {
+    "name": "Grazia Deledda",
+    "work_location": "Rome, Italy",
+    "confidence": "high",
+    "source": "Lived and wrote in Rome from 1900-1936"
+  },
+  "literature_1927_600": {
+    "name": "Henri Bergson",
+    "work_location": "Collège de France, Paris",
+    "confidence": "high",
+    "source": "Held chair of philosophy at Collège de France 1900-1921"
+  }
+}
