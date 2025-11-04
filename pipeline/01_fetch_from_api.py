@@ -108,9 +108,19 @@ def process_laureates_by_category(all_laureates):
 
             birth_city = birth_place.get('city', {}).get('en', '') if isinstance(birth_place.get('city'), dict) else ''
             birth_country = birth_place.get('country', {}).get('en', '') if isinstance(birth_place.get('country'), dict) else ''
-            birth_location = f"{birth_city}, {birth_country}" if birth_city else birth_country
+
+            # Construct birth location, ensuring it's not just whitespace
+            # Only use city if we also have country (to avoid ambiguous geocoding)
+            if birth_city and birth_country:
+                birth_location = f"{birth_city}, {birth_country}"
+            elif birth_country:
+                birth_location = birth_country
+            else:
+                birth_location = ""
+            birth_location = birth_location.strip()
 
             # Get birth coordinates from API (v2.1 includes coordinates!)
+            # Start with (0, 0) - will be filled in later if location exists but no coords
             birth_coords = (0, 0)
             city_now = birth_place.get('cityNow', {})
             if isinstance(city_now, dict):
@@ -158,19 +168,34 @@ def process_laureates_by_category(all_laureates):
                 data_source = 'api'
                 stats['has_affiliation'] += 1
             else:
-                # No affiliation data from API - use birth location as placeholder
-                work_location = birth_location
-                work_coords = birth_coords
+                # No affiliation data from API - leave blank for enrichment
+                work_location = ''
+                work_coords = (0, 0)
                 needs_enrichment = True
-                data_source = 'birth_fallback'
+                data_source = 'needs_enrichment'
                 stats['needs_enrichment'] += 1
 
-            # Build laureate entry
+            # Build laureate entry - handle both individuals and organizations
+            # Organizations have "orgName", individuals have "fullName" or "knownName"
+            org_name = laureate.get('orgName', {})
             full_name = laureate.get('fullName', {})
-            if isinstance(full_name, dict):
-                name = full_name.get('en', '')
-            else:
-                name = full_name or laureate.get('knownName', {}).get('en', '')
+
+            if org_name:  # This is an organization
+                if isinstance(org_name, dict):
+                    name = org_name.get('en', '')
+                else:
+                    name = org_name
+            elif full_name:  # This is an individual
+                if isinstance(full_name, dict):
+                    name = full_name.get('en', '')
+                else:
+                    name = full_name
+            else:  # Fallback to knownName
+                known_name = laureate.get('knownName', {})
+                if isinstance(known_name, dict):
+                    name = known_name.get('en', '')
+                else:
+                    name = known_name or ''
 
             # Get motivation
             motivation_obj = prize.get('motivation', {})

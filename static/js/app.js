@@ -824,6 +824,18 @@ function highlightLaureate(index, keepPopupOpen = false) {
     }
 }
 
+// Legend toggle functionality
+const legendToggle = document.getElementById('legend-toggle');
+const legend = document.querySelector('.legend');
+
+if (legendToggle && legend) {
+    legendToggle.addEventListener('click', () => {
+        legend.classList.toggle('collapsed');
+        // Update button text
+        legendToggle.textContent = legend.classList.contains('collapsed') ? '+' : '−';
+    });
+}
+
 // Load "All Categories" by default on page load
 window.addEventListener('DOMContentLoaded', async () => {
     const category = categorySelect.value; // Should be "all" by default

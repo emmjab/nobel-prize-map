@@ -48,18 +48,49 @@
             <div class="map-section">
                 <div id="map"></div>
                 <div class="legend">
-                    <h3>Legend</h3>
-                    <div class="legend-item">
-                        <span class="legend-marker work-marker" id="legend-work-marker"></span>
-                        <span>Work Location</span>
-                    </div>
+                    <h3>Legend <button id="legend-toggle" class="legend-toggle" aria-label="Toggle legend">−</button></h3>
+                    <div class="legend-content">
                     <div class="legend-item">
                         <span class="legend-marker birth-marker"></span>
                         <span>Birth Location</span>
                     </div>
+                    <div class="legend-item work-location-header">
+                        <span>Work Location:</span>
+                    </div>
+                    <div class="legend-item multi-category-example">
+                        <span class="legend-marker work-marker" id="multi-category-marker" title="Multiple categories"></span>
+                        <span style="font-size: 0.8rem;">Multiple categories</span>
+                    </div>
+                    <div class="legend-categories">
+                        <div class="legend-category" title="Physics">
+                            <span class="legend-marker work-marker" style="background: #667eea;"></span>
+                            <span class="category-emoji">⚛️</span>
+                        </div>
+                        <div class="legend-category" title="Chemistry">
+                            <span class="legend-marker work-marker" style="background: #f093fb;"></span>
+                            <span class="category-emoji">🧪</span>
+                        </div>
+                        <div class="legend-category" title="Physiology or Medicine">
+                            <span class="legend-marker work-marker" style="background: #4facfe;"></span>
+                            <span class="category-emoji">💊</span>
+                        </div>
+                        <div class="legend-category" title="Literature">
+                            <span class="legend-marker work-marker" style="background: #43e97b;"></span>
+                            <span class="category-emoji">📚</span>
+                        </div>
+                        <div class="legend-category" title="Peace">
+                            <span class="legend-marker work-marker" style="background: #fa709a;"></span>
+                            <span class="category-emoji">🕊️</span>
+                        </div>
+                        <div class="legend-category" title="Economic Sciences">
+                            <span class="legend-marker work-marker" style="background: #feca57;"></span>
+                            <span class="category-emoji">💰</span>
+                        </div>
+                    </div>
                     <div class="legend-item">
                         <span class="legend-line"></span>
                         <span>Shared Prize Connection</span>
+                    </div>
                     </div>
                 </div>
             </div>
