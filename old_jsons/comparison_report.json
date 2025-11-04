@@ -1,0 +1,5902 @@
+{
+  "only_in_backup": [],
+  "only_in_new": [],
+  "location_changes": [],
+  "coord_changes": [
+    {
+      "laureate_id": "chemistry_1904_163",
+      "name": "Sir William Ramsay",
+      "work_location": "London, United Kingdom",
+      "backup_coords": [
+        51.5074,
+        -0.1278
+      ],
+      "new_coords": [
+        51.4893335,
+        -0.1440551
+      ],
+      "distance_change": 0.024302812558629153
+    },
+    {
+      "laureate_id": "chemistry_1906_165",
+      "name": "Henri Moissan",
+      "work_location": "Paris, France",
+      "backup_coords": [
+        48.8566,
+        2.3522
+      ],
+      "new_coords": [
+        48.8588897,
+        2.320041
+      ],
+      "distance_change": 0.0322404095366358
+    },
+    {
+      "laureate_id": "chemistry_1908_167",
+      "name": "Ernest Rutherford",
+      "work_location": "Manchester, United Kingdom",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        53.4794892,
+        -2.2451148
+      ],
+      "distance_change": 53.526594376609616
+    },
+    {
+      "laureate_id": "chemistry_1909_168",
+      "name": "Wilhelm Ostwald",
+      "work_location": "Leipzig, Germany",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        51.3406321,
+        12.3747329
+      ],
+      "distance_change": 52.81093181126322
+    },
+    {
+      "laureate_id": "chemistry_1910_169",
+      "name": "Otto Wallach",
+      "work_location": "Göttingen, Germany",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        51.5328328,
+        9.9351811
+      ],
+      "distance_change": 52.481812848667424
+    },
+    {
+      "laureate_id": "chemistry_1911_6",
+      "name": "Marie Curie",
+      "work_location": "Paris, France",
+      "backup_coords": [
+        48.8566,
+        2.3522
+      ],
+      "new_coords": [
+        48.8588897,
+        2.320041
+      ],
+      "distance_change": 0.0322404095366358
+    },
+    {
+      "laureate_id": "chemistry_1912_172",
+      "name": "Victor Grignard",
+      "work_location": "Nancy, France",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        48.6937223,
+        6.1834097
+      ],
+      "distance_change": 49.08475473044121
+    },
+    {
+      "laureate_id": "chemistry_1912_173",
+      "name": "Paul Sabatier",
+      "work_location": "Toulouse, France",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        43.6044638,
+        1.4442433
+      ],
+      "distance_change": 43.62837496395098
+    },
+    {
+      "laureate_id": "chemistry_1914_175",
+      "name": "Theodore W. Richards",
+      "work_location": "Cambridge, MA, USA",
+      "backup_coords": [
+        52.2053,
+        0.1218
+      ],
+      "new_coords": [
+        42.3656347,
+        -71.1040018
+      ],
+      "distance_change": 71.9022520876009
+    },
+    {
+      "laureate_id": "chemistry_1915_176",
+      "name": "Richard Willstätter",
+      "work_location": "Berlin-Dahlem, Germany",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        52.4528565,
+        13.2907249
+      ],
+      "distance_change": 54.11049365305285
+    },
+    {
+      "laureate_id": "chemistry_1918_177",
+      "name": "Fritz Haber",
+      "work_location": "Berlin-Dahlem, Germany",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        52.4528565,
+        13.2907249
+      ],
+      "distance_change": 54.11049365305285
+    },
+    {
+      "laureate_id": "chemistry_1923_181",
+      "name": "Fritz Pregl",
+      "work_location": "Graz, Austria",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        47.0708678,
+        15.4382786
+      ],
+      "distance_change": 49.537935378619636
+    },
+    {
+      "laureate_id": "chemistry_1925_182",
+      "name": "Richard Zsigmondy",
+      "work_location": "Göttingen, Germany",
+      "backup_coords": [
+        48.2082,
+        16.3738
+      ],
+      "new_coords": [
+        51.5328328,
+        9.9351811
+      ],
+      "distance_change": 7.246309170486247
+    },
+    {
+      "laureate_id": "chemistry_1926_183",
+      "name": "The Svedberg",
+      "work_location": "Uppsala, Sweden",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        59.8586126,
+        17.6387436
+      ],
+      "distance_change": 62.40335550419881
+    },
+    {
+      "laureate_id": "chemistry_1928_185",
+      "name": "Adolf Windaus",
+      "work_location": "Göttingen, Germany",
+      "backup_coords": [
+        52.52,
+        13.405
+      ],
+      "new_coords": [
+        51.5328328,
+        9.9351811
+      ],
+      "distance_change": 3.6075119236882713
+    },
+    {
+      "laureate_id": "chemistry_1929_186",
+      "name": "Arthur Harden",
+      "work_location": "London, United Kingdom",
+      "backup_coords": [
+        51.5074,
+        -0.1278
+      ],
+      "new_coords": [
+        51.4893335,
+        -0.1440551
+      ],
+      "distance_change": 0.024302812558629153
+    },
+    {
+      "laureate_id": "chemistry_1931_189",
+      "name": "Carl Bosch",
+      "work_location": "Heidelberg, Germany",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        49.4093582,
+        8.694724
+      ],
+      "distance_change": 50.16854495769319
+    },
+    {
+      "laureate_id": "chemistry_1931_190",
+      "name": "Friedrich Bergius",
+      "work_location": "Heidelberg, Germany",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        49.4093582,
+        8.694724
+      ],
+      "distance_change": 50.16854495769319
+    },
+    {
+      "laureate_id": "chemistry_1932_191",
+      "name": "Irving Langmuir",
+      "work_location": "Schenectady, NY, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        42.8142432,
+        -73.9395687
+      ],
+      "distance_change": 85.44073525158105
+    },
+    {
+      "laureate_id": "chemistry_1935_193",
+      "name": "Frédéric Joliot",
+      "work_location": "Paris, France",
+      "backup_coords": [
+        48.8566,
+        2.3522
+      ],
+      "new_coords": [
+        48.8588897,
+        2.320041
+      ],
+      "distance_change": 0.0322404095366358
+    },
+    {
+      "laureate_id": "chemistry_1935_194",
+      "name": "Irène Joliot-Curie",
+      "work_location": "Paris, France",
+      "backup_coords": [
+        48.8566,
+        2.3522
+      ],
+      "new_coords": [
+        48.8588897,
+        2.320041
+      ],
+      "distance_change": 0.0322404095366358
+    },
+    {
+      "laureate_id": "chemistry_1937_196",
+      "name": "Norman Haworth",
+      "work_location": "Birmingham, United Kingdom",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        52.4796992,
+        -1.9026911
+      ],
+      "distance_change": 52.514179623645454
+    },
+    {
+      "laureate_id": "chemistry_1938_198",
+      "name": "Richard Kuhn",
+      "work_location": "Heidelberg, Germany",
+      "backup_coords": [
+        48.2082,
+        16.3738
+      ],
+      "new_coords": [
+        49.4093582,
+        8.694724
+      ],
+      "distance_change": 7.772450658267521
+    },
+    {
+      "laureate_id": "chemistry_1939_199",
+      "name": "Adolf Butenandt",
+      "work_location": "Berlin-Dahlem, Germany",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        52.4528565,
+        13.2907249
+      ],
+      "distance_change": 54.11049365305285
+    },
+    {
+      "laureate_id": "chemistry_1944_202",
+      "name": "Otto Hahn",
+      "work_location": "Berlin-Dahlem, Germany",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        52.4528565,
+        13.2907249
+      ],
+      "distance_change": 54.11049365305285
+    },
+    {
+      "laureate_id": "chemistry_1945_203",
+      "name": "Artturi Virtanen",
+      "work_location": "Helsinki, Finland",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        60.1698897,
+        24.9384719
+      ],
+      "distance_change": 65.13327112326891
+    },
+    {
+      "laureate_id": "chemistry_1946_204",
+      "name": "James B. Sumner",
+      "work_location": "Ithaca, NY, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        42.4374175,
+        -76.5483724
+      ],
+      "distance_change": 87.52478346821768
+    },
+    {
+      "laureate_id": "chemistry_1948_208",
+      "name": "Arne Tiselius",
+      "work_location": "Uppsala, Sweden",
+      "backup_coords": [
+        59.3293,
+        18.0686
+      ],
+      "new_coords": [
+        59.8586126,
+        17.6387436
+      ],
+      "distance_change": 0.6818712144824093
+    },
+    {
+      "laureate_id": "chemistry_1950_210",
+      "name": "Otto Diels",
+      "work_location": "Kiel, Germany",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        54.3227085,
+        10.135555
+      ],
+      "distance_change": 55.26016769730252
+    },
+    {
+      "laureate_id": "chemistry_1950_211",
+      "name": "Kurt Alder",
+      "work_location": "Cologne, Germany",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        50.938361,
+        6.959974
+      ],
+      "distance_change": 51.41165100876451
+    },
+    {
+      "laureate_id": "chemistry_1952_214",
+      "name": "Archer J.P. Martin",
+      "work_location": "London, United Kingdom",
+      "backup_coords": [
+        51.5074,
+        -0.1278
+      ],
+      "new_coords": [
+        51.4893335,
+        -0.1440551
+      ],
+      "distance_change": 0.024302812558629153
+    },
+    {
+      "laureate_id": "chemistry_1952_215",
+      "name": "Richard L.M. Synge",
+      "work_location": "Bucksburn (Scotland), United Kingdom",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        57.1771092,
+        -2.1824135
+      ],
+      "distance_change": 57.2187447009606
+    },
+    {
+      "laureate_id": "chemistry_1953_216",
+      "name": "Hermann Staudinger",
+      "work_location": "Breisgau, Germany",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        48.0314933,
+        7.6885693
+      ],
+      "distance_change": 48.64296913746988
+    },
+    {
+      "laureate_id": "chemistry_1955_218",
+      "name": "Vincent du Vigneaud",
+      "work_location": "Ithaca, NY, USA",
+      "backup_coords": [
+        41.8781,
+        -87.6298
+      ],
+      "new_coords": [
+        42.4374175,
+        -76.5483724
+      ],
+      "distance_change": 11.095533953796364
+    },
+    {
+      "laureate_id": "chemistry_1963_228",
+      "name": "Karl Ziegler",
+      "work_location": "Mülheim an der Ruhr, Germany",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        51.4272925,
+        6.8829192
+      ],
+      "distance_change": 51.885845763505536
+    },
+    {
+      "laureate_id": "chemistry_1963_229",
+      "name": "Giulio Natta",
+      "work_location": "Milan, Italy",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        45.4641943,
+        9.1896346
+      ],
+      "distance_change": 46.38364310217202
+    },
+    {
+      "laureate_id": "chemistry_1965_231",
+      "name": "Robert B. Woodward",
+      "work_location": "Cambridge, MA, USA",
+      "backup_coords": [
+        52.2053,
+        0.1218
+      ],
+      "new_coords": [
+        42.3656347,
+        -71.1040018
+      ],
+      "distance_change": 71.9022520876009
+    },
+    {
+      "laureate_id": "chemistry_1967_233",
+      "name": "Manfred Eigen",
+      "work_location": "Göttingen, Germany",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        51.5328328,
+        9.9351811
+      ],
+      "distance_change": 52.481812848667424
+    },
+    {
+      "laureate_id": "chemistry_1967_235",
+      "name": "George Porter",
+      "work_location": "London, United Kingdom",
+      "backup_coords": [
+        51.5074,
+        -0.1278
+      ],
+      "new_coords": [
+        51.4893335,
+        -0.1440551
+      ],
+      "distance_change": 0.024302812558629153
+    },
+    {
+      "laureate_id": "chemistry_1968_236",
+      "name": "Lars Onsager",
+      "work_location": "New Haven, CT, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        41.3082138,
+        -72.9250518
+      ],
+      "distance_change": 83.8118828530847
+    },
+    {
+      "laureate_id": "chemistry_1969_237",
+      "name": "Derek Barton",
+      "work_location": "London, United Kingdom",
+      "backup_coords": [
+        51.5074,
+        -0.1278
+      ],
+      "new_coords": [
+        51.4893335,
+        -0.1440551
+      ],
+      "distance_change": 0.024302812558629153
+    },
+    {
+      "laureate_id": "chemistry_1969_238",
+      "name": "Odd Hassel",
+      "work_location": "Oslo, Norway",
+      "backup_coords": [
+        59.9139,
+        10.7522
+      ],
+      "new_coords": [
+        59.9133301,
+        10.7389701
+      ],
+      "distance_change": 0.013242169007379885
+    },
+    {
+      "laureate_id": "chemistry_1971_240",
+      "name": "Gerhard Herzberg",
+      "work_location": "Ottawa, Canada",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        45.4208777,
+        -75.6901106
+      ],
+      "distance_change": 88.27258336357099
+    },
+    {
+      "laureate_id": "chemistry_1972_241",
+      "name": "Christian Anfinsen",
+      "work_location": "Bethesda, MD, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        38.9812726,
+        -77.1233587
+      ],
+      "distance_change": 86.41499910712479
+    },
+    {
+      "laureate_id": "chemistry_1973_245",
+      "name": "Geoffrey Wilkinson",
+      "work_location": "London, United Kingdom",
+      "backup_coords": [
+        51.5074,
+        -0.1278
+      ],
+      "new_coords": [
+        51.4893335,
+        -0.1440551
+      ],
+      "distance_change": 0.024302812558629153
+    },
+    {
+      "laureate_id": "chemistry_1975_247",
+      "name": "John Cornforth",
+      "work_location": "Brighton, United Kingdom",
+      "backup_coords": [
+        -33.8688,
+        151.2093
+      ],
+      "new_coords": [
+        50.8214626,
+        -0.1400561
+      ],
+      "distance_change": 173.43318070986754
+    },
+    {
+      "laureate_id": "chemistry_1976_249",
+      "name": "William Lipscomb",
+      "work_location": "Cambridge, MA, USA",
+      "backup_coords": [
+        52.2053,
+        0.1218
+      ],
+      "new_coords": [
+        42.3656347,
+        -71.1040018
+      ],
+      "distance_change": 71.9022520876009
+    },
+    {
+      "laureate_id": "chemistry_1978_251",
+      "name": "Peter Mitchell",
+      "work_location": "Bodmin, United Kingdom",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        50.470725,
+        -4.7243205
+      ],
+      "distance_change": 50.69135317006585
+    },
+    {
+      "laureate_id": "chemistry_1979_252",
+      "name": "Herbert C. Brown",
+      "work_location": "West Lafayette, IN, USA",
+      "backup_coords": [
+        51.5074,
+        -0.1278
+      ],
+      "new_coords": [
+        40.4258686,
+        -86.9080655
+      ],
+      "distance_change": 87.48494052361056
+    },
+    {
+      "laureate_id": "chemistry_1979_253",
+      "name": "Georg Wittig",
+      "work_location": "Heidelberg, Germany",
+      "backup_coords": [
+        52.52,
+        13.405
+      ],
+      "new_coords": [
+        49.4093582,
+        8.694724
+      ],
+      "distance_change": 5.644713668919199
+    },
+    {
+      "laureate_id": "chemistry_1980_255",
+      "name": "Walter Gilbert",
+      "work_location": "Cambridge, MA, USA",
+      "backup_coords": [
+        52.2053,
+        0.1218
+      ],
+      "new_coords": [
+        42.3656347,
+        -71.1040018
+      ],
+      "distance_change": 71.9022520876009
+    },
+    {
+      "laureate_id": "chemistry_1981_258",
+      "name": "Roald Hoffmann",
+      "work_location": "Ithaca, NY, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        42.4374175,
+        -76.5483724
+      ],
+      "distance_change": 87.52478346821768
+    },
+    {
+      "laureate_id": "chemistry_1985_262",
+      "name": "Herbert A. Hauptman",
+      "work_location": "Buffalo, NY, USA",
+      "backup_coords": [
+        40.7128,
+        -74.006
+      ],
+      "new_coords": [
+        42.8867166,
+        -78.8783922
+      ],
+      "distance_change": 5.33536494856503
+    },
+    {
+      "laureate_id": "chemistry_1985_263",
+      "name": "Jerome Karle",
+      "work_location": "Washington, D.C., USA",
+      "backup_coords": [
+        38.9072,
+        -77.0369
+      ],
+      "new_coords": [
+        38.8950368,
+        -77.0365427
+      ],
+      "distance_change": 0.012168446800232364
+    },
+    {
+      "laureate_id": "chemistry_1986_264",
+      "name": "Dudley R. Herschbach",
+      "work_location": "Cambridge, MA, USA",
+      "backup_coords": [
+        52.2053,
+        0.1218
+      ],
+      "new_coords": [
+        42.3656347,
+        -71.1040018
+      ],
+      "distance_change": 71.9022520876009
+    },
+    {
+      "laureate_id": "chemistry_1987_268",
+      "name": "Jean-Marie Lehn",
+      "work_location": "Strasbourg, France",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        48.584614,
+        7.7507127
+      ],
+      "distance_change": 49.19896609571117
+    },
+    {
+      "laureate_id": "chemistry_1987_269",
+      "name": "Charles J. Pedersen",
+      "work_location": "Wilmington, DE, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        39.7459468,
+        -75.546589
+      ],
+      "distance_change": 85.36408727657873
+    },
+    {
+      "laureate_id": "chemistry_1988_270",
+      "name": "Johann Deisenhofer",
+      "work_location": "Dallas, TX, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        32.7762719,
+        -96.7968559
+      ],
+      "distance_change": 102.19547598493827
+    },
+    {
+      "laureate_id": "chemistry_1988_271",
+      "name": "Robert Huber",
+      "work_location": "Martinsried, Germany",
+      "backup_coords": [
+        48.1351,
+        11.582
+      ],
+      "new_coords": [
+        48.10882,
+        11.4508007
+      ],
+      "distance_change": 0.13380543606479564
+    },
+    {
+      "laureate_id": "chemistry_1989_273",
+      "name": "Sidney Altman",
+      "work_location": "New Haven, CT, USA",
+      "backup_coords": [
+        45.5017,
+        -73.5673
+      ],
+      "new_coords": [
+        41.3082138,
+        -72.9250518
+      ],
+      "distance_change": 4.24238249807743
+    },
+    {
+      "laureate_id": "chemistry_1989_274",
+      "name": "Thomas R. Cech",
+      "work_location": "Boulder, CO, USA",
+      "backup_coords": [
+        41.8781,
+        -87.6298
+      ],
+      "new_coords": [
+        40.0149856,
+        -105.270545
+      ],
+      "distance_change": 17.73885789509889
+    },
+    {
+      "laureate_id": "chemistry_1990_275",
+      "name": "Elias James Corey",
+      "work_location": "Cambridge, MA, USA",
+      "backup_coords": [
+        52.2053,
+        0.1218
+      ],
+      "new_coords": [
+        42.3656347,
+        -71.1040018
+      ],
+      "distance_change": 71.9022520876009
+    },
+    {
+      "laureate_id": "chemistry_1993_279",
+      "name": "Michael Smith",
+      "work_location": "Vancouver, Canada",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        49.2608724,
+        -123.113952
+      ],
+      "distance_change": 132.60346423328232
+    },
+    {
+      "laureate_id": "chemistry_1995_281",
+      "name": "Paul J. Crutzen",
+      "work_location": "Mainz, Germany",
+      "backup_coords": [
+        52.3676,
+        4.9041
+      ],
+      "new_coords": [
+        49.9995205,
+        8.2736253
+      ],
+      "distance_change": 4.118434322125381
+    },
+    {
+      "laureate_id": "chemistry_1995_282",
+      "name": "Mario J. Molina",
+      "work_location": "Cambridge, MA, USA",
+      "backup_coords": [
+        52.2053,
+        0.1218
+      ],
+      "new_coords": [
+        42.3656347,
+        -71.1040018
+      ],
+      "distance_change": 71.9022520876009
+    },
+    {
+      "laureate_id": "chemistry_1995_283",
+      "name": "F. Sherwood Rowland",
+      "work_location": "Irvine, CA, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        33.6856969,
+        -117.825981
+      ],
+      "distance_change": 122.54667671647009
+    },
+    {
+      "laureate_id": "chemistry_1996_284",
+      "name": "Robert F. Curl Jr.",
+      "work_location": "Houston, TX, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        29.7589382,
+        -95.3676974
+      ],
+      "distance_change": 99.90291342182863
+    },
+    {
+      "laureate_id": "chemistry_1996_285",
+      "name": "Sir Harold Kroto",
+      "work_location": "Brighton, United Kingdom",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        50.8214626,
+        -0.1400561
+      ],
+      "distance_change": 50.821655586121416
+    },
+    {
+      "laureate_id": "chemistry_1996_286",
+      "name": "Richard E. Smalley",
+      "work_location": "Houston, TX, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        29.7589382,
+        -95.3676974
+      ],
+      "distance_change": 99.90291342182863
+    },
+    {
+      "laureate_id": "chemistry_1997_289",
+      "name": "Jens C. Skou",
+      "work_location": "Aarhus, Denmark",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        56.1496278,
+        10.2134046
+      ],
+      "distance_change": 57.07095877591188
+    },
+    {
+      "laureate_id": "chemistry_1998_290",
+      "name": "Walter Kohn",
+      "work_location": "Santa Barbara, CA, USA",
+      "backup_coords": [
+        48.2082,
+        16.3738
+      ],
+      "new_coords": [
+        34.4221319,
+        -119.702667
+      ],
+      "distance_change": 136.77302564782255
+    },
+    {
+      "laureate_id": "chemistry_1998_291",
+      "name": "John Pople",
+      "work_location": "Evanston, IL, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        42.0470043,
+        -87.6846053
+      ],
+      "distance_change": 97.24474575636982
+    },
+    {
+      "laureate_id": "chemistry_2000_729",
+      "name": "Alan Heeger",
+      "work_location": "Santa Barbara, CA, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        34.4221319,
+        -119.702667
+      ],
+      "distance_change": 124.55364969142369
+    },
+    {
+      "laureate_id": "chemistry_2000_731",
+      "name": "Hideki Shirakawa",
+      "work_location": "Tsukuba, Japan",
+      "backup_coords": [
+        35.6762,
+        139.6503
+      ],
+      "new_coords": [
+        36.0833265,
+        140.077279
+      ],
+      "distance_change": 0.5899686885278421
+    },
+    {
+      "laureate_id": "chemistry_2001_742",
+      "name": "Ryoji Noyori",
+      "work_location": "Nagoya, Japan",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        35.1851045,
+        136.8998438
+      ],
+      "distance_change": 141.34906724538484
+    },
+    {
+      "laureate_id": "chemistry_2001_743",
+      "name": "Barry Sharpless",
+      "work_location": "La Jolla, CA, USA",
+      "backup_coords": [
+        39.9526,
+        -75.1652
+      ],
+      "new_coords": [
+        32.8458529,
+        -117.2575702
+      ],
+      "distance_change": 42.68809533578661
+    },
+    {
+      "laureate_id": "chemistry_2002_756",
+      "name": "John B. Fenn",
+      "work_location": "Richmond, VA, USA",
+      "backup_coords": [
+        40.7128,
+        -74.006
+      ],
+      "new_coords": [
+        37.5385087,
+        -77.43428
+      ],
+      "distance_change": 4.672176047160006
+    },
+    {
+      "laureate_id": "chemistry_2004_779",
+      "name": "Aaron Ciechanover",
+      "work_location": "Haifa, Israel",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        32.8191218,
+        34.9983856
+      ],
+      "distance_change": 47.978971959906794
+    },
+    {
+      "laureate_id": "chemistry_2004_780",
+      "name": "Avram Hershko",
+      "work_location": "Haifa, Israel",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        32.8191218,
+        34.9983856
+      ],
+      "distance_change": 47.978971959906794
+    },
+    {
+      "laureate_id": "chemistry_2004_781",
+      "name": "Irwin Rose",
+      "work_location": "Irvine, CA, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        33.6856969,
+        -117.825981
+      ],
+      "distance_change": 122.54667671647009
+    },
+    {
+      "laureate_id": "chemistry_2005_794",
+      "name": "Yves Chauvin",
+      "work_location": "Rueil-Malmaison, France",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        48.87778,
+        2.1802832
+      ],
+      "distance_change": 48.92638360394729
+    },
+    {
+      "laureate_id": "chemistry_2005_796",
+      "name": "Richard R. Schrock",
+      "work_location": "Cambridge, MA, USA",
+      "backup_coords": [
+        52.2053,
+        0.1218
+      ],
+      "new_coords": [
+        42.3656347,
+        -71.1040018
+      ],
+      "distance_change": 71.9022520876009
+    },
+    {
+      "laureate_id": "chemistry_2008_829",
+      "name": "Osamu Shimomura",
+      "work_location": "Woods Hole, MA, USA",
+      "backup_coords": [
+        35.0116,
+        135.7681
+      ],
+      "new_coords": [
+        41.5238752,
+        -70.6694015
+      ],
+      "distance_change": 206.5401940394243
+    },
+    {
+      "laureate_id": "chemistry_2008_831",
+      "name": "Roger Y. Tsien",
+      "work_location": "San Diego, CA, USA",
+      "backup_coords": [
+        40.7128,
+        -74.006
+      ],
+      "new_coords": [
+        32.7174202,
+        -117.162772
+      ],
+      "distance_change": 43.891150219676774
+    },
+    {
+      "laureate_id": "chemistry_2009_842",
+      "name": "Thomas A. Steitz",
+      "work_location": "New Haven, CT, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        41.3082138,
+        -72.9250518
+      ],
+      "distance_change": 83.8118828530847
+    },
+    {
+      "laureate_id": "chemistry_2009_843",
+      "name": "Ada E. Yonath",
+      "work_location": "Rehovot, Israel",
+      "backup_coords": [
+        31.7683,
+        35.2137
+      ],
+      "new_coords": [
+        31.8952532,
+        34.8105616
+      ],
+      "distance_change": 0.42265551521872075
+    },
+    {
+      "laureate_id": "chemistry_2010_851",
+      "name": "Richard F. Heck",
+      "work_location": "USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        39.7837304,
+        -100.445882
+      ],
+      "distance_change": 108.0375879742685
+    },
+    {
+      "laureate_id": "chemistry_2010_852",
+      "name": "Ei-ichi Negishi",
+      "work_location": "West Lafayette, IN, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        40.4258686,
+        -86.9080655
+      ],
+      "distance_change": 95.85020970773489
+    },
+    {
+      "laureate_id": "chemistry_2010_853",
+      "name": "Akira Suzuki",
+      "work_location": "Sapporo, Japan",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        43.061936,
+        141.3542924
+      ],
+      "distance_change": 147.76794751221522
+    },
+    {
+      "laureate_id": "chemistry_2011_867",
+      "name": "Dan Shechtman",
+      "work_location": "Haifa, Israel",
+      "backup_coords": [
+        32.0853,
+        34.7818
+      ],
+      "new_coords": [
+        32.8191218,
+        34.9983856
+      ],
+      "distance_change": 0.7651168252512832
+    },
+    {
+      "laureate_id": "chemistry_2012_878",
+      "name": "Robert J. Lefkowitz",
+      "work_location": "USA",
+      "backup_coords": [
+        40.7128,
+        -74.006
+      ],
+      "new_coords": [
+        39.7837304,
+        -100.445882
+      ],
+      "distance_change": 26.456200227840128
+    },
+    {
+      "laureate_id": "chemistry_2013_889",
+      "name": "Martin Karplus",
+      "work_location": "Strasbourg, France",
+      "backup_coords": [
+        48.2082,
+        16.3738
+      ],
+      "new_coords": [
+        48.584614,
+        7.7507127
+      ],
+      "distance_change": 8.631298980038709
+    },
+    {
+      "laureate_id": "chemistry_2014_909",
+      "name": "Eric Betzig",
+      "work_location": "Ashburn, VA, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        39.029784,
+        -77.4744148
+      ],
+      "distance_change": 86.75026794015749
+    },
+    {
+      "laureate_id": "chemistry_2014_910",
+      "name": "Stefan W. Hell",
+      "work_location": "Göttingen, Germany",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        51.5328328,
+        9.9351811
+      ],
+      "distance_change": 52.481812848667424
+    },
+    {
+      "laureate_id": "chemistry_2015_921",
+      "name": "Tomas Lindahl",
+      "work_location": "Hertfordshire, United Kingdom",
+      "backup_coords": [
+        59.3293,
+        18.0686
+      ],
+      "new_coords": [
+        51.8400523,
+        -0.0978552
+      ],
+      "distance_change": 19.64965459354343
+    },
+    {
+      "laureate_id": "chemistry_2015_922",
+      "name": "Paul Modrich",
+      "work_location": "Durham, NC, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        35.996653,
+        -78.9018053
+      ],
+      "distance_change": 86.72516305433803
+    },
+    {
+      "laureate_id": "chemistry_2015_923",
+      "name": "Aziz Sancar",
+      "work_location": "Chapel Hill, NC, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        35.9131542,
+        -79.05578
+      ],
+      "distance_change": 86.83070307213559
+    },
+    {
+      "laureate_id": "chemistry_2016_931",
+      "name": "Jean-Pierre Sauvage",
+      "work_location": "Strasbourg, France",
+      "backup_coords": [
+        48.8566,
+        2.3522
+      ],
+      "new_coords": [
+        48.584614,
+        7.7507127
+      ],
+      "distance_change": 5.405359909965043
+    },
+    {
+      "laureate_id": "chemistry_2016_932",
+      "name": "Sir J. Fraser Stoddart",
+      "work_location": "Evanston, IL, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        42.0470043,
+        -87.6846053
+      ],
+      "distance_change": 97.24474575636982
+    },
+    {
+      "laureate_id": "chemistry_2016_933",
+      "name": "Bernard L. Feringa",
+      "work_location": "Groningen, the Netherlands",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        53.2190652,
+        6.5680077
+      ],
+      "distance_change": 53.62282747029581
+    },
+    {
+      "laureate_id": "chemistry_2017_944",
+      "name": "Jacques Dubochet",
+      "work_location": "Lausanne, Switzerland",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        46.5218269,
+        6.6327025
+      ],
+      "distance_change": 46.99226660384738
+    },
+    {
+      "laureate_id": "chemistry_2018_964",
+      "name": "George P. Smith",
+      "work_location": "Columbia, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        34.000754,
+        -81.0352313
+      ],
+      "distance_change": 87.8792352288811
+    },
+    {
+      "laureate_id": "chemistry_2019_976",
+      "name": "John Goodenough",
+      "work_location": "Austin, TX, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        30.2711286,
+        -97.7436995
+      ],
+      "distance_change": 102.32385850164192
+    },
+    {
+      "laureate_id": "chemistry_2019_978",
+      "name": "Akira Yoshino",
+      "work_location": "Tokyo, Japan",
+      "backup_coords": [
+        35.6762,
+        139.6503
+      ],
+      "new_coords": [
+        35.6768601,
+        139.7638947
+      ],
+      "distance_change": 0.11359661790786235
+    },
+    {
+      "laureate_id": "chemistry_2021_1002",
+      "name": "Benjamin List",
+      "work_location": "Mülheim an der Ruhr, Germany",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        51.4272925,
+        6.8829192
+      ],
+      "distance_change": 51.885845763505536
+    },
+    {
+      "laureate_id": "chemistry_2022_1016",
+      "name": "Morten Meldal",
+      "work_location": "Copenhagen, Denmark",
+      "backup_coords": [
+        55.6761,
+        12.5683
+      ],
+      "new_coords": [
+        55.6867243,
+        12.5700724
+      ],
+      "distance_change": 0.01077112585805561
+    },
+    {
+      "laureate_id": "chemistry_2022_743",
+      "name": "Barry Sharpless",
+      "work_location": "La Jolla, CA, USA",
+      "backup_coords": [
+        39.9526,
+        -75.1652
+      ],
+      "new_coords": [
+        32.8458529,
+        -117.2575702
+      ],
+      "distance_change": 42.68809533578661
+    },
+    {
+      "laureate_id": "chemistry_2023_1029",
+      "name": "Moungi Bawendi",
+      "work_location": "Cambridge, MA, USA",
+      "backup_coords": [
+        52.2053,
+        0.1218
+      ],
+      "new_coords": [
+        42.3656347,
+        -71.1040018
+      ],
+      "distance_change": 71.9022520876009
+    },
+    {
+      "laureate_id": "chemistry_2024_1040",
+      "name": "Demis Hassabis",
+      "work_location": "London, United Kingdom",
+      "backup_coords": [
+        51.5074,
+        -0.1278
+      ],
+      "new_coords": [
+        51.4893335,
+        -0.1440551
+      ],
+      "distance_change": 0.024302812558629153
+    },
+    {
+      "laureate_id": "chemistry_2024_1041",
+      "name": "John Jumper",
+      "work_location": "London, United Kingdom",
+      "backup_coords": [
+        51.5074,
+        -0.1278
+      ],
+      "new_coords": [
+        51.4893335,
+        -0.1440551
+      ],
+      "distance_change": 0.024302812558629153
+    },
+    {
+      "laureate_id": "economics_1969_677",
+      "name": "Ragnar Frisch",
+      "work_location": "Oslo, Norway",
+      "backup_coords": [
+        59.9139,
+        10.7522
+      ],
+      "new_coords": [
+        59.9133301,
+        10.7389701
+      ],
+      "distance_change": 0.013242169007379885
+    },
+    {
+      "laureate_id": "economics_1969_678",
+      "name": "Jan Tinbergen",
+      "work_location": "Rotterdam, the Netherlands",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        51.9244424,
+        4.47775
+      ],
+      "distance_change": 52.11715613512903
+    },
+    {
+      "laureate_id": "economics_1970_679",
+      "name": "Paul A. Samuelson",
+      "work_location": "Cambridge, MA, USA",
+      "backup_coords": [
+        52.2053,
+        0.1218
+      ],
+      "new_coords": [
+        42.3656347,
+        -71.1040018
+      ],
+      "distance_change": 71.9022520876009
+    },
+    {
+      "laureate_id": "economics_1971_680",
+      "name": "Simon Kuznets",
+      "work_location": "Cambridge, MA, USA",
+      "backup_coords": [
+        52.2053,
+        0.1218
+      ],
+      "new_coords": [
+        42.3656347,
+        -71.1040018
+      ],
+      "distance_change": 71.9022520876009
+    },
+    {
+      "laureate_id": "economics_1972_682",
+      "name": "Kenneth J. Arrow",
+      "work_location": "Cambridge, MA, USA",
+      "backup_coords": [
+        52.2053,
+        0.1218
+      ],
+      "new_coords": [
+        42.3656347,
+        -71.1040018
+      ],
+      "distance_change": 71.9022520876009
+    },
+    {
+      "laureate_id": "economics_1973_683",
+      "name": "Wassily Leontief",
+      "work_location": "Cambridge, MA, USA",
+      "backup_coords": [
+        52.2053,
+        0.1218
+      ],
+      "new_coords": [
+        42.3656347,
+        -71.1040018
+      ],
+      "distance_change": 71.9022520876009
+    },
+    {
+      "laureate_id": "economics_1975_687",
+      "name": "Tjalling C. Koopmans",
+      "work_location": "New Haven, CT, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        41.3082138,
+        -72.9250518
+      ],
+      "distance_change": 83.8118828530847
+    },
+    {
+      "laureate_id": "economics_1978_691",
+      "name": "Herbert Simon",
+      "work_location": "Pittsburgh, PA, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        40.4416941,
+        -79.9900861
+      ],
+      "distance_change": 89.63227374089864
+    },
+    {
+      "laureate_id": "economics_1981_695",
+      "name": "James Tobin",
+      "work_location": "New Haven, CT, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        41.3082138,
+        -72.9250518
+      ],
+      "distance_change": 83.8118828530847
+    },
+    {
+      "laureate_id": "economics_1985_699",
+      "name": "Franco Modigliani",
+      "work_location": "Cambridge, MA, USA",
+      "backup_coords": [
+        52.2053,
+        0.1218
+      ],
+      "new_coords": [
+        42.3656347,
+        -71.1040018
+      ],
+      "distance_change": 71.9022520876009
+    },
+    {
+      "laureate_id": "economics_1986_700",
+      "name": "James M. Buchanan Jr.",
+      "work_location": "Fairfax, VA, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        38.8462236,
+        -77.3063733
+      ],
+      "distance_change": 86.51765392554373
+    },
+    {
+      "laureate_id": "economics_1987_701",
+      "name": "Robert M. Solow",
+      "work_location": "Cambridge, MA, USA",
+      "backup_coords": [
+        52.2053,
+        0.1218
+      ],
+      "new_coords": [
+        42.3656347,
+        -71.1040018
+      ],
+      "distance_change": 71.9022520876009
+    },
+    {
+      "laureate_id": "economics_1988_702",
+      "name": "Maurice Allais",
+      "work_location": "Paris, France",
+      "backup_coords": [
+        48.8566,
+        2.3522
+      ],
+      "new_coords": [
+        48.8588897,
+        2.320041
+      ],
+      "distance_change": 0.0322404095366358
+    },
+    {
+      "laureate_id": "economics_1989_703",
+      "name": "Trygve Haavelmo",
+      "work_location": "Oslo, Norway",
+      "backup_coords": [
+        59.9139,
+        10.7522
+      ],
+      "new_coords": [
+        59.9133301,
+        10.7389701
+      ],
+      "distance_change": 0.013242169007379885
+    },
+    {
+      "laureate_id": "economics_1993_710",
+      "name": "Douglass C. North",
+      "work_location": "St. Louis, MO, USA",
+      "backup_coords": [
+        52.2053,
+        0.1218
+      ],
+      "new_coords": [
+        38.6280278,
+        -90.1910154
+      ],
+      "distance_change": 91.3276899185968
+    },
+    {
+      "laureate_id": "economics_1994_713",
+      "name": "Reinhard Selten",
+      "work_location": "Bonn, Germany",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        50.7352621,
+        7.1024635
+      ],
+      "distance_change": 51.229989343396596
+    },
+    {
+      "laureate_id": "economics_1997_717",
+      "name": "Robert C. Merton",
+      "work_location": "Cambridge, MA, USA",
+      "backup_coords": [
+        52.2053,
+        0.1218
+      ],
+      "new_coords": [
+        42.3656347,
+        -71.1040018
+      ],
+      "distance_change": 71.9022520876009
+    },
+    {
+      "laureate_id": "economics_1997_718",
+      "name": "Myron Scholes",
+      "work_location": "Greenwich, CT, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        41.0264862,
+        -73.6284598
+      ],
+      "distance_change": 84.28714411129971
+    },
+    {
+      "laureate_id": "economics_2002_760",
+      "name": "Vernon L. Smith",
+      "work_location": "Fairfax, VA, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        38.8462236,
+        -77.3063733
+      ],
+      "distance_change": 86.51765392554373
+    },
+    {
+      "laureate_id": "economics_2003_772",
+      "name": "Clive W.J. Granger",
+      "work_location": "San Diego, CA, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        32.7174202,
+        -117.162772
+      ],
+      "distance_change": 121.64515907863886
+    },
+    {
+      "laureate_id": "economics_2004_786",
+      "name": "Finn E. Kydland",
+      "work_location": "Pittsburgh, PA, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        40.4416941,
+        -79.9900861
+      ],
+      "distance_change": 89.63227374089864
+    },
+    {
+      "laureate_id": "economics_2004_787",
+      "name": "Edward C. Prescott",
+      "work_location": "Tempe, AZ, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        33.4255117,
+        -111.940016
+      ],
+      "distance_change": 116.82393596556784
+    },
+    {
+      "laureate_id": "economics_2005_799",
+      "name": "Robert J. Aumann",
+      "work_location": "Jerusalem, Israel",
+      "backup_coords": [
+        31.7683,
+        35.2137
+      ],
+      "new_coords": [
+        31.7788472,
+        35.2257856
+      ],
+      "distance_change": 0.01604073424753373
+    },
+    {
+      "laureate_id": "economics_2005_800",
+      "name": "Thomas C. Schelling",
+      "work_location": "College Park, MD, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        38.980666,
+        -76.9369189
+      ],
+      "distance_change": 86.24837280568678
+    },
+    {
+      "laureate_id": "economics_2007_820",
+      "name": "Leonid Hurwicz",
+      "work_location": "Minneapolis, MN, USA",
+      "backup_coords": [
+        55.7558,
+        37.6173
+      ],
+      "new_coords": [
+        44.9772995,
+        -93.2654692
+      ],
+      "distance_change": 131.32583655354708
+    },
+    {
+      "laureate_id": "economics_2009_846",
+      "name": "Elinor Ostrom",
+      "work_location": "Bloomington, IN, USA",
+      "backup_coords": [
+        34.0522,
+        -118.2437
+      ],
+      "new_coords": [
+        39.1670396,
+        -86.5342881
+      ],
+      "distance_change": 32.119283727654796
+    },
+    {
+      "laureate_id": "economics_2010_856",
+      "name": "Peter A. Diamond",
+      "work_location": "Cambridge, MA, USA",
+      "backup_coords": [
+        52.2053,
+        0.1218
+      ],
+      "new_coords": [
+        42.3656347,
+        -71.1040018
+      ],
+      "distance_change": 71.9022520876009
+    },
+    {
+      "laureate_id": "economics_2010_857",
+      "name": "Dale T. Mortensen",
+      "work_location": "Evanston, IL, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        42.0470043,
+        -87.6846053
+      ],
+      "distance_change": 97.24474575636982
+    },
+    {
+      "laureate_id": "economics_2010_858",
+      "name": "Christopher A. Pissarides",
+      "work_location": "London, United Kingdom",
+      "backup_coords": [
+        51.5074,
+        -0.1278
+      ],
+      "new_coords": [
+        51.4893335,
+        -0.1440551
+      ],
+      "distance_change": 0.024302812558629153
+    },
+    {
+      "laureate_id": "economics_2012_882",
+      "name": "Alvin E. Roth",
+      "work_location": "Cambridge, MA, USA",
+      "backup_coords": [
+        52.2053,
+        0.1218
+      ],
+      "new_coords": [
+        42.3656347,
+        -71.1040018
+      ],
+      "distance_change": 71.9022520876009
+    },
+    {
+      "laureate_id": "economics_2013_896",
+      "name": "Robert J. Shiller",
+      "work_location": "New Haven, CT, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        41.3082138,
+        -72.9250518
+      ],
+      "distance_change": 83.8118828530847
+    },
+    {
+      "laureate_id": "economics_2014_915",
+      "name": "Jean Tirole",
+      "work_location": "Toulouse, France",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        43.6044638,
+        1.4442433
+      ],
+      "distance_change": 43.62837496395098
+    },
+    {
+      "laureate_id": "economics_2016_935",
+      "name": "Oliver Hart",
+      "work_location": "Cambridge, MA, USA",
+      "backup_coords": [
+        52.2053,
+        0.1218
+      ],
+      "new_coords": [
+        42.3656347,
+        -71.1040018
+      ],
+      "distance_change": 71.9022520876009
+    },
+    {
+      "laureate_id": "economics_2016_936",
+      "name": "Bengt Holmström",
+      "work_location": "Cambridge, MA, USA",
+      "backup_coords": [
+        52.2053,
+        0.1218
+      ],
+      "new_coords": [
+        42.3656347,
+        -71.1040018
+      ],
+      "distance_change": 71.9022520876009
+    },
+    {
+      "laureate_id": "economics_2018_968",
+      "name": "William D. Nordhaus",
+      "work_location": "New Haven, CT, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        41.3082138,
+        -72.9250518
+      ],
+      "distance_change": 83.8118828530847
+    },
+    {
+      "laureate_id": "economics_2019_982",
+      "name": "Abhijit Banerjee",
+      "work_location": "Cambridge, MA, USA",
+      "backup_coords": [
+        52.2053,
+        0.1218
+      ],
+      "new_coords": [
+        42.3656347,
+        -71.1040018
+      ],
+      "distance_change": 71.9022520876009
+    },
+    {
+      "laureate_id": "economics_2019_983",
+      "name": "Esther Duflo",
+      "work_location": "Cambridge, MA, USA",
+      "backup_coords": [
+        52.2053,
+        0.1218
+      ],
+      "new_coords": [
+        42.3656347,
+        -71.1040018
+      ],
+      "distance_change": 71.9022520876009
+    },
+    {
+      "laureate_id": "economics_2019_984",
+      "name": "Michael Kremer",
+      "work_location": "Cambridge, MA, USA",
+      "backup_coords": [
+        52.2053,
+        0.1218
+      ],
+      "new_coords": [
+        42.3656347,
+        -71.1040018
+      ],
+      "distance_change": 71.9022520876009
+    },
+    {
+      "laureate_id": "economics_2021_1008",
+      "name": "Joshua Angrist",
+      "work_location": "Cambridge, MA, USA",
+      "backup_coords": [
+        52.2053,
+        0.1218
+      ],
+      "new_coords": [
+        42.3656347,
+        -71.1040018
+      ],
+      "distance_change": 71.9022520876009
+    },
+    {
+      "laureate_id": "economics_2022_1021",
+      "name": "Ben Bernanke",
+      "work_location": "Washington, D.C., USA",
+      "backup_coords": [
+        38.9072,
+        -77.0369
+      ],
+      "new_coords": [
+        38.8950368,
+        -77.0365427
+      ],
+      "distance_change": 0.012168446800232364
+    },
+    {
+      "laureate_id": "economics_2022_1023",
+      "name": "Philip Dybvig",
+      "work_location": "St. Louis, MO, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        38.6280278,
+        -90.1910154
+      ],
+      "distance_change": 98.11495192171583
+    },
+    {
+      "laureate_id": "economics_2023_1034",
+      "name": "Claudia Goldin",
+      "work_location": "Cambridge, MA, USA",
+      "backup_coords": [
+        52.2053,
+        0.1218
+      ],
+      "new_coords": [
+        42.3656347,
+        -71.1040018
+      ],
+      "distance_change": 71.9022520876009
+    },
+    {
+      "laureate_id": "economics_2024_1044",
+      "name": "Daron Acemoglu",
+      "work_location": "Cambridge, MA, USA",
+      "backup_coords": [
+        52.2053,
+        0.1218
+      ],
+      "new_coords": [
+        42.3656347,
+        -71.1040018
+      ],
+      "distance_change": 71.9022520876009
+    },
+    {
+      "laureate_id": "economics_2024_1045",
+      "name": "Simon Johnson",
+      "work_location": "Cambridge, MA, USA",
+      "backup_coords": [
+        52.2053,
+        0.1218
+      ],
+      "new_coords": [
+        42.3656347,
+        -71.1040018
+      ],
+      "distance_change": 71.9022520876009
+    },
+    {
+      "laureate_id": "economics_2025_1058",
+      "name": "Joel Mokyr",
+      "work_location": "Evanston, IL, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        42.0470043,
+        -87.6846053
+      ],
+      "distance_change": 97.24474575636982
+    },
+    {
+      "laureate_id": "economics_2025_1059",
+      "name": "Philippe Aghion",
+      "work_location": "Paris, France",
+      "backup_coords": [
+        48.8566,
+        2.3522
+      ],
+      "new_coords": [
+        48.8588897,
+        2.320041
+      ],
+      "distance_change": 0.0322404095366358
+    },
+    {
+      "laureate_id": "economics_2025_1060",
+      "name": "Peter Howitt",
+      "work_location": "Providence, RI, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        41.8239891,
+        -71.4128343
+      ],
+      "distance_change": 82.75892076988544
+    },
+    {
+      "laureate_id": "literature_2002_761",
+      "name": "Imre Kertész",
+      "work_location": "Budapest, Hungary",
+      "backup_coords": [
+        47.4978789,
+        19.0402383
+      ],
+      "new_coords": [
+        47.4813896,
+        19.1460941
+      ],
+      "distance_change": 0.1071323826306977
+    },
+    {
+      "laureate_id": "literature_2025_1056",
+      "name": "László Krasznahorkai",
+      "work_location": "Budapest, Hungary",
+      "backup_coords": [
+        47.4978789,
+        19.0402383
+      ],
+      "new_coords": [
+        47.4813896,
+        19.1460941
+      ],
+      "distance_change": 0.1071323826306977
+    },
+    {
+      "laureate_id": "medicine_1901_293",
+      "name": "Emil von Behring",
+      "work_location": "Marburg, Germany",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        50.8090106,
+        8.7704695
+      ],
+      "distance_change": 51.56041789397505
+    },
+    {
+      "laureate_id": "medicine_1902_294",
+      "name": "Ronald Ross",
+      "work_location": "Liverpool, United Kingdom",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        53.4071991,
+        -2.99168
+      ],
+      "distance_change": 53.490925070795335
+    },
+    {
+      "laureate_id": "medicine_1903_295",
+      "name": "Niels Ryberg Finsen",
+      "work_location": "Copenhagen, Denmark",
+      "backup_coords": [
+        55.6761,
+        12.5683
+      ],
+      "new_coords": [
+        55.6867243,
+        12.5700724
+      ],
+      "distance_change": 0.01077112585805561
+    },
+    {
+      "laureate_id": "medicine_1904_296",
+      "name": "Ivan Pavlov",
+      "work_location": "St. Petersburg, Russia",
+      "backup_coords": [
+        59.9311,
+        30.3609
+      ],
+      "new_coords": [
+        59.938732,
+        30.316229
+      ],
+      "distance_change": 0.04531827076356848
+    },
+    {
+      "laureate_id": "medicine_1906_298",
+      "name": "Camillo Golgi",
+      "work_location": "Pavia, Italy",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        45.0368547,
+        9.1378251
+      ],
+      "distance_change": 45.95452239798714
+    },
+    {
+      "laureate_id": "medicine_1906_299",
+      "name": "Santiago Ramón y Cajal",
+      "work_location": "Madrid, Spain",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        40.416782,
+        -3.703507
+      ],
+      "distance_change": 40.58610884692659
+    },
+    {
+      "laureate_id": "medicine_1907_300",
+      "name": "Alphonse Laveran",
+      "work_location": "Paris, France",
+      "backup_coords": [
+        48.8566,
+        2.3522
+      ],
+      "new_coords": [
+        48.8588897,
+        2.320041
+      ],
+      "distance_change": 0.0322404095366358
+    },
+    {
+      "laureate_id": "medicine_1908_301",
+      "name": "Ilya Mechnikov",
+      "work_location": "Paris, France",
+      "backup_coords": [
+        48.8566,
+        2.3522
+      ],
+      "new_coords": [
+        48.8588897,
+        2.320041
+      ],
+      "distance_change": 0.0322404095366358
+    },
+    {
+      "laureate_id": "medicine_1908_302",
+      "name": "Paul Ehrlich",
+      "work_location": "Göttingen, Germany",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        51.5328328,
+        9.9351811
+      ],
+      "distance_change": 52.481812848667424
+    },
+    {
+      "laureate_id": "medicine_1909_303",
+      "name": "Theodor Kocher",
+      "work_location": "Bern, Switzerland",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        46.9484742,
+        7.4521749
+      ],
+      "distance_change": 47.53624028515776
+    },
+    {
+      "laureate_id": "medicine_1910_304",
+      "name": "Albrecht Kossel",
+      "work_location": "Heidelberg, Germany",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        49.4093582,
+        8.694724
+      ],
+      "distance_change": 50.16854495769319
+    },
+    {
+      "laureate_id": "medicine_1911_305",
+      "name": "Allvar Gullstrand",
+      "work_location": "Uppsala, Sweden",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        59.8586126,
+        17.6387436
+      ],
+      "distance_change": 62.40335550419881
+    },
+    {
+      "laureate_id": "medicine_1913_307",
+      "name": "Charles Richet",
+      "work_location": "Paris, France",
+      "backup_coords": [
+        48.8566,
+        2.3522
+      ],
+      "new_coords": [
+        48.8588897,
+        2.320041
+      ],
+      "distance_change": 0.0322404095366358
+    },
+    {
+      "laureate_id": "medicine_1920_310",
+      "name": "August Krogh",
+      "work_location": "Copenhagen, Denmark",
+      "backup_coords": [
+        55.6761,
+        12.5683
+      ],
+      "new_coords": [
+        55.6867243,
+        12.5700724
+      ],
+      "distance_change": 0.01077112585805561
+    },
+    {
+      "laureate_id": "medicine_1922_311",
+      "name": "Archibald V. Hill",
+      "work_location": "London, United Kingdom",
+      "backup_coords": [
+        51.5074,
+        -0.1278
+      ],
+      "new_coords": [
+        51.4893335,
+        -0.1440551
+      ],
+      "distance_change": 0.024302812558629153
+    },
+    {
+      "laureate_id": "medicine_1922_312",
+      "name": "Otto Meyerhof",
+      "work_location": "Kiel, Germany",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        54.3227085,
+        10.135555
+      ],
+      "distance_change": 55.26016769730252
+    },
+    {
+      "laureate_id": "medicine_1924_315",
+      "name": "Willem Einthoven",
+      "work_location": "Leiden, the Netherlands",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        52.1594747,
+        4.4908843
+      ],
+      "distance_change": 52.3524482978201
+    },
+    {
+      "laureate_id": "medicine_1926_316",
+      "name": "Johannes Fibiger",
+      "work_location": "Copenhagen, Denmark",
+      "backup_coords": [
+        55.6761,
+        12.5683
+      ],
+      "new_coords": [
+        55.6867243,
+        12.5700724
+      ],
+      "distance_change": 0.01077112585805561
+    },
+    {
+      "laureate_id": "medicine_1928_318",
+      "name": "Charles Nicolle",
+      "work_location": "Tunis, Tunisia",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        33.8439408,
+        9.400138
+      ],
+      "distance_change": 35.12513235979259
+    },
+    {
+      "laureate_id": "medicine_1929_319",
+      "name": "Christiaan Eijkman",
+      "work_location": "Utrecht, the Netherlands",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        52.0907006,
+        5.1215634
+      ],
+      "distance_change": 52.34187139049443
+    },
+    {
+      "laureate_id": "medicine_1931_322",
+      "name": "Otto Warburg",
+      "work_location": "Berlin-Dahlem, Germany",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        52.4528565,
+        13.2907249
+      ],
+      "distance_change": 54.11049365305285
+    },
+    {
+      "laureate_id": "medicine_1934_326",
+      "name": "George H. Whipple",
+      "work_location": "Rochester, NY, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        43.157285,
+        -77.615214
+      ],
+      "distance_change": 88.80694056681054
+    },
+    {
+      "laureate_id": "medicine_1934_327",
+      "name": "George R. Minot",
+      "work_location": "Cambridge, MA, USA",
+      "backup_coords": [
+        52.2053,
+        0.1218
+      ],
+      "new_coords": [
+        42.3656347,
+        -71.1040018
+      ],
+      "distance_change": 71.9022520876009
+    },
+    {
+      "laureate_id": "medicine_1934_328",
+      "name": "William P. Murphy",
+      "work_location": "Cambridge, MA, USA",
+      "backup_coords": [
+        52.2053,
+        0.1218
+      ],
+      "new_coords": [
+        42.3656347,
+        -71.1040018
+      ],
+      "distance_change": 71.9022520876009
+    },
+    {
+      "laureate_id": "medicine_1935_329",
+      "name": "Hans Spemann",
+      "work_location": "Breisgau, Germany",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        48.0314933,
+        7.6885693
+      ],
+      "distance_change": 48.64296913746988
+    },
+    {
+      "laureate_id": "medicine_1936_330",
+      "name": "Sir Henry Dale",
+      "work_location": "London, United Kingdom",
+      "backup_coords": [
+        51.5074,
+        -0.1278
+      ],
+      "new_coords": [
+        51.4893335,
+        -0.1440551
+      ],
+      "distance_change": 0.024302812558629153
+    },
+    {
+      "laureate_id": "medicine_1936_331",
+      "name": "Otto Loewi",
+      "work_location": "Graz, Austria",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        47.0708678,
+        15.4382786
+      ],
+      "distance_change": 49.537935378619636
+    },
+    {
+      "laureate_id": "medicine_1937_332",
+      "name": "Albert Szent-Györgyi",
+      "work_location": "Szeged, Hungary",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        46.2546312,
+        20.1486016
+      ],
+      "distance_change": 50.45252277025933
+    },
+    {
+      "laureate_id": "medicine_1938_333",
+      "name": "Corneille Heymans",
+      "work_location": "Ghent, Belgium",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        51.0538286,
+        3.7250121
+      ],
+      "distance_change": 51.1895412155972
+    },
+    {
+      "laureate_id": "medicine_1939_334",
+      "name": "Gerhard Domagk",
+      "work_location": "Munster, Germany",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        51.9625101,
+        7.6251879
+      ],
+      "distance_change": 52.51900557324852
+    },
+    {
+      "laureate_id": "medicine_1943_335",
+      "name": "Henrik Dam",
+      "work_location": "Copenhagen, Denmark",
+      "backup_coords": [
+        55.6761,
+        12.5683
+      ],
+      "new_coords": [
+        55.6867243,
+        12.5700724
+      ],
+      "distance_change": 0.01077112585805561
+    },
+    {
+      "laureate_id": "medicine_1943_336",
+      "name": "Edward A. Doisy",
+      "work_location": "St. Louis, MO, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        38.6280278,
+        -90.1910154
+      ],
+      "distance_change": 98.11495192171583
+    },
+    {
+      "laureate_id": "medicine_1944_337",
+      "name": "Joseph Erlanger",
+      "work_location": "St. Louis, MO, USA",
+      "backup_coords": [
+        37.7749,
+        -122.4194
+      ],
+      "new_coords": [
+        38.6280278,
+        -90.1910154
+      ],
+      "distance_change": 32.2396743309955
+    },
+    {
+      "laureate_id": "medicine_1945_339",
+      "name": "Sir Alexander Fleming",
+      "work_location": "London, United Kingdom",
+      "backup_coords": [
+        51.5074,
+        -0.1278
+      ],
+      "new_coords": [
+        51.4893335,
+        -0.1440551
+      ],
+      "distance_change": 0.024302812558629153
+    },
+    {
+      "laureate_id": "medicine_1946_342",
+      "name": "Hermann J. Muller",
+      "work_location": "Bloomington, IN, USA",
+      "backup_coords": [
+        40.7128,
+        -74.006
+      ],
+      "new_coords": [
+        39.1670396,
+        -86.5342881
+      ],
+      "distance_change": 12.623287128589356
+    },
+    {
+      "laureate_id": "medicine_1947_343",
+      "name": "Carl Cori",
+      "work_location": "St. Louis, MO, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        38.6280278,
+        -90.1910154
+      ],
+      "distance_change": 98.11495192171583
+    },
+    {
+      "laureate_id": "medicine_1947_344",
+      "name": "Gerty Cori",
+      "work_location": "St. Louis, MO, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        38.6280278,
+        -90.1910154
+      ],
+      "distance_change": 98.11495192171583
+    },
+    {
+      "laureate_id": "medicine_1948_346",
+      "name": "Paul Müller",
+      "work_location": "Basel, Switzerland",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        47.5581077,
+        7.5878261
+      ],
+      "distance_change": 48.159617034696616
+    },
+    {
+      "laureate_id": "medicine_1949_348",
+      "name": "Egas Moniz",
+      "work_location": "Lisbon, Portugal",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        38.7077507,
+        -9.1365919
+      ],
+      "distance_change": 39.77143793981425
+    },
+    {
+      "laureate_id": "medicine_1950_349",
+      "name": "Edward C. Kendall",
+      "work_location": "Rochester, MN, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        44.0234387,
+        -92.4630182
+      ],
+      "distance_change": 102.40836337734427
+    },
+    {
+      "laureate_id": "medicine_1950_350",
+      "name": "Tadeus Reichstein",
+      "work_location": "Basel, Switzerland",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        47.5581077,
+        7.5878261
+      ],
+      "distance_change": 48.159617034696616
+    },
+    {
+      "laureate_id": "medicine_1950_351",
+      "name": "Philip S. Hench",
+      "work_location": "Rochester, MN, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        44.0234387,
+        -92.4630182
+      ],
+      "distance_change": 102.40836337734427
+    },
+    {
+      "laureate_id": "medicine_1953_354",
+      "name": "Hans Krebs",
+      "work_location": "Sheffield, United Kingdom",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        53.3806626,
+        -1.4702278
+      ],
+      "distance_change": 53.40090551103915
+    },
+    {
+      "laureate_id": "medicine_1954_358",
+      "name": "Frederick C. Robbins",
+      "work_location": "Cleveland, OH, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        41.4996574,
+        -81.6936772
+      ],
+      "distance_change": 91.63011764029976
+    },
+    {
+      "laureate_id": "medicine_1956_361",
+      "name": "Werner Forssmann",
+      "work_location": "Mainz, Germany",
+      "backup_coords": [
+        52.52,
+        13.405
+      ],
+      "new_coords": [
+        49.9995205,
+        8.2736253
+      ],
+      "distance_change": 5.716976755394438
+    },
+    {
+      "laureate_id": "medicine_1957_363",
+      "name": "Daniel Bovet",
+      "work_location": "Rome, Italy",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        41.8933203,
+        12.4829321
+      ],
+      "distance_change": 43.713543434176124
+    },
+    {
+      "laureate_id": "medicine_1958_366",
+      "name": "Joshua Lederberg",
+      "work_location": "Madison, WI, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        43.07469,
+        -89.3841663
+      ],
+      "distance_change": 99.22176224872322
+    },
+    {
+      "laureate_id": "medicine_1960_370",
+      "name": "Peter Medawar",
+      "work_location": "London, United Kingdom",
+      "backup_coords": [
+        51.5074,
+        -0.1278
+      ],
+      "new_coords": [
+        51.4893335,
+        -0.1440551
+      ],
+      "distance_change": 0.024302812558629153
+    },
+    {
+      "laureate_id": "medicine_1961_371",
+      "name": "Georg von Békésy",
+      "work_location": "Cambridge, MA, USA",
+      "backup_coords": [
+        52.2053,
+        0.1218
+      ],
+      "new_coords": [
+        42.3656347,
+        -71.1040018
+      ],
+      "distance_change": 71.9022520876009
+    },
+    {
+      "laureate_id": "medicine_1962_373",
+      "name": "James Watson",
+      "work_location": "Cambridge, MA, USA",
+      "backup_coords": [
+        52.2053,
+        0.1218
+      ],
+      "new_coords": [
+        42.3656347,
+        -71.1040018
+      ],
+      "distance_change": 71.9022520876009
+    },
+    {
+      "laureate_id": "medicine_1962_374",
+      "name": "Maurice Wilkins",
+      "work_location": "London, United Kingdom",
+      "backup_coords": [
+        51.5074,
+        -0.1278
+      ],
+      "new_coords": [
+        51.4893335,
+        -0.1440551
+      ],
+      "distance_change": 0.024302812558629153
+    },
+    {
+      "laureate_id": "medicine_1963_375",
+      "name": "Sir John Eccles",
+      "work_location": "Canberra, Australia",
+      "backup_coords": [
+        -37.8136,
+        144.9631
+      ],
+      "new_coords": [
+        -35.2975906,
+        149.1012676
+      ],
+      "distance_change": 4.843008815455342
+    },
+    {
+      "laureate_id": "medicine_1963_377",
+      "name": "Andrew Huxley",
+      "work_location": "London, United Kingdom",
+      "backup_coords": [
+        51.5074,
+        -0.1278
+      ],
+      "new_coords": [
+        51.4893335,
+        -0.1440551
+      ],
+      "distance_change": 0.024302812558629153
+    },
+    {
+      "laureate_id": "medicine_1964_378",
+      "name": "Konrad Bloch",
+      "work_location": "Cambridge, MA, USA",
+      "backup_coords": [
+        52.2053,
+        0.1218
+      ],
+      "new_coords": [
+        42.3656347,
+        -71.1040018
+      ],
+      "distance_change": 71.9022520876009
+    },
+    {
+      "laureate_id": "medicine_1965_380",
+      "name": "François Jacob",
+      "work_location": "Paris, France",
+      "backup_coords": [
+        48.8566,
+        2.3522
+      ],
+      "new_coords": [
+        48.8588897,
+        2.320041
+      ],
+      "distance_change": 0.0322404095366358
+    },
+    {
+      "laureate_id": "medicine_1965_381",
+      "name": "André Lwoff",
+      "work_location": "Paris, France",
+      "backup_coords": [
+        48.8566,
+        2.3522
+      ],
+      "new_coords": [
+        48.8588897,
+        2.320041
+      ],
+      "distance_change": 0.0322404095366358
+    },
+    {
+      "laureate_id": "medicine_1965_382",
+      "name": "Jacques Monod",
+      "work_location": "Paris, France",
+      "backup_coords": [
+        48.8566,
+        2.3522
+      ],
+      "new_coords": [
+        48.8588897,
+        2.320041
+      ],
+      "distance_change": 0.0322404095366358
+    },
+    {
+      "laureate_id": "medicine_1967_387",
+      "name": "George Wald",
+      "work_location": "Cambridge, MA, USA",
+      "backup_coords": [
+        52.2053,
+        0.1218
+      ],
+      "new_coords": [
+        42.3656347,
+        -71.1040018
+      ],
+      "distance_change": 71.9022520876009
+    },
+    {
+      "laureate_id": "medicine_1968_388",
+      "name": "Robert W. Holley",
+      "work_location": "Ithaca, NY, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        42.4374175,
+        -76.5483724
+      ],
+      "distance_change": 87.52478346821768
+    },
+    {
+      "laureate_id": "medicine_1968_389",
+      "name": "H. Gobind Khorana",
+      "work_location": "Madison, WI, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        43.07469,
+        -89.3841663
+      ],
+      "distance_change": 99.22176224872322
+    },
+    {
+      "laureate_id": "medicine_1968_390",
+      "name": "Marshall W. Nirenberg",
+      "work_location": "Bethesda, MD, USA",
+      "backup_coords": [
+        40.7128,
+        -74.006
+      ],
+      "new_coords": [
+        38.9812726,
+        -77.1233587
+      ],
+      "distance_change": 3.565965844118035
+    },
+    {
+      "laureate_id": "medicine_1969_392",
+      "name": "Alfred D. Hershey",
+      "work_location": "Long Island, New York, NY, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        40.8514971,
+        -73.0994297
+      ],
+      "distance_change": 83.73990349753545
+    },
+    {
+      "laureate_id": "medicine_1969_393",
+      "name": "Salvador E. Luria",
+      "work_location": "Cambridge, MA, USA",
+      "backup_coords": [
+        52.2053,
+        0.1218
+      ],
+      "new_coords": [
+        42.3656347,
+        -71.1040018
+      ],
+      "distance_change": 71.9022520876009
+    },
+    {
+      "laureate_id": "medicine_1970_394",
+      "name": "Sir Bernard Katz",
+      "work_location": "London, United Kingdom",
+      "backup_coords": [
+        51.5074,
+        -0.1278
+      ],
+      "new_coords": [
+        51.4893335,
+        -0.1440551
+      ],
+      "distance_change": 0.024302812558629153
+    },
+    {
+      "laureate_id": "medicine_1971_397",
+      "name": "Earl W. Sutherland, Jr.",
+      "work_location": "Nashville, TN, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        36.1622767,
+        -86.7742984
+      ],
+      "distance_change": 94.00792051172925
+    },
+    {
+      "laureate_id": "medicine_1973_401",
+      "name": "Konrad Lorenz",
+      "work_location": "Altenberg; Grünau im Almtal, Austria",
+      "backup_coords": [
+        48.2082,
+        16.3738
+      ],
+      "new_coords": [
+        0,
+        0
+      ],
+      "distance_change": 50.91298335081141
+    },
+    {
+      "laureate_id": "medicine_1974_403",
+      "name": "Albert Claude",
+      "work_location": "Louvain, Belgium",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        50.879202,
+        4.7011675
+      ],
+      "distance_change": 51.09593107107317
+    },
+    {
+      "laureate_id": "medicine_1974_405",
+      "name": "George E. Palade",
+      "work_location": "New Haven, CT, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        41.3082138,
+        -72.9250518
+      ],
+      "distance_change": 83.8118828530847
+    },
+    {
+      "laureate_id": "medicine_1975_406",
+      "name": "David Baltimore",
+      "work_location": "Cambridge, MA, USA",
+      "backup_coords": [
+        52.2053,
+        0.1218
+      ],
+      "new_coords": [
+        42.3656347,
+        -71.1040018
+      ],
+      "distance_change": 71.9022520876009
+    },
+    {
+      "laureate_id": "medicine_1975_407",
+      "name": "Renato Dulbecco",
+      "work_location": "London, United Kingdom",
+      "backup_coords": [
+        51.5074,
+        -0.1278
+      ],
+      "new_coords": [
+        51.4893335,
+        -0.1440551
+      ],
+      "distance_change": 0.024302812558629153
+    },
+    {
+      "laureate_id": "medicine_1975_408",
+      "name": "Howard M. Temin",
+      "work_location": "Madison, WI, USA",
+      "backup_coords": [
+        39.9526,
+        -75.1652
+      ],
+      "new_coords": [
+        43.07469,
+        -89.3841663
+      ],
+      "distance_change": 14.557693794301207
+    },
+    {
+      "laureate_id": "medicine_1976_410",
+      "name": "D. Carleton Gajdusek",
+      "work_location": "Bethesda, MD, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        38.9812726,
+        -77.1233587
+      ],
+      "distance_change": 86.41499910712479
+    },
+    {
+      "laureate_id": "medicine_1977_411",
+      "name": "Roger Guillemin",
+      "work_location": "San Diego, CA, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        32.7174202,
+        -117.162772
+      ],
+      "distance_change": 121.64515907863886
+    },
+    {
+      "laureate_id": "medicine_1977_412",
+      "name": "Andrew V. Schally",
+      "work_location": "New Orleans, LA, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        29.9559145,
+        -90.0730259
+      ],
+      "distance_change": 94.92368939476269
+    },
+    {
+      "laureate_id": "medicine_1977_413",
+      "name": "Rosalyn Yalow",
+      "work_location": "Bronx, NY, USA",
+      "backup_coords": [
+        40.7128,
+        -74.006
+      ],
+      "new_coords": [
+        40.8466508,
+        -73.8785937
+      ],
+      "distance_change": 0.1847928622548241
+    },
+    {
+      "laureate_id": "medicine_1978_414",
+      "name": "Werner Arber",
+      "work_location": "Basel, Switzerland",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        47.5581077,
+        7.5878261
+      ],
+      "distance_change": 48.159617034696616
+    },
+    {
+      "laureate_id": "medicine_1979_417",
+      "name": "Allan M. Cormack",
+      "work_location": "Medford, MA, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        42.4184296,
+        -71.1061639
+      ],
+      "distance_change": 82.79740161565348
+    },
+    {
+      "laureate_id": "medicine_1979_418",
+      "name": "Godfrey N. Hounsfield",
+      "work_location": "London, United Kingdom",
+      "backup_coords": [
+        51.5074,
+        -0.1278
+      ],
+      "new_coords": [
+        51.4893335,
+        -0.1440551
+      ],
+      "distance_change": 0.024302812558629153
+    },
+    {
+      "laureate_id": "medicine_1980_420",
+      "name": "Jean Dausset",
+      "work_location": "Paris, France",
+      "backup_coords": [
+        48.8566,
+        2.3522
+      ],
+      "new_coords": [
+        48.8588897,
+        2.320041
+      ],
+      "distance_change": 0.0322404095366358
+    },
+    {
+      "laureate_id": "medicine_1980_421",
+      "name": "George D. Snell",
+      "work_location": "Bar Harbor, ME, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        44.3876378,
+        -68.2043361
+      ],
+      "distance_change": 81.37624869890325
+    },
+    {
+      "laureate_id": "medicine_1982_427",
+      "name": "John R. Vane",
+      "work_location": "Beckenham, United Kingdom",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        51.4070938,
+        -0.0303183
+      ],
+      "distance_change": 51.40710274039292
+    },
+    {
+      "laureate_id": "medicine_1983_428",
+      "name": "Barbara McClintock",
+      "work_location": "Cold Spring Harbor, NY, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        40.8601065,
+        -73.4529025
+      ],
+      "distance_change": 84.05282380066625
+    },
+    {
+      "laureate_id": "medicine_1984_429",
+      "name": "Niels K. Jerne",
+      "work_location": "Basel, Switzerland",
+      "backup_coords": [
+        51.5074,
+        -0.1278
+      ],
+      "new_coords": [
+        47.5581077,
+        7.5878261
+      ],
+      "distance_change": 8.667629190605725
+    },
+    {
+      "laureate_id": "medicine_1984_430",
+      "name": "Georges J.F. Köhler",
+      "work_location": "Basel, Switzerland",
+      "backup_coords": [
+        48.1351,
+        11.582
+      ],
+      "new_coords": [
+        47.5581077,
+        7.5878261
+      ],
+      "distance_change": 4.035634430631757
+    },
+    {
+      "laureate_id": "medicine_1985_432",
+      "name": "Michael S. Brown",
+      "work_location": "Dallas, TX, USA",
+      "backup_coords": [
+        40.7128,
+        -74.006
+      ],
+      "new_coords": [
+        32.7762719,
+        -96.7968559
+      ],
+      "distance_change": 24.13320515258291
+    },
+    {
+      "laureate_id": "medicine_1985_433",
+      "name": "Joseph L. Goldstein",
+      "work_location": "Dallas, TX, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        32.7762719,
+        -96.7968559
+      ],
+      "distance_change": 102.19547598493827
+    },
+    {
+      "laureate_id": "medicine_1986_434",
+      "name": "Stanley Cohen",
+      "work_location": "Nashville, TN, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        36.1622767,
+        -86.7742984
+      ],
+      "distance_change": 94.00792051172925
+    },
+    {
+      "laureate_id": "medicine_1986_435",
+      "name": "Rita Levi-Montalcini",
+      "work_location": "Rome, Italy",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        41.8933203,
+        12.4829321
+      ],
+      "distance_change": 43.713543434176124
+    },
+    {
+      "laureate_id": "medicine_1987_436",
+      "name": "Susumu Tonegawa",
+      "work_location": "Cambridge, MA, USA",
+      "backup_coords": [
+        52.2053,
+        0.1218
+      ],
+      "new_coords": [
+        42.3656347,
+        -71.1040018
+      ],
+      "distance_change": 71.9022520876009
+    },
+    {
+      "laureate_id": "medicine_1988_437",
+      "name": "Sir James W. Black",
+      "work_location": "London, United Kingdom",
+      "backup_coords": [
+        51.5074,
+        -0.1278
+      ],
+      "new_coords": [
+        51.4893335,
+        -0.1440551
+      ],
+      "distance_change": 0.024302812558629153
+    },
+    {
+      "laureate_id": "medicine_1988_438",
+      "name": "Gertrude B. Elion",
+      "work_location": "Research Triangle Park, NC, USA",
+      "backup_coords": [
+        40.7128,
+        -74.006
+      ],
+      "new_coords": [
+        35.8923773,
+        -78.8658899
+      ],
+      "distance_change": 6.845071573533567
+    },
+    {
+      "laureate_id": "medicine_1988_439",
+      "name": "George H. Hitchings",
+      "work_location": "Research Triangle Park, NC, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        35.8923773,
+        -78.8658899
+      ],
+      "distance_change": 86.6492431470955
+    },
+    {
+      "laureate_id": "medicine_1991_444",
+      "name": "Erwin Neher",
+      "work_location": "Göttingen, Germany",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        51.5328328,
+        9.9351811
+      ],
+      "distance_change": 52.481812848667424
+    },
+    {
+      "laureate_id": "medicine_1991_445",
+      "name": "Bert Sakmann",
+      "work_location": "Heidelberg, Germany",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        49.4093582,
+        8.694724
+      ],
+      "distance_change": 50.16854495769319
+    },
+    {
+      "laureate_id": "medicine_1993_448",
+      "name": "Richard J. Roberts",
+      "work_location": "Beverly, MA, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        42.5489744,
+        -70.8781883
+      ],
+      "distance_change": 82.66881394565978
+    },
+    {
+      "laureate_id": "medicine_1993_449",
+      "name": "Phillip A. Sharp",
+      "work_location": "Cambridge, MA, USA",
+      "backup_coords": [
+        52.2053,
+        0.1218
+      ],
+      "new_coords": [
+        42.3656347,
+        -71.1040018
+      ],
+      "distance_change": 71.9022520876009
+    },
+    {
+      "laureate_id": "medicine_1994_450",
+      "name": "Alfred G. Gilman",
+      "work_location": "Dallas, TX, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        32.7762719,
+        -96.7968559
+      ],
+      "distance_change": 102.19547598493827
+    },
+    {
+      "laureate_id": "medicine_1994_451",
+      "name": "Martin Rodbell",
+      "work_location": "Research Triangle Park, NC, USA",
+      "backup_coords": [
+        39.2904,
+        -76.6122
+      ],
+      "new_coords": [
+        35.8923773,
+        -78.8658899
+      ],
+      "distance_change": 4.077459556522576
+    },
+    {
+      "laureate_id": "medicine_1995_453",
+      "name": "Christiane Nüsslein-Volhard",
+      "work_location": "Tübingen, Germany",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        48.5203263,
+        9.053596
+      ],
+      "distance_change": 49.35777208089611
+    },
+    {
+      "laureate_id": "medicine_1996_455",
+      "name": "Peter C. Doherty",
+      "work_location": "Memphis, TN, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        35.1460249,
+        -90.0517638
+      ],
+      "distance_change": 96.66728107153118
+    },
+    {
+      "laureate_id": "medicine_1998_458",
+      "name": "Robert F. Furchgott",
+      "work_location": "Brooklyn, NY, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        40.6526006,
+        -73.9497211
+      ],
+      "distance_change": 84.38717429983603
+    },
+    {
+      "laureate_id": "medicine_1998_460",
+      "name": "Ferid Murad",
+      "work_location": "Houston, TX, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        29.7589382,
+        -95.3676974
+      ],
+      "distance_change": 99.90291342182863
+    },
+    {
+      "laureate_id": "medicine_2000_722",
+      "name": "Arvid Carlsson",
+      "work_location": "Gothenburg, Sweden",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        57.7072326,
+        11.9670171
+      ],
+      "distance_change": 58.9349997253092
+    },
+    {
+      "laureate_id": "medicine_2001_736",
+      "name": "Tim Hunt",
+      "work_location": "London, United Kingdom",
+      "backup_coords": [
+        51.5074,
+        -0.1278
+      ],
+      "new_coords": [
+        51.4893335,
+        -0.1440551
+      ],
+      "distance_change": 0.024302812558629153
+    },
+    {
+      "laureate_id": "medicine_2001_737",
+      "name": "Sir Paul Nurse",
+      "work_location": "London, United Kingdom",
+      "backup_coords": [
+        51.5074,
+        -0.1278
+      ],
+      "new_coords": [
+        51.4893335,
+        -0.1440551
+      ],
+      "distance_change": 0.024302812558629153
+    },
+    {
+      "laureate_id": "medicine_2002_751",
+      "name": "H. Robert Horvitz",
+      "work_location": "Cambridge, MA, USA",
+      "backup_coords": [
+        52.2053,
+        0.1218
+      ],
+      "new_coords": [
+        42.3656347,
+        -71.1040018
+      ],
+      "distance_change": 71.9022520876009
+    },
+    {
+      "laureate_id": "medicine_2003_764",
+      "name": "Paul C. Lauterbur",
+      "work_location": "Urbana, IL, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        40.1117174,
+        -88.207301
+      ],
+      "distance_change": 96.89931796706344
+    },
+    {
+      "laureate_id": "medicine_2003_765",
+      "name": "Sir Peter Mansfield",
+      "work_location": "Nottingham, United Kingdom",
+      "backup_coords": [
+        51.5074,
+        -0.1278
+      ],
+      "new_coords": [
+        52.9534193,
+        -1.1496461
+      ],
+      "distance_change": 1.7706330133762078
+    },
+    {
+      "laureate_id": "medicine_2005_789",
+      "name": "Barry J. Marshall",
+      "work_location": "Nedlands, Australia",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        -31.9799209,
+        115.8057167
+      ],
+      "distance_change": 120.14024871445422
+    },
+    {
+      "laureate_id": "medicine_2006_803",
+      "name": "Craig C. Mello",
+      "work_location": "Worcester, MA, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        42.2625621,
+        -71.8018877
+      ],
+      "distance_change": 83.31647635695936
+    },
+    {
+      "laureate_id": "medicine_2007_811",
+      "name": "Mario R. Capecchi",
+      "work_location": "Salt Lake City, UT, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        40.7596198,
+        -111.886797
+      ],
+      "distance_change": 119.07981335709157
+    },
+    {
+      "laureate_id": "medicine_2007_812",
+      "name": "Sir Martin J. Evans",
+      "work_location": "Cardiff, United Kingdom",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        51.4816546,
+        -3.1791934
+      ],
+      "distance_change": 51.57972499954129
+    },
+    {
+      "laureate_id": "medicine_2007_813",
+      "name": "Oliver Smithies",
+      "work_location": "Chapel Hill, NC, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        35.9131542,
+        -79.05578
+      ],
+      "distance_change": 86.83070307213559
+    },
+    {
+      "laureate_id": "medicine_2008_823",
+      "name": "Harald zur Hausen",
+      "work_location": "Heidelberg, Germany",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        49.4093582,
+        8.694724
+      ],
+      "distance_change": 50.16854495769319
+    },
+    {
+      "laureate_id": "medicine_2008_824",
+      "name": "Françoise Barré-Sinoussi",
+      "work_location": "Paris, France",
+      "backup_coords": [
+        48.8566,
+        2.3522
+      ],
+      "new_coords": [
+        48.8588897,
+        2.320041
+      ],
+      "distance_change": 0.0322404095366358
+    },
+    {
+      "laureate_id": "medicine_2008_825",
+      "name": "Luc Montagnier",
+      "work_location": "Paris, France",
+      "backup_coords": [
+        48.8566,
+        2.3522
+      ],
+      "new_coords": [
+        48.8588897,
+        2.320041
+      ],
+      "distance_change": 0.0322404095366358
+    },
+    {
+      "laureate_id": "medicine_2011_861",
+      "name": "Bruce A. Beutler",
+      "work_location": "Dallas, TX, USA",
+      "backup_coords": [
+        41.8781,
+        -87.6298
+      ],
+      "new_coords": [
+        32.7762719,
+        -96.7968559
+      ],
+      "distance_change": 12.918134100390597
+    },
+    {
+      "laureate_id": "medicine_2011_862",
+      "name": "Jules A. Hoffmann",
+      "work_location": "Strasbourg, France",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        48.584614,
+        7.7507127
+      ],
+      "distance_change": 49.19896609571117
+    },
+    {
+      "laureate_id": "medicine_2013_884",
+      "name": "James E. Rothman",
+      "work_location": "New Haven, CT, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        41.3082138,
+        -72.9250518
+      ],
+      "distance_change": 83.8118828530847
+    },
+    {
+      "laureate_id": "medicine_2014_903",
+      "name": "John O'Keefe",
+      "work_location": "London, United Kingdom",
+      "backup_coords": [
+        51.5074,
+        -0.1278
+      ],
+      "new_coords": [
+        51.4893335,
+        -0.1440551
+      ],
+      "distance_change": 0.024302812558629153
+    },
+    {
+      "laureate_id": "medicine_2014_904",
+      "name": "May-Britt Moser",
+      "work_location": "Trondheim, Norway",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        63.4304475,
+        10.3952118
+      ],
+      "distance_change": 64.27660615198282
+    },
+    {
+      "laureate_id": "medicine_2014_905",
+      "name": "Edvard I. Moser",
+      "work_location": "Trondheim, Norway",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        63.4304475,
+        10.3952118
+      ],
+      "distance_change": 64.27660615198282
+    },
+    {
+      "laureate_id": "medicine_2015_916",
+      "name": "William C. Campbell",
+      "work_location": "Madison, NJ, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        40.7598227,
+        -74.417097
+      ],
+      "distance_change": 84.84849717256543
+    },
+    {
+      "laureate_id": "medicine_2015_917",
+      "name": "Satoshi Ōmura",
+      "work_location": "Tokyo, Japan",
+      "backup_coords": [
+        35.6762,
+        139.6503
+      ],
+      "new_coords": [
+        35.6768601,
+        139.7638947
+      ],
+      "distance_change": 0.11359661790786235
+    },
+    {
+      "laureate_id": "medicine_2015_918",
+      "name": "Youyou Tu",
+      "work_location": "Beijing, China",
+      "backup_coords": [
+        39.9042,
+        116.4074
+      ],
+      "new_coords": [
+        40.190632,
+        116.412144
+      ],
+      "distance_change": 0.2864712833077668
+    },
+    {
+      "laureate_id": "medicine_2016_927",
+      "name": "Yoshinori Ohsumi",
+      "work_location": "Tokyo, Japan",
+      "backup_coords": [
+        35.6762,
+        139.6503
+      ],
+      "new_coords": [
+        35.6768601,
+        139.7638947
+      ],
+      "distance_change": 0.11359661790786235
+    },
+    {
+      "laureate_id": "medicine_2017_938",
+      "name": "Jeffrey C. Hall",
+      "work_location": "Maine, ME, USA",
+      "backup_coords": [
+        40.7128,
+        -74.006
+      ],
+      "new_coords": [
+        46.8200431,
+        -67.9230792
+      ],
+      "distance_change": 8.619764714977444
+    },
+    {
+      "laureate_id": "medicine_2017_939",
+      "name": "Michael Rosbash",
+      "work_location": "Waltham, MA, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        42.3762385,
+        -71.2355644
+      ],
+      "distance_change": 82.88697862025994
+    },
+    {
+      "laureate_id": "medicine_2020_985",
+      "name": "Harvey Alter",
+      "work_location": "Bethesda, MD, USA",
+      "backup_coords": [
+        40.7128,
+        -74.006
+      ],
+      "new_coords": [
+        38.9812726,
+        -77.1233587
+      ],
+      "distance_change": 3.565965844118035
+    },
+    {
+      "laureate_id": "medicine_2020_986",
+      "name": "Michael Houghton",
+      "work_location": "Edmonton, Canada",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        53.5462055,
+        -113.491241
+      ],
+      "distance_change": 125.48887563114235
+    },
+    {
+      "laureate_id": "medicine_2021_998",
+      "name": "Ardem Patapoutian",
+      "work_location": "La Jolla, CA, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        32.8458529,
+        -117.2575702
+      ],
+      "distance_change": 121.77104673088905
+    },
+    {
+      "laureate_id": "medicine_2022_1011",
+      "name": "Svante Pääbo",
+      "work_location": "Leipzig, Germany",
+      "backup_coords": [
+        59.3293,
+        18.0686
+      ],
+      "new_coords": [
+        51.3406321,
+        12.3747329
+      ],
+      "distance_change": 9.810144615088651
+    },
+    {
+      "laureate_id": "medicine_2023_1024",
+      "name": "Katalin Karikó",
+      "work_location": "Szeged, Hungary",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        46.2546312,
+        20.1486016
+      ],
+      "distance_change": 50.45252277025933
+    },
+    {
+      "laureate_id": "medicine_2024_1035",
+      "name": "Victor Ambros",
+      "work_location": "Worcester, MA, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        42.2625621,
+        -71.8018877
+      ],
+      "distance_change": 83.31647635695936
+    },
+    {
+      "laureate_id": "medicine_2025_1049",
+      "name": "Shimon Sakaguchi",
+      "work_location": "Osaka, Japan",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        34.6937569,
+        135.5014539
+      ],
+      "distance_change": 139.87244466602462
+    },
+    {
+      "laureate_id": "peace_1907_472",
+      "name": "Louis Renault",
+      "work_location": "Paris, France",
+      "backup_coords": [
+        48.8566,
+        2.3522
+      ],
+      "new_coords": [
+        48.8588897,
+        2.320041
+      ],
+      "distance_change": 0.0322404095366358
+    },
+    {
+      "laureate_id": "peace_1950_511",
+      "name": "Ralph Bunche",
+      "work_location": "Cambridge, MA, USA",
+      "backup_coords": [
+        52.2053,
+        0.1218
+      ],
+      "new_coords": [
+        42.3656347,
+        -71.1040018
+      ],
+      "distance_change": 71.9022520876009
+    },
+    {
+      "laureate_id": "peace_2004_783",
+      "name": "Wangari Maathai",
+      "work_location": "Nairobi, Kenya",
+      "backup_coords": [
+        -1.3026148,
+        36.828842
+      ],
+      "new_coords": [
+        -1.2890006,
+        36.8172812
+      ],
+      "distance_change": 0.01786053017914408
+    },
+    {
+      "laureate_id": "physics_1917_22",
+      "name": "Charles Glover Barkla",
+      "work_location": "Edinburgh, United Kingdom",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        55.9533456,
+        -3.1883749
+      ],
+      "distance_change": 56.04411314612793
+    },
+    {
+      "laureate_id": "physics_1919_24",
+      "name": "Johannes Stark",
+      "work_location": "Greifswald, Germany",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        54.095791,
+        13.3815238
+      ],
+      "distance_change": 55.726293463011224
+    },
+    {
+      "laureate_id": "physics_1920_25",
+      "name": "Charles Edouard Guillaume",
+      "work_location": "Sèvres, France",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        48.8247407,
+        2.2127083
+      ],
+      "distance_change": 48.87485429587617
+    },
+    {
+      "laureate_id": "physics_1922_27",
+      "name": "Niels Bohr",
+      "work_location": "Copenhagen, Denmark",
+      "backup_coords": [
+        55.6761,
+        12.5683
+      ],
+      "new_coords": [
+        55.6867243,
+        12.5700724
+      ],
+      "distance_change": 0.01077112585805561
+    },
+    {
+      "laureate_id": "physics_1924_29",
+      "name": "Manne Siegbahn",
+      "work_location": "Uppsala, Sweden",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        59.8586126,
+        17.6387436
+      ],
+      "distance_change": 62.40335550419881
+    },
+    {
+      "laureate_id": "physics_1925_30",
+      "name": "James Franck",
+      "work_location": "Göttingen, Germany",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        51.5328328,
+        9.9351811
+      ],
+      "distance_change": 52.481812848667424
+    },
+    {
+      "laureate_id": "physics_1925_31",
+      "name": "Gustav Hertz",
+      "work_location": "Halle, Germany",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        51.4824354,
+        11.9712985
+      ],
+      "distance_change": 52.85596600660398
+    },
+    {
+      "laureate_id": "physics_1926_32",
+      "name": "Jean Baptiste Perrin",
+      "work_location": "Paris, France",
+      "backup_coords": [
+        48.8566,
+        2.3522
+      ],
+      "new_coords": [
+        48.8588897,
+        2.320041
+      ],
+      "distance_change": 0.0322404095366358
+    },
+    {
+      "laureate_id": "physics_1928_35",
+      "name": "Owen Willans Richardson",
+      "work_location": "London, United Kingdom",
+      "backup_coords": [
+        51.5074,
+        -0.1278
+      ],
+      "new_coords": [
+        51.4893335,
+        -0.1440551
+      ],
+      "distance_change": 0.024302812558629153
+    },
+    {
+      "laureate_id": "physics_1929_36",
+      "name": "Louis de Broglie",
+      "work_location": "Paris, France",
+      "backup_coords": [
+        48.8566,
+        2.3522
+      ],
+      "new_coords": [
+        48.8588897,
+        2.320041
+      ],
+      "distance_change": 0.0322404095366358
+    },
+    {
+      "laureate_id": "physics_1930_37",
+      "name": "Sir Chandrasekhara Venkata Raman",
+      "work_location": "Calcutta, India",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        22.5726459,
+        88.3638953
+      ],
+      "distance_change": 91.20143823162083
+    },
+    {
+      "laureate_id": "physics_1932_38",
+      "name": "Werner Heisenberg",
+      "work_location": "Leipzig, Germany",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        51.3406321,
+        12.3747329
+      ],
+      "distance_change": 52.81093181126322
+    },
+    {
+      "laureate_id": "physics_1935_41",
+      "name": "James Chadwick",
+      "work_location": "Liverpool, United Kingdom",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        53.4071991,
+        -2.99168
+      ],
+      "distance_change": 53.490925070795335
+    },
+    {
+      "laureate_id": "physics_1936_42",
+      "name": "Victor F. Hess",
+      "work_location": "Innsbruck, Austria",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        47.2654296,
+        11.3927685
+      ],
+      "distance_change": 48.61909099692371
+    },
+    {
+      "laureate_id": "physics_1937_45",
+      "name": "George Paget Thomson",
+      "work_location": "London, United Kingdom",
+      "backup_coords": [
+        51.5074,
+        -0.1278
+      ],
+      "new_coords": [
+        51.4893335,
+        -0.1440551
+      ],
+      "distance_change": 0.024302812558629153
+    },
+    {
+      "laureate_id": "physics_1938_46",
+      "name": "Enrico Fermi",
+      "work_location": "Rome, Italy",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        41.8933203,
+        12.4829321
+      ],
+      "distance_change": 43.713543434176124
+    },
+    {
+      "laureate_id": "physics_1943_48",
+      "name": "Otto Stern",
+      "work_location": "Pittsburgh, PA, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        40.4416941,
+        -79.9900861
+      ],
+      "distance_change": 89.63227374089864
+    },
+    {
+      "laureate_id": "physics_1946_51",
+      "name": "Percy W. Bridgman",
+      "work_location": "Cambridge, MA, USA",
+      "backup_coords": [
+        52.2053,
+        0.1218
+      ],
+      "new_coords": [
+        42.3656347,
+        -71.1040018
+      ],
+      "distance_change": 71.9022520876009
+    },
+    {
+      "laureate_id": "physics_1947_52",
+      "name": "Edward V. Appleton",
+      "work_location": "London, United Kingdom",
+      "backup_coords": [
+        51.5074,
+        -0.1278
+      ],
+      "new_coords": [
+        51.4893335,
+        -0.1440551
+      ],
+      "distance_change": 0.024302812558629153
+    },
+    {
+      "laureate_id": "physics_1948_53",
+      "name": "Patrick M.S. Blackett",
+      "work_location": "Manchester, United Kingdom",
+      "backup_coords": [
+        51.5074,
+        -0.1278
+      ],
+      "new_coords": [
+        53.4794892,
+        -2.2451148
+      ],
+      "distance_change": 2.8934681223500123
+    },
+    {
+      "laureate_id": "physics_1950_55",
+      "name": "Cecil Powell",
+      "work_location": "Bristol, United Kingdom",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        51.4538022,
+        -2.5972985
+      ],
+      "distance_change": 51.519314051478084
+    },
+    {
+      "laureate_id": "physics_1951_57",
+      "name": "Ernest T.S. Walton",
+      "work_location": "Dublin, Ireland",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        53.3493795,
+        -6.2605593
+      ],
+      "distance_change": 53.715462352881566
+    },
+    {
+      "laureate_id": "physics_1952_59",
+      "name": "E. M. Purcell",
+      "work_location": "Cambridge, MA, USA",
+      "backup_coords": [
+        52.2053,
+        0.1218
+      ],
+      "new_coords": [
+        42.3656347,
+        -71.1040018
+      ],
+      "distance_change": 71.9022520876009
+    },
+    {
+      "laureate_id": "physics_1953_60",
+      "name": "Frits Zernike",
+      "work_location": "Groningen, the Netherlands",
+      "backup_coords": [
+        52.3676,
+        4.9041
+      ],
+      "new_coords": [
+        53.2190652,
+        6.5680077
+      ],
+      "distance_change": 1.8691125757776952
+    },
+    {
+      "laureate_id": "physics_1954_61",
+      "name": "Max Born",
+      "work_location": "Edinburgh, United Kingdom",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        55.9533456,
+        -3.1883749
+      ],
+      "distance_change": 56.04411314612793
+    },
+    {
+      "laureate_id": "physics_1954_62",
+      "name": "Walther Bothe",
+      "work_location": "Heidelberg, Germany",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        49.4093582,
+        8.694724
+      ],
+      "distance_change": 50.16854495769319
+    },
+    {
+      "laureate_id": "physics_1956_65",
+      "name": "William B. Shockley",
+      "work_location": "Mountain View, CA, USA",
+      "backup_coords": [
+        51.5074,
+        -0.1278
+      ],
+      "new_coords": [
+        37.3893889,
+        -122.0832101
+      ],
+      "distance_change": 122.7698671909313
+    },
+    {
+      "laureate_id": "physics_1956_66",
+      "name": "John Bardeen",
+      "work_location": "Urbana, IL, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        40.1117174,
+        -88.207301
+      ],
+      "distance_change": 96.89931796706344
+    },
+    {
+      "laureate_id": "physics_1956_67",
+      "name": "Walter H. Brattain",
+      "work_location": "Murray Hill, NJ, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        40.6953793,
+        -74.4009849
+      ],
+      "distance_change": 84.80342239827881
+    },
+    {
+      "laureate_id": "physics_1963_79",
+      "name": "Maria Goeppert Mayer",
+      "work_location": "San Diego, CA, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        32.7174202,
+        -117.162772
+      ],
+      "distance_change": 121.64515907863886
+    },
+    {
+      "laureate_id": "physics_1963_80",
+      "name": "J. Hans D. Jensen",
+      "work_location": "Heidelberg, Germany",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        49.4093582,
+        8.694724
+      ],
+      "distance_change": 50.16854495769319
+    },
+    {
+      "laureate_id": "physics_1964_81",
+      "name": "Charles H. Townes",
+      "work_location": "Cambridge, MA, USA",
+      "backup_coords": [
+        52.2053,
+        0.1218
+      ],
+      "new_coords": [
+        42.3656347,
+        -71.1040018
+      ],
+      "distance_change": 71.9022520876009
+    },
+    {
+      "laureate_id": "physics_1965_84",
+      "name": "Sin-Itiro Tomonaga",
+      "work_location": "Tokyo, Japan",
+      "backup_coords": [
+        35.6762,
+        139.6503
+      ],
+      "new_coords": [
+        35.6768601,
+        139.7638947
+      ],
+      "distance_change": 0.11359661790786235
+    },
+    {
+      "laureate_id": "physics_1965_85",
+      "name": "Julian Schwinger",
+      "work_location": "Cambridge, MA, USA",
+      "backup_coords": [
+        52.2053,
+        0.1218
+      ],
+      "new_coords": [
+        42.3656347,
+        -71.1040018
+      ],
+      "distance_change": 71.9022520876009
+    },
+    {
+      "laureate_id": "physics_1966_87",
+      "name": "Alfred Kastler",
+      "work_location": "Paris, France",
+      "backup_coords": [
+        48.8566,
+        2.3522
+      ],
+      "new_coords": [
+        48.8588897,
+        2.320041
+      ],
+      "distance_change": 0.0322404095366358
+    },
+    {
+      "laureate_id": "physics_1967_88",
+      "name": "Hans Bethe",
+      "work_location": "Ithaca, NY, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        42.4374175,
+        -76.5483724
+      ],
+      "distance_change": 87.52478346821768
+    },
+    {
+      "laureate_id": "physics_1970_92",
+      "name": "Louis Néel",
+      "work_location": "Grenoble, France",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        45.1875602,
+        5.7357819
+      ],
+      "distance_change": 45.55013491563984
+    },
+    {
+      "laureate_id": "physics_1971_93",
+      "name": "Dennis Gabor",
+      "work_location": "London, United Kingdom",
+      "backup_coords": [
+        51.5074,
+        -0.1278
+      ],
+      "new_coords": [
+        51.4893335,
+        -0.1440551
+      ],
+      "distance_change": 0.024302812558629153
+    },
+    {
+      "laureate_id": "physics_1972_66",
+      "name": "John Bardeen",
+      "work_location": "Urbana, IL, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        40.1117174,
+        -88.207301
+      ],
+      "distance_change": 96.89931796706344
+    },
+    {
+      "laureate_id": "physics_1972_95",
+      "name": "Leon N. Cooper",
+      "work_location": "Providence, RI, USA",
+      "backup_coords": [
+        40.7128,
+        -74.006
+      ],
+      "new_coords": [
+        41.8239891,
+        -71.4128343
+      ],
+      "distance_change": 2.8212142002363616
+    },
+    {
+      "laureate_id": "physics_1973_97",
+      "name": "Leo Esaki",
+      "work_location": "Yorktown Heights, NY, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        41.270178,
+        -73.7753539
+      ],
+      "distance_change": 84.53419683904218
+    },
+    {
+      "laureate_id": "physics_1973_98",
+      "name": "Ivar Giaever",
+      "work_location": "Schenectady, NY, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        42.8142432,
+        -73.9395687
+      ],
+      "distance_change": 85.44073525158105
+    },
+    {
+      "laureate_id": "physics_1975_102",
+      "name": "Aage N. Bohr",
+      "work_location": "Copenhagen, Denmark",
+      "backup_coords": [
+        55.6761,
+        12.5683
+      ],
+      "new_coords": [
+        55.6867243,
+        12.5700724
+      ],
+      "distance_change": 0.01077112585805561
+    },
+    {
+      "laureate_id": "physics_1975_103",
+      "name": "Ben R. Mottelson",
+      "work_location": "Copenhagen, Denmark",
+      "backup_coords": [
+        55.6761,
+        12.5683
+      ],
+      "new_coords": [
+        55.6867243,
+        12.5700724
+      ],
+      "distance_change": 0.01077112585805561
+    },
+    {
+      "laureate_id": "physics_1976_106",
+      "name": "Samuel C.C. Ting",
+      "work_location": "Cambridge, MA, USA",
+      "backup_coords": [
+        52.2053,
+        0.1218
+      ],
+      "new_coords": [
+        42.3656347,
+        -71.1040018
+      ],
+      "distance_change": 71.9022520876009
+    },
+    {
+      "laureate_id": "physics_1977_107",
+      "name": "Philip W. Anderson",
+      "work_location": "Murray Hill, NJ, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        40.6953793,
+        -74.4009849
+      ],
+      "distance_change": 84.80342239827881
+    },
+    {
+      "laureate_id": "physics_1977_109",
+      "name": "John H. Van Vleck",
+      "work_location": "Cambridge, MA, USA",
+      "backup_coords": [
+        52.2053,
+        0.1218
+      ],
+      "new_coords": [
+        42.3656347,
+        -71.1040018
+      ],
+      "distance_change": 71.9022520876009
+    },
+    {
+      "laureate_id": "physics_1978_111",
+      "name": "Arno Penzias",
+      "work_location": "Holmdel, NJ, USA",
+      "backup_coords": [
+        48.1351,
+        11.582
+      ],
+      "new_coords": [
+        40.3451095,
+        -74.1840322
+      ],
+      "distance_change": 86.11908169111842
+    },
+    {
+      "laureate_id": "physics_1978_112",
+      "name": "Robert Woodrow Wilson",
+      "work_location": "Holmdel, NJ, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        40.3451095,
+        -74.1840322
+      ],
+      "distance_change": 84.44523961726692
+    },
+    {
+      "laureate_id": "physics_1979_113",
+      "name": "Sheldon Glashow",
+      "work_location": "Cambridge, MA, USA",
+      "backup_coords": [
+        52.2053,
+        0.1218
+      ],
+      "new_coords": [
+        42.3656347,
+        -71.1040018
+      ],
+      "distance_change": 71.9022520876009
+    },
+    {
+      "laureate_id": "physics_1979_114",
+      "name": "Abdus Salam",
+      "work_location": "Trieste, Italy",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        45.6496485,
+        13.7772781
+      ],
+      "distance_change": 47.68337026698398
+    },
+    {
+      "laureate_id": "physics_1979_115",
+      "name": "Steven Weinberg",
+      "work_location": "Cambridge, MA, USA",
+      "backup_coords": [
+        52.2053,
+        0.1218
+      ],
+      "new_coords": [
+        42.3656347,
+        -71.1040018
+      ],
+      "distance_change": 71.9022520876009
+    },
+    {
+      "laureate_id": "physics_1981_118",
+      "name": "Nicolaas Bloembergen",
+      "work_location": "Cambridge, MA, USA",
+      "backup_coords": [
+        52.2053,
+        0.1218
+      ],
+      "new_coords": [
+        42.3656347,
+        -71.1040018
+      ],
+      "distance_change": 71.9022520876009
+    },
+    {
+      "laureate_id": "physics_1981_120",
+      "name": "Kai M. Siegbahn",
+      "work_location": "Uppsala, Sweden",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        59.8586126,
+        17.6387436
+      ],
+      "distance_change": 62.40335550419881
+    },
+    {
+      "laureate_id": "physics_1982_121",
+      "name": "Kenneth G. Wilson",
+      "work_location": "Ithaca, NY, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        42.4374175,
+        -76.5483724
+      ],
+      "distance_change": 87.52478346821768
+    },
+    {
+      "laureate_id": "physics_1985_126",
+      "name": "Klaus von Klitzing",
+      "work_location": "Stuttgart, Germany",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        48.7784485,
+        9.1800132
+      ],
+      "distance_change": 49.63476282223304
+    },
+    {
+      "laureate_id": "physics_1986_128",
+      "name": "Gerd Binnig",
+      "work_location": "Rüschlikon, Switzerland",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        47.307465,
+        8.5546421
+      ],
+      "distance_change": 48.07471420804618
+    },
+    {
+      "laureate_id": "physics_1986_129",
+      "name": "Heinrich Rohrer",
+      "work_location": "Rüschlikon, Switzerland",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        47.307465,
+        8.5546421
+      ],
+      "distance_change": 48.07471420804618
+    },
+    {
+      "laureate_id": "physics_1987_130",
+      "name": "J. Georg Bednorz",
+      "work_location": "Rüschlikon, Switzerland",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        47.307465,
+        8.5546421
+      ],
+      "distance_change": 48.07471420804618
+    },
+    {
+      "laureate_id": "physics_1987_131",
+      "name": "K. Alex Müller",
+      "work_location": "Rüschlikon, Switzerland",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        47.307465,
+        8.5546421
+      ],
+      "distance_change": 48.07471420804618
+    },
+    {
+      "laureate_id": "physics_1988_132",
+      "name": "Leon M. Lederman",
+      "work_location": "Batavia, IL, USA",
+      "backup_coords": [
+        40.7128,
+        -74.006
+      ],
+      "new_coords": [
+        41.8500284,
+        -88.3125738
+      ],
+      "distance_change": 14.351701722395601
+    },
+    {
+      "laureate_id": "physics_1988_133",
+      "name": "Melvin Schwartz",
+      "work_location": "Mountain View, CA, USA",
+      "backup_coords": [
+        40.7128,
+        -74.006
+      ],
+      "new_coords": [
+        37.3893889,
+        -122.0832101
+      ],
+      "distance_change": 48.1919411555412
+    },
+    {
+      "laureate_id": "physics_1989_135",
+      "name": "Norman F. Ramsey",
+      "work_location": "Cambridge, MA, USA",
+      "backup_coords": [
+        52.2053,
+        0.1218
+      ],
+      "new_coords": [
+        42.3656347,
+        -71.1040018
+      ],
+      "distance_change": 71.9022520876009
+    },
+    {
+      "laureate_id": "physics_1989_137",
+      "name": "Wolfgang Paul",
+      "work_location": "Bonn, Germany",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        50.7352621,
+        7.1024635
+      ],
+      "distance_change": 51.229989343396596
+    },
+    {
+      "laureate_id": "physics_1990_138",
+      "name": "Jerome I. Friedman",
+      "work_location": "Cambridge, MA, USA",
+      "backup_coords": [
+        52.2053,
+        0.1218
+      ],
+      "new_coords": [
+        42.3656347,
+        -71.1040018
+      ],
+      "distance_change": 71.9022520876009
+    },
+    {
+      "laureate_id": "physics_1990_139",
+      "name": "Henry W. Kendall",
+      "work_location": "Cambridge, MA, USA",
+      "backup_coords": [
+        52.2053,
+        0.1218
+      ],
+      "new_coords": [
+        42.3656347,
+        -71.1040018
+      ],
+      "distance_change": 71.9022520876009
+    },
+    {
+      "laureate_id": "physics_1991_141",
+      "name": "Pierre-Gilles de Gennes",
+      "work_location": "Paris, France",
+      "backup_coords": [
+        48.8566,
+        2.3522
+      ],
+      "new_coords": [
+        48.8588897,
+        2.320041
+      ],
+      "distance_change": 0.0322404095366358
+    },
+    {
+      "laureate_id": "physics_1992_142",
+      "name": "Georges Charpak",
+      "work_location": "Paris, France",
+      "backup_coords": [
+        48.8566,
+        2.3522
+      ],
+      "new_coords": [
+        48.8588897,
+        2.320041
+      ],
+      "distance_change": 0.0322404095366358
+    },
+    {
+      "laureate_id": "physics_1994_145",
+      "name": "Bertram N. Brockhouse",
+      "work_location": "Hamilton, Ontario, Canada",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        43.2560802,
+        -79.8728583
+      ],
+      "distance_change": 90.83370501791012
+    },
+    {
+      "laureate_id": "physics_1994_146",
+      "name": "Clifford G. Shull",
+      "work_location": "Cambridge, MA, USA",
+      "backup_coords": [
+        52.2053,
+        0.1218
+      ],
+      "new_coords": [
+        42.3656347,
+        -71.1040018
+      ],
+      "distance_change": 71.9022520876009
+    },
+    {
+      "laureate_id": "physics_1995_148",
+      "name": "Frederick Reines",
+      "work_location": "Irvine, CA, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        33.6856969,
+        -117.825981
+      ],
+      "distance_change": 122.54667671647009
+    },
+    {
+      "laureate_id": "physics_1996_149",
+      "name": "David M. Lee",
+      "work_location": "Ithaca, NY, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        42.4374175,
+        -76.5483724
+      ],
+      "distance_change": 87.52478346821768
+    },
+    {
+      "laureate_id": "physics_1996_151",
+      "name": "Robert C. Richardson",
+      "work_location": "Ithaca, NY, USA",
+      "backup_coords": [
+        38.9072,
+        -77.0369
+      ],
+      "new_coords": [
+        42.4374175,
+        -76.5483724
+      ],
+      "distance_change": 3.5638595389364047
+    },
+    {
+      "laureate_id": "physics_1997_153",
+      "name": "Claude Cohen-Tannoudji",
+      "work_location": "Paris, France",
+      "backup_coords": [
+        48.8566,
+        2.3522
+      ],
+      "new_coords": [
+        48.8588897,
+        2.320041
+      ],
+      "distance_change": 0.0322404095366358
+    },
+    {
+      "laureate_id": "physics_1997_154",
+      "name": "William D. Phillips",
+      "work_location": "Gaithersburg, MD, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        39.1399187,
+        -77.1929215
+      ],
+      "distance_change": 86.54871671808758
+    },
+    {
+      "laureate_id": "physics_1999_158",
+      "name": "Gerardus 't Hooft",
+      "work_location": "Utrecht, the Netherlands",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        52.0907006,
+        5.1215634
+      ],
+      "distance_change": 52.34187139049443
+    },
+    {
+      "laureate_id": "physics_2000_726",
+      "name": "Zhores Alferov",
+      "work_location": "St. Petersburg, Russia",
+      "backup_coords": [
+        59.9311,
+        30.3609
+      ],
+      "new_coords": [
+        59.938732,
+        30.316229
+      ],
+      "distance_change": 0.04531827076356848
+    },
+    {
+      "laureate_id": "physics_2000_727",
+      "name": "Herbert Kroemer",
+      "work_location": "Santa Barbara, CA, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        34.4221319,
+        -119.702667
+      ],
+      "distance_change": 124.55364969142369
+    },
+    {
+      "laureate_id": "physics_2000_728",
+      "name": "Jack Kilby",
+      "work_location": "Dallas, TX, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        32.7762719,
+        -96.7968559
+      ],
+      "distance_change": 102.19547598493827
+    },
+    {
+      "laureate_id": "physics_2001_738",
+      "name": "Eric Cornell",
+      "work_location": "Boulder, CO, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        40.0149856,
+        -105.270545
+      ],
+      "distance_change": 112.61921113720001
+    },
+    {
+      "laureate_id": "physics_2001_739",
+      "name": "Wolfgang Ketterle",
+      "work_location": "Cambridge, MA, USA",
+      "backup_coords": [
+        52.2053,
+        0.1218
+      ],
+      "new_coords": [
+        42.3656347,
+        -71.1040018
+      ],
+      "distance_change": 71.9022520876009
+    },
+    {
+      "laureate_id": "physics_2001_740",
+      "name": "Carl Wieman",
+      "work_location": "Boulder, CO, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        40.0149856,
+        -105.270545
+      ],
+      "distance_change": 112.61921113720001
+    },
+    {
+      "laureate_id": "physics_2002_754",
+      "name": "Masatoshi Koshiba",
+      "work_location": "Tokyo, Japan",
+      "backup_coords": [
+        35.6762,
+        139.6503
+      ],
+      "new_coords": [
+        35.6768601,
+        139.7638947
+      ],
+      "distance_change": 0.11359661790786235
+    },
+    {
+      "laureate_id": "physics_2002_755",
+      "name": "Riccardo Giacconi",
+      "work_location": "Washington, D.C., USA",
+      "backup_coords": [
+        38.9072,
+        -77.0369
+      ],
+      "new_coords": [
+        38.8950368,
+        -77.0365427
+      ],
+      "distance_change": 0.012168446800232364
+    },
+    {
+      "laureate_id": "physics_2003_766",
+      "name": "Alexei Abrikosov",
+      "work_location": "Argonne, IL, USA",
+      "backup_coords": [
+        55.7558,
+        37.6173
+      ],
+      "new_coords": [
+        39.7726281,
+        -89.701801
+      ],
+      "distance_change": 128.31841357900726
+    },
+    {
+      "laureate_id": "physics_2003_767",
+      "name": "Vitaly L. Ginzburg",
+      "work_location": "Moscow, Russia",
+      "backup_coords": [
+        55.7558,
+        37.6173
+      ],
+      "new_coords": [
+        55.625578,
+        37.6063916
+      ],
+      "distance_change": 0.1306780872011863
+    },
+    {
+      "laureate_id": "physics_2003_768",
+      "name": "Anthony J. Leggett",
+      "work_location": "Urbana, IL, USA",
+      "backup_coords": [
+        51.5074,
+        -0.1278
+      ],
+      "new_coords": [
+        40.1117174,
+        -88.207301
+      ],
+      "distance_change": 88.81362552181362
+    },
+    {
+      "laureate_id": "physics_2004_776",
+      "name": "David J. Gross",
+      "work_location": "Santa Barbara, CA, USA",
+      "backup_coords": [
+        38.9072,
+        -77.0369
+      ],
+      "new_coords": [
+        34.4221319,
+        -119.702667
+      ],
+      "distance_change": 42.90085674622276
+    },
+    {
+      "laureate_id": "physics_2004_778",
+      "name": "Frank Wilczek",
+      "work_location": "Cambridge, MA, USA",
+      "backup_coords": [
+        52.2053,
+        0.1218
+      ],
+      "new_coords": [
+        42.3656347,
+        -71.1040018
+      ],
+      "distance_change": 71.9022520876009
+    },
+    {
+      "laureate_id": "physics_2005_791",
+      "name": "Roy J. Glauber",
+      "work_location": "Cambridge, MA, USA",
+      "backup_coords": [
+        52.2053,
+        0.1218
+      ],
+      "new_coords": [
+        42.3656347,
+        -71.1040018
+      ],
+      "distance_change": 71.9022520876009
+    },
+    {
+      "laureate_id": "physics_2005_792",
+      "name": "John L. Hall",
+      "work_location": "Boulder, CO, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        40.0149856,
+        -105.270545
+      ],
+      "distance_change": 112.61921113720001
+    },
+    {
+      "laureate_id": "physics_2005_793",
+      "name": "Theodor W. Hänsch",
+      "work_location": "Garching, Germany",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        48.2513878,
+        11.6509662
+      ],
+      "distance_change": 49.63810469809994
+    },
+    {
+      "laureate_id": "physics_2006_804",
+      "name": "John C. Mather",
+      "work_location": "Greenbelt, MD, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        39.004607,
+        -76.8756838
+      ],
+      "distance_change": 86.20458298108072
+    },
+    {
+      "laureate_id": "physics_2007_814",
+      "name": "Albert Fert",
+      "work_location": "Orsay, France",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        48.699184,
+        2.187457
+      ],
+      "distance_change": 48.74828705085652
+    },
+    {
+      "laureate_id": "physics_2007_815",
+      "name": "Peter Grünberg",
+      "work_location": "Jülich, Germany",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        50.9220931,
+        6.3611015
+      ],
+      "distance_change": 51.31786412136002
+    },
+    {
+      "laureate_id": "physics_2008_827",
+      "name": "Makoto Kobayashi",
+      "work_location": "Tsukuba, Japan",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        36.0833265,
+        140.077279
+      ],
+      "distance_change": 144.65009693515398
+    },
+    {
+      "laureate_id": "physics_2009_838",
+      "name": "Charles K. Kao",
+      "work_location": "Harlow, United Kingdom",
+      "backup_coords": [
+        31.2304,
+        121.4737
+      ],
+      "new_coords": [
+        51.7685568,
+        0.0949036
+      ],
+      "distance_change": 123.10413518746655
+    },
+    {
+      "laureate_id": "physics_2009_839",
+      "name": "Willard S. Boyle",
+      "work_location": "Murray Hill, NJ, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        40.6953793,
+        -74.4009849
+      ],
+      "distance_change": 84.80342239827881
+    },
+    {
+      "laureate_id": "physics_2009_840",
+      "name": "George E. Smith",
+      "work_location": "Murray Hill, NJ, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        40.6953793,
+        -74.4009849
+      ],
+      "distance_change": 84.80342239827881
+    },
+    {
+      "laureate_id": "physics_2010_849",
+      "name": "Andre Geim",
+      "work_location": "Manchester, United Kingdom",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        53.4794892,
+        -2.2451148
+      ],
+      "distance_change": 53.526594376609616
+    },
+    {
+      "laureate_id": "physics_2010_850",
+      "name": "Konstantin Novoselov",
+      "work_location": "Manchester, United Kingdom",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        53.4794892,
+        -2.2451148
+      ],
+      "distance_change": 53.526594376609616
+    },
+    {
+      "laureate_id": "physics_2011_865",
+      "name": "Brian P. Schmidt",
+      "work_location": "Weston Creek, Australia",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        -35.343397,
+        149.0477964
+      ],
+      "distance_change": 153.1809430810356
+    },
+    {
+      "laureate_id": "physics_2012_876",
+      "name": "Serge Haroche",
+      "work_location": "Paris, France",
+      "backup_coords": [
+        48.8566,
+        2.3522
+      ],
+      "new_coords": [
+        48.8588897,
+        2.320041
+      ],
+      "distance_change": 0.0322404095366358
+    },
+    {
+      "laureate_id": "physics_2012_877",
+      "name": "David J. Wineland",
+      "work_location": "Boulder, CO, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        40.0149856,
+        -105.270545
+      ],
+      "distance_change": 112.61921113720001
+    },
+    {
+      "laureate_id": "physics_2013_888",
+      "name": "Peter Higgs",
+      "work_location": "Edinburgh, United Kingdom",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        55.9533456,
+        -3.1883749
+      ],
+      "distance_change": 56.04411314612793
+    },
+    {
+      "laureate_id": "physics_2014_906",
+      "name": "Isamu Akasaki",
+      "work_location": "Nagoya, Japan",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        35.1851045,
+        136.8998438
+      ],
+      "distance_change": 141.34906724538484
+    },
+    {
+      "laureate_id": "physics_2014_907",
+      "name": "Hiroshi Amano",
+      "work_location": "Nagoya, Japan",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        35.1851045,
+        136.8998438
+      ],
+      "distance_change": 141.34906724538484
+    },
+    {
+      "laureate_id": "physics_2014_908",
+      "name": "Shuji Nakamura",
+      "work_location": "Santa Barbara, CA, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        34.4221319,
+        -119.702667
+      ],
+      "distance_change": 124.55364969142369
+    },
+    {
+      "laureate_id": "physics_2015_919",
+      "name": "Takaaki Kajita",
+      "work_location": "Kashiwa, Japan",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        35.8676218,
+        139.9756876
+      ],
+      "distance_change": 144.49802563592564
+    },
+    {
+      "laureate_id": "physics_2015_920",
+      "name": "Arthur B. McDonald",
+      "work_location": "Kingston, Canada",
+      "backup_coords": [
+        -33.8688,
+        151.2093
+      ],
+      "new_coords": [
+        44.3054151,
+        -76.4283781
+      ],
+      "distance_change": 240.68676822222758
+    },
+    {
+      "laureate_id": "physics_2016_930",
+      "name": "J. Michael Kosterlitz",
+      "work_location": "Providence, RI, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        41.8239891,
+        -71.4128343
+      ],
+      "distance_change": 82.75892076988544
+    },
+    {
+      "laureate_id": "physics_2018_960",
+      "name": "Arthur Ashkin",
+      "work_location": "Holmdel, NJ, USA",
+      "backup_coords": [
+        40.7128,
+        -74.006
+      ],
+      "new_coords": [
+        40.3451095,
+        -74.1840322
+      ],
+      "distance_change": 0.4085238891755204
+    },
+    {
+      "laureate_id": "physics_2018_961",
+      "name": "Gérard Mourou",
+      "work_location": "Palaiseau, France",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        48.7144587,
+        2.2453842
+      ],
+      "distance_change": 48.76617922945795
+    },
+    {
+      "laureate_id": "physics_2018_962",
+      "name": "Donna Strickland",
+      "work_location": "Waterloo, Canada",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        43.4652699,
+        -80.5222961
+      ],
+      "distance_change": 91.50447998156113
+    },
+    {
+      "laureate_id": "physics_2020_989",
+      "name": "Reinhard Genzel",
+      "work_location": "Garching, Germany",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        48.2513878,
+        11.6509662
+      ],
+      "distance_change": 49.63810469809994
+    },
+    {
+      "laureate_id": "physics_2021_1000",
+      "name": "Klaus Hasselmann",
+      "work_location": "Hamburg, Germany",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        53.550341,
+        10.000654
+      ],
+      "distance_change": 54.476160856323176
+    },
+    {
+      "laureate_id": "physics_2021_1001",
+      "name": "Giorgio Parisi",
+      "work_location": "Rome, Italy",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        41.8933203,
+        12.4829321
+      ],
+      "distance_change": 43.713543434176124
+    },
+    {
+      "laureate_id": "physics_2022_1012",
+      "name": "Alain Aspect",
+      "work_location": "Paris, France",
+      "backup_coords": [
+        48.8566,
+        2.3522
+      ],
+      "new_coords": [
+        48.8588897,
+        2.320041
+      ],
+      "distance_change": 0.0322404095366358
+    },
+    {
+      "laureate_id": "physics_2022_1013",
+      "name": "John  Clauser",
+      "work_location": "Walnut Creek, CA, USA",
+      "backup_coords": [
+        34.1478,
+        -118.1445
+      ],
+      "new_coords": [
+        37.9020731,
+        -122.0618702
+      ],
+      "distance_change": 5.425896773182453
+    },
+    {
+      "laureate_id": "physics_2023_1026",
+      "name": "Pierre Agostini",
+      "work_location": "Columbus, OH, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        39.9622601,
+        -83.0007065
+      ],
+      "distance_change": 92.12002774532363
+    },
+    {
+      "laureate_id": "physics_2023_1027",
+      "name": "Ferenc Krausz",
+      "work_location": "Garching, Germany",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        48.2513878,
+        11.6509662
+      ],
+      "distance_change": 49.63810469809994
+    },
+    {
+      "laureate_id": "physics_2023_1028",
+      "name": "Anne L’Huillier",
+      "work_location": "Lund, Sweden",
+      "backup_coords": [
+        48.8566,
+        2.3522
+      ],
+      "new_coords": [
+        55.7029296,
+        13.1929449
+      ],
+      "distance_change": 12.821621542484872
+    },
+    {
+      "laureate_id": "physics_2025_1051",
+      "name": "Michel H. Devoret",
+      "work_location": "New Haven, CT, USA",
+      "backup_coords": [
+        48.8566,
+        2.3522
+      ],
+      "new_coords": [
+        41.3082138,
+        -72.9250518
+      ],
+      "distance_change": 75.65476041059779
+    },
+    {
+      "laureate_id": "physics_2025_1052",
+      "name": "John M. Martinis",
+      "work_location": "Santa Barbara, CA, USA",
+      "backup_coords": [
+        0,
+        0
+      ],
+      "new_coords": [
+        34.4221319,
+        -119.702667
+      ],
+      "distance_change": 124.55364969142369
+    }
+  ],
+  "other_changes": []
+}
